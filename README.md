@@ -9,4 +9,9 @@ The motivation behind this is to get back to some problem solving aspect of CS a
 
 ## Environment
 
-Chrome/Nodejs (depending on time taken, easy problems on browser)
+Chrome/Nodejs (depending on time taken, easy-small problems on browser)
+
+## Problem Organisation
+
+Starting with two params - difficulty and most attempted problems. And subsequently increasing difficulty.
+Problems are organised in respective difficulty Folder -easy, medium, hard (As tagged on leetcode.com)
