@@ -6,32 +6,22 @@
  * }
  */
 /**
- * @param {TreeNode} t1
- * @param {TreeNode} t2
- * @return {TreeNode}
+ * @param {TreeNode} root1
+ * @param {TreeNode} root2
+ * @return {boolean}
  */
+var leafSimilar = function(root1, root2) {
+	function getLeafArray(tree) {
+		if (!tree) {
+			return [];
+		}
 
-var mergeTrees = function(t1, t2) {
-	if (!t1 && !t2) {
-		return [];
+		if (!tree.left && !tree.right) {
+			return [tree.val];
+		}
+
+		return [...getLeafArray(tree.left), ...getLeafArray(tree.right)];
 	}
 
-	return mergeSubTrees(t1, t2);
-};
-
-var mergeSubTrees = function(t1, t2) {
-	if (!t1 && !t2) {
-		return null;
-	}
-	if (!t1) {
-		return t2;
-	}
-	if (!t2) {
-		return t1;
-	}
-
-	let result = new TreeNode(t1.val + t2.val);
-	result.left = mergeSubTrees(t1.left, t2.left);
-	result.right = mergeSubTrees(t1.right, t2.right);
-	return result;
+	return getLeafArray(root1).toString() === getLeafArray(root2).toString();
 };
