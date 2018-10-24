@@ -14,4 +14,5 @@ Chrome/Nodejs (depending on time taken, easy-small problems on browser)
 ## Problem Organisation
 
 Starting with two params - difficulty and most attempted problems. And subsequently increasing difficulty.
-Problems are organised in respective difficulty Folder -easy, medium, hard (As tagged on leetcode.com)
+Problems are organised in respective difficulty Folder -easy, medium, hard (As tagged on leetcode.com).
+There is also a seperate section as another solution for individual problems for solutions that are different/better/optimised/ideal.
