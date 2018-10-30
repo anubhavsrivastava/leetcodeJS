@@ -31,5 +31,3 @@ minStack.getMin(); --> Returns -2.
 ## Pre analysis
 
 Will use internal array functions
-
-## Another solution
