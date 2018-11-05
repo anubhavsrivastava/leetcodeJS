@@ -38,11 +38,12 @@ module.exports = {
 					// console.log(problemData);
 				});
 			} else {
-				result = await page.waitFor('.content-wrapper').then(async () => {
+				result = await page.waitFor('.difficulty-label').then(async () => {
 					console.log('Main content loaded. Evaluating...');
 					let problemData = await page.evaluate(
 						async ({ UrlObj }) => {
 							let result = {};
+							debugger;
 							result.difficulty = document.querySelectorAll('.difficulty-label')[0].innerText;
 							result.completeProblemName = document.querySelectorAll('.question-title .row h3')[0].innerText;
 							// problemName: "872. Leaf-Similar Trees"
