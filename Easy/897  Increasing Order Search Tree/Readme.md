@@ -42,3 +42,19 @@ Each node will have a unique integer value from 0 to 1000.
 ## Pre analysis
 
 Will do in-order traverse and convert it into array and resultant in tree again
+
+## Another Solution
+
+Concise version without additional space
+
+    var increasingBST = function(root) {
+      return dfs(root);
+    };
+
+    function dfs(node, parent) {
+      if (!node) return parent;
+      let result = dfs(node.left, node);
+      node.right = dfs(node.right, parent);
+      node.left = null;
+      return result;
+    }
