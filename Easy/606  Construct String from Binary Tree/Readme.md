@@ -38,3 +38,49 @@ except we can't omit the first parenthesis pair to break the one-to-one mapping 
 ## Pre analysis
 
 Will do a recursive tree walk (preorder)
+
+## Another Solution
+
+Iterative Approach
+
+     var tree2str = function(t) {
+     // console.log(t)
+
+     if (!t || !t.val === null)
+          return ""
+
+     let stack = []
+     stack.push(t)
+
+     let visited = new Set()
+
+     let output = ""
+
+     while (stack.length > 0) {
+          const c = stack.slice(-1)[0]
+
+          if (visited.has(c)) {
+               stack.pop()
+               output += ')'
+          } else {
+               output += `(${c.val}`
+               visited.add(c)
+
+               if (c.left === null && c.right !== null) {
+                    output += `()`
+               }
+
+               if (c.right) {
+                    stack.push(c.right)
+               }
+
+               if (c.left) {
+                    stack.push(c.left)
+               }
+          }
+
+     }
+
+     return output.slice(1, -1)
+
+     };
