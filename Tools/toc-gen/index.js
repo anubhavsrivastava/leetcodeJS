@@ -1,32 +1,30 @@
-const { rootPath } = require('./package.json');
-const { lstatSync, readdirSync, stat, mkdirSync, writeFileSync, readFileSync } = require('fs');
+const { writeFileSync } = require('fs');
 const { join, resolve } = require('path');
-const excludedDir = ['Tools'];
+const { rootPath } = require('./package.json');
+const problemsStruct = require('./dirReader');
 const problemDirectory = resolve(__dirname, rootPath);
-const isDirectory = source => lstatSync(source).isDirectory();
-const getProblemDirectories = source =>
-	readdirSync(source)
-		.filter(name => name[0] !== '.')
-		.filter(name => !excludedDir.includes(name))
-		.filter(name => isDirectory(join(source, name)))
-		.map(name => ({ name, dir: join(source, name) }));
 
-const problemDirs = getProblemDirectories(problemDirectory);
+const problemTableFile = resolve(problemDirectory, 'Problems.md');
 
-let allProblems = [];
-problemDirs.forEach(source => {
-	allProblems = allProblems.concat(
-		readdirSync(source.dir)
-			.filter(name => name[0] !== '.')
-			.filter(name => isDirectory(join(source.dir, name)))
-			.map(name => ({ name, difficulty: source.name, dir: join(source.dir, name) }))
-	);
+let header = '## Problems Solved \n\n';
+
+let tableHeader = `| # | Problem Name | Difficulty | Solution |
+| ---- | ------------ | ---------- | ----------- |  \n`;
+
+let ptableBody = ``;
+
+problemsStruct.sort((a, b) => {
+	return +a.problemNumber - +b.problemNumber;
+});
+problemsStruct.forEach(p => {
+	ptableBody += `| ${p.problemNumber} |  <a href="${p.difficulty + '/' + p.name + '/' + 'Readme.md'}">${p.problemTitle}</a>| ${p.difficulty} | Solution | \n`;
 });
 
-allProblems = allProblems.map(t => {
-	let problemNumber = t.name.split(' ')[0];
-	let problemTitle = t.name.substr(t.name.indexOf(' ')).trim();
-	return Object.assign({}, t, { problemNumber, problemTitle });
-});
+// | prop               | type            | description                                 | default value |
+// | ------------------ | --------------- | ------------------------------------------- | ------------- |
+// | children (default) | --              | Inner children for selfFocus Component      | `null`        |
+// | tag                | htmlTag(String) | Component/Node to be rendered for focussing | `div`         |
+// | className          | string          | additional Classname for particular div     | `<empty>`     |
+// | tabIndex           | string/number   | tabbable order - 0/-1                       | `0`           |
 
-console.log(allProblems);
+writeFileSync(problemTableFile, `${header}${tableHeader}${ptableBody}`);
