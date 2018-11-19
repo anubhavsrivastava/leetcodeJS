@@ -1,0 +1,11 @@
+{
+  "name": "toc-gen",
+  "version": "1.0.0",
+  "description": "Tool to generate list of problems mardown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
