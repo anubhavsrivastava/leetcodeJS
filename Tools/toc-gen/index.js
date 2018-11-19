@@ -17,7 +17,15 @@ problemsStruct.sort((a, b) => {
 	return +a.problemNumber - +b.problemNumber;
 });
 problemsStruct.forEach(p => {
-	ptableBody += `| ${p.problemNumber} |  <a href="${p.difficulty + '/' + p.name + '/' + 'Readme.md'}">${p.problemTitle}</a>| ${p.difficulty} | <a href="${p.difficulty + '/' + p.name + '/'}">Solution</a> | \n`;
+	const solutionFile = p.problemTitle
+		.split('-')
+		.join(' ')
+		.split(' ')
+		.map(s => s.charAt(0).toUpperCase() + s.substr(1).toLowerCase())
+		.join('');
+	const solutionFileName = solutionFile.charAt(0).toLowerCase() + solutionFile.substr(1) + '.js';
+
+	ptableBody += `| <a href="${p.difficulty + '/' + p.name + '/'}">${p.problemNumber}</a> |  <a href="${p.difficulty + '/' + p.name + '/' + 'Readme.md'}">${p.problemTitle}</a>| ${p.difficulty} | <a href="${p.difficulty + '/' + p.name + '/' + solutionFileName}">Solution</a> | \n`;
 });
 
 writeFileSync(problemTableFile, `${header}${tableHeader}${ptableBody}`);
