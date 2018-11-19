@@ -17,14 +17,7 @@ problemsStruct.sort((a, b) => {
 	return +a.problemNumber - +b.problemNumber;
 });
 problemsStruct.forEach(p => {
-	ptableBody += `| ${p.problemNumber} |  <a href="${p.difficulty + '/' + p.name + '/' + 'Readme.md'}">${p.problemTitle}</a>| ${p.difficulty} | Solution | \n`;
+	ptableBody += `| ${p.problemNumber} |  <a href="${p.difficulty + '/' + p.name + '/' + 'Readme.md'}">${p.problemTitle}</a>| ${p.difficulty} | <a href="${p.difficulty + '/' + p.name + '/'}">Solution</a> | \n`;
 });
-
-// | prop               | type            | description                                 | default value |
-// | ------------------ | --------------- | ------------------------------------------- | ------------- |
-// | children (default) | --              | Inner children for selfFocus Component      | `null`        |
-// | tag                | htmlTag(String) | Component/Node to be rendered for focussing | `div`         |
-// | className          | string          | additional Classname for particular div     | `<empty>`     |
-// | tabIndex           | string/number   | tabbable order - 0/-1                       | `0`           |
 
 writeFileSync(problemTableFile, `${header}${tableHeader}${ptableBody}`);
