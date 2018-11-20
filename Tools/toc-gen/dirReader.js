@@ -1,7 +1,7 @@
 const { rootPath } = require('./package.json');
 const { lstatSync, readdirSync } = require('fs');
 const { join, resolve } = require('path');
-const excludedDir = ['Tools'];
+const excludedDir = ['Tools', 'node_modules'];
 const problemDirectory = resolve(__dirname, rootPath);
 const isDirectory = source => lstatSync(source).isDirectory();
 const getProblemDirectories = source =>
