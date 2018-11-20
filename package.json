@@ -1,0 +1,33 @@
+{
+	"name": "leetcodejs",
+	"version": "1.0.0",
+	"description": "Personal solution for leetcode problem using Javascript",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"gen-toc": "node Tools/toc-gen/index.js && git add Problems.md"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "npm run gen-toc"
+		}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/anubhavsrivastava/leetcodeJS.git"
+	},
+	"keywords": [
+		"leetcodejs",
+		"leetcode",
+		"javascript"
+	],
+	"author": "Anubhav Srivastava <anubhav.srivastava00@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/anubhavsrivastava/leetcodeJS/issues"
+	},
+	"homepage": "https://github.com/anubhavsrivastava/leetcodeJS#readme",
+	"dependencies": {
+		"husky": "^1.1.4"
+	}
+}
