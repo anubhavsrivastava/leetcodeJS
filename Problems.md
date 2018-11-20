@@ -33,6 +33,7 @@
 | <a href="Easy/461  Hamming Distance/">461</a> |  <a href="Easy/461  Hamming Distance/Readme.md">Hamming Distance</a>| Easy | <a href="Easy/461  Hamming Distance/hammingDistance.js">Solution</a> | 
 | <a href="Easy/476  Number Complement/">476</a> |  <a href="Easy/476  Number Complement/Readme.md">Number Complement</a>| Easy | <a href="Easy/476  Number Complement/numberComplement.js">Solution</a> | 
 | <a href="Easy/485 Max Consecutive Ones/">485</a> |  <a href="Easy/485 Max Consecutive Ones/Readme.md">Max Consecutive Ones</a>| Easy | <a href="Easy/485 Max Consecutive Ones/maxConsecutiveOnes.js">Solution</a> | 
+| <a href="Easy/500  Keyboard Row/">500</a> |  <a href="Easy/500  Keyboard Row/Readme.md">Keyboard Row</a>| Easy | <a href="Easy/500  Keyboard Row/keyboardRow.js">Solution</a> | 
 | <a href="Easy/504  Base 7/">504</a> |  <a href="Easy/504  Base 7/Readme.md">Base 7</a>| Easy | <a href="Easy/504  Base 7/base7.js">Solution</a> | 
 | <a href="Easy/520 Detect Capital/">520</a> |  <a href="Easy/520 Detect Capital/Readme.md">Detect Capital</a>| Easy | <a href="Easy/520 Detect Capital/detectCapital.js">Solution</a> | 
 | <a href="Medium/535  Encode and Decode TinyURL/">535</a> |  <a href="Medium/535  Encode and Decode TinyURL/Readme.md">Encode and Decode TinyURL</a>| Medium | <a href="Medium/535  Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 
