@@ -32,6 +32,7 @@
 | <a href="Easy/443 String Compression/">443</a> |  <a href="Easy/443 String Compression/Readme.md">String Compression</a>| Easy | <a href="Easy/443 String Compression/stringCompression.js">Solution</a> | 
 | <a href="Easy/461  Hamming Distance/">461</a> |  <a href="Easy/461  Hamming Distance/Readme.md">Hamming Distance</a>| Easy | <a href="Easy/461  Hamming Distance/hammingDistance.js">Solution</a> | 
 | <a href="Easy/485 Max Consecutive Ones/">485</a> |  <a href="Easy/485 Max Consecutive Ones/Readme.md">Max Consecutive Ones</a>| Easy | <a href="Easy/485 Max Consecutive Ones/maxConsecutiveOnes.js">Solution</a> | 
+| <a href="Easy/504  Base 7/">504</a> |  <a href="Easy/504  Base 7/Readme.md">Base 7</a>| Easy | <a href="Easy/504  Base 7/base7.js">Solution</a> | 
 | <a href="Easy/520 Detect Capital/">520</a> |  <a href="Easy/520 Detect Capital/Readme.md">Detect Capital</a>| Easy | <a href="Easy/520 Detect Capital/detectCapital.js">Solution</a> | 
 | <a href="Medium/535  Encode and Decode TinyURL/">535</a> |  <a href="Medium/535  Encode and Decode TinyURL/Readme.md">Encode and Decode TinyURL</a>| Medium | <a href="Medium/535  Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 
 | <a href="Easy/541 Reverse String II/">541</a> |  <a href="Easy/541 Reverse String II/Readme.md">Reverse String II</a>| Easy | <a href="Easy/541 Reverse String II/reverseStringIi.js">Solution</a> | 
