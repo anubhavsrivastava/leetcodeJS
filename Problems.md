@@ -24,6 +24,7 @@
 | <a href="Easy/242 Valid Anagram/">242</a> |  <a href="Easy/242 Valid Anagram/Readme.md">Valid Anagram</a>| Easy | <a href="Easy/242 Valid Anagram/validAnagram.js">Solution</a> | 
 | <a href="Easy/268 Missing Number/">268</a> |  <a href="Easy/268 Missing Number/Readme.md">Missing Number</a>| Easy | <a href="Easy/268 Missing Number/missingNumber.js">Solution</a> | 
 | <a href="Easy/292 Nim Game/">292</a> |  <a href="Easy/292 Nim Game/Readme.md">Nim Game</a>| Easy | <a href="Easy/292 Nim Game/nimGame.js">Solution</a> | 
+| <a href="Easy/326  Power of Three/">326</a> |  <a href="Easy/326  Power of Three/Readme.md">Power of Three</a>| Easy | <a href="Easy/326  Power of Three/powerOfThree.js">Solution</a> | 
 | <a href="Easy/342  Power of Four/">342</a> |  <a href="Easy/342  Power of Four/Readme.md">Power of Four</a>| Easy | <a href="Easy/342  Power of Four/powerOfFour.js">Solution</a> | 
 | <a href="Easy/344 Reverse String/">344</a> |  <a href="Easy/344 Reverse String/Readme.md">Reverse String</a>| Easy | <a href="Easy/344 Reverse String/reverseString.js">Solution</a> | 
 | <a href="Easy/345 Reverse Vowels of a String/">345</a> |  <a href="Easy/345 Reverse Vowels of a String/Readme.md">Reverse Vowels of a String</a>| Easy | <a href="Easy/345 Reverse Vowels of a String/reverseVowelsOfAString.js">Solution</a> | 
