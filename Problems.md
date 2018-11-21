@@ -22,6 +22,7 @@
 | <a href="Easy/234 Palindrome Linked List/">234</a> |  <a href="Easy/234 Palindrome Linked List/Readme.md">Palindrome Linked List</a>| Easy | <a href="Easy/234 Palindrome Linked List/palindromeLinkedList.js">Solution</a> | 
 | <a href="Easy/237 Delete Node in a Linked List/">237</a> |  <a href="Easy/237 Delete Node in a Linked List/Readme.md">Delete Node in a Linked List</a>| Easy | <a href="Easy/237 Delete Node in a Linked List/deleteNodeInALinkedList.js">Solution</a> | 
 | <a href="Easy/242 Valid Anagram/">242</a> |  <a href="Easy/242 Valid Anagram/Readme.md">Valid Anagram</a>| Easy | <a href="Easy/242 Valid Anagram/validAnagram.js">Solution</a> | 
+| <a href="Easy/263  Ugly Number/">263</a> |  <a href="Easy/263  Ugly Number/Readme.md">Ugly Number</a>| Easy | <a href="Easy/263  Ugly Number/uglyNumber.js">Solution</a> | 
 | <a href="Easy/268 Missing Number/">268</a> |  <a href="Easy/268 Missing Number/Readme.md">Missing Number</a>| Easy | <a href="Easy/268 Missing Number/missingNumber.js">Solution</a> | 
 | <a href="Easy/292 Nim Game/">292</a> |  <a href="Easy/292 Nim Game/Readme.md">Nim Game</a>| Easy | <a href="Easy/292 Nim Game/nimGame.js">Solution</a> | 
 | <a href="Easy/326  Power of Three/">326</a> |  <a href="Easy/326  Power of Three/Readme.md">Power of Three</a>| Easy | <a href="Easy/326  Power of Three/powerOfThree.js">Solution</a> | 
