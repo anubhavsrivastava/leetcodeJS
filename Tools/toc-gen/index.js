@@ -6,7 +6,7 @@ const problemDirectory = resolve(__dirname, rootPath);
 
 const problemTableFile = resolve(problemDirectory, 'Problems.md');
 
-let header = '## Problems Solved \n\n';
+let header = `## Problems Solved - ${problemsStruct.length}\n\n`;
 
 let tableHeader = `| # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  \n`;
