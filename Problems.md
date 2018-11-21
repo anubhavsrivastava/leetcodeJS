@@ -1,9 +1,10 @@
-## Problems Solved - 81
+## Problems Solved - 82
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
 | <a href="Easy/9 Palindrome Number/">9</a> |  <a href="Easy/9 Palindrome Number/Readme.md">Palindrome Number</a>| Easy | <a href="Easy/9 Palindrome Number/palindromeNumber.js">Solution</a> | 
 | <a href="Easy/28 Implement strStr()/">28</a> |  <a href="Easy/28 Implement strStr()/Readme.md">Implement strStr()</a>| Easy | <a href="Easy/28 Implement strStr()/implementStrstr().js">Solution</a> | 
+| <a href="Easy/58  Length of Last Word/">58</a> |  <a href="Easy/58  Length of Last Word/Readme.md">Length of Last Word</a>| Easy | <a href="Easy/58  Length of Last Word/lengthOfLastWord.js">Solution</a> | 
 | <a href="Easy/83 Remove Duplicates from Sorted List/">83</a> |  <a href="Easy/83 Remove Duplicates from Sorted List/Readme.md">Remove Duplicates from Sorted List</a>| Easy | <a href="Easy/83 Remove Duplicates from Sorted List/removeDuplicatesFromSortedList.js">Solution</a> | 
 | <a href="Easy/100 Same Tree/">100</a> |  <a href="Easy/100 Same Tree/Readme.md">Same Tree</a>| Easy | <a href="Easy/100 Same Tree/sameTree.js">Solution</a> | 
 | <a href="Easy/104 Maximum Depth of Binary Tree/">104</a> |  <a href="Easy/104 Maximum Depth of Binary Tree/Readme.md">Maximum Depth of Binary Tree</a>| Easy | <a href="Easy/104 Maximum Depth of Binary Tree/maximumDepthOfBinaryTree.js">Solution</a> | 
