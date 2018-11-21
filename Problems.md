@@ -27,6 +27,7 @@
 | <a href="Easy/344 Reverse String/">344</a> |  <a href="Easy/344 Reverse String/Readme.md">Reverse String</a>| Easy | <a href="Easy/344 Reverse String/reverseString.js">Solution</a> | 
 | <a href="Easy/345 Reverse Vowels of a String/">345</a> |  <a href="Easy/345 Reverse Vowels of a String/Readme.md">Reverse Vowels of a String</a>| Easy | <a href="Easy/345 Reverse Vowels of a String/reverseVowelsOfAString.js">Solution</a> | 
 | <a href="Easy/387 First Unique Character in a String/">387</a> |  <a href="Easy/387 First Unique Character in a String/Readme.md">First Unique Character in a String</a>| Easy | <a href="Easy/387 First Unique Character in a String/firstUniqueCharacterInAString.js">Solution</a> | 
+| <a href="Easy/389  Find the Difference/">389</a> |  <a href="Easy/389  Find the Difference/Readme.md">Find the Difference</a>| Easy | <a href="Easy/389  Find the Difference/findTheDifference.js">Solution</a> | 
 | <a href="Easy/404 Sum of Left Leaves/">404</a> |  <a href="Easy/404 Sum of Left Leaves/Readme.md">Sum of Left Leaves</a>| Easy | <a href="Easy/404 Sum of Left Leaves/sumOfLeftLeaves.js">Solution</a> | 
 | <a href="Easy/412 Fizz Buzz/">412</a> |  <a href="Easy/412 Fizz Buzz/Readme.md">Fizz Buzz</a>| Easy | <a href="Easy/412 Fizz Buzz/fizzBuzz.js">Solution</a> | 
 | <a href="Easy/443 String Compression/">443</a> |  <a href="Easy/443 String Compression/Readme.md">String Compression</a>| Easy | <a href="Easy/443 String Compression/stringCompression.js">Solution</a> | 
