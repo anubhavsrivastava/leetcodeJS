@@ -1,4 +1,4 @@
-## Problems Solved - 83
+## Problems Solved - 84
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -16,6 +16,7 @@
 | <a href="Easy/155 Min Stack/">155</a> |  <a href="Easy/155 Min Stack/Readme.md">Min Stack</a>| Easy | <a href="Easy/155 Min Stack/minStack.js">Solution</a> | 
 | <a href="Easy/167 Two Sum II - Input array is sorted/">167</a> |  <a href="Easy/167 Two Sum II - Input array is sorted/Readme.md">Two Sum II - Input array is sorted</a>| Easy | <a href="Easy/167 Two Sum II - Input array is sorted/twoSumIiInputArrayIsSorted.js">Solution</a> | 
 | <a href="Easy/169 Majority Element/">169</a> |  <a href="Easy/169 Majority Element/Readme.md">Majority Element</a>| Easy | <a href="Easy/169 Majority Element/majorityElement.js">Solution</a> | 
+| <a href="Easy/205  Isomorphic Strings/">205</a> |  <a href="Easy/205  Isomorphic Strings/Readme.md">Isomorphic Strings</a>| Easy | <a href="Easy/205  Isomorphic Strings/isomorphicStrings.js">Solution</a> | 
 | <a href="Easy/217  Contains Duplicate/">217</a> |  <a href="Easy/217  Contains Duplicate/Readme.md">Contains Duplicate</a>| Easy | <a href="Easy/217  Contains Duplicate/containsDuplicate.js">Solution</a> | 
 | <a href="Easy/219  Contains Duplicate II/">219</a> |  <a href="Easy/219  Contains Duplicate II/Readme.md">Contains Duplicate II</a>| Easy | <a href="Easy/219  Contains Duplicate II/containsDuplicateIi.js">Solution</a> | 
 | <a href="Medium/220  Contains Duplicate III/">220</a> |  <a href="Medium/220  Contains Duplicate III/Readme.md">Contains Duplicate III</a>| Medium | <a href="Medium/220  Contains Duplicate III/containsDuplicateIii.js">Solution</a> | 
