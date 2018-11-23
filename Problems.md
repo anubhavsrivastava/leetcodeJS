@@ -1,4 +1,4 @@
-## Problems Solved - 82
+## Problems Solved - 83
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -20,6 +20,7 @@
 | <a href="Easy/219  Contains Duplicate II/">219</a> |  <a href="Easy/219  Contains Duplicate II/Readme.md">Contains Duplicate II</a>| Easy | <a href="Easy/219  Contains Duplicate II/containsDuplicateIi.js">Solution</a> | 
 | <a href="Medium/220  Contains Duplicate III/">220</a> |  <a href="Medium/220  Contains Duplicate III/Readme.md">Contains Duplicate III</a>| Medium | <a href="Medium/220  Contains Duplicate III/containsDuplicateIii.js">Solution</a> | 
 | <a href="Easy/226 Invert Binary Tree/">226</a> |  <a href="Easy/226 Invert Binary Tree/Readme.md">Invert Binary Tree</a>| Easy | <a href="Easy/226 Invert Binary Tree/invertBinaryTree.js">Solution</a> | 
+| <a href="Easy/231  Power of Two/">231</a> |  <a href="Easy/231  Power of Two/Readme.md">Power of Two</a>| Easy | <a href="Easy/231  Power of Two/powerOfTwo.js">Solution</a> | 
 | <a href="Easy/234 Palindrome Linked List/">234</a> |  <a href="Easy/234 Palindrome Linked List/Readme.md">Palindrome Linked List</a>| Easy | <a href="Easy/234 Palindrome Linked List/palindromeLinkedList.js">Solution</a> | 
 | <a href="Easy/237 Delete Node in a Linked List/">237</a> |  <a href="Easy/237 Delete Node in a Linked List/Readme.md">Delete Node in a Linked List</a>| Easy | <a href="Easy/237 Delete Node in a Linked List/deleteNodeInALinkedList.js">Solution</a> | 
 | <a href="Easy/242 Valid Anagram/">242</a> |  <a href="Easy/242 Valid Anagram/Readme.md">Valid Anagram</a>| Easy | <a href="Easy/242 Valid Anagram/validAnagram.js">Solution</a> | 
