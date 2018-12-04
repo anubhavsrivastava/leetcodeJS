@@ -10,7 +10,7 @@
 | <a href="Easy/104 Maximum Depth of Binary Tree/">104</a> |  <a href="Easy/104 Maximum Depth of Binary Tree/Readme.md">Maximum Depth of Binary Tree</a>| Easy | <a href="Easy/104 Maximum Depth of Binary Tree/maximumDepthOfBinaryTree.js">Solution</a> | 
 | <a href="Easy/111 Minimum Depth of Binary Tree/">111</a> |  <a href="Easy/111 Minimum Depth of Binary Tree/Readme.md">Minimum Depth of Binary Tree</a>| Easy | <a href="Easy/111 Minimum Depth of Binary Tree/minimumDepthOfBinaryTree.js">Solution</a> | 
 | <a href="Easy/112 Path Sum/">112</a> |  <a href="Easy/112 Path Sum/Readme.md">Path Sum</a>| Easy | <a href="Easy/112 Path Sum/pathSum.js">Solution</a> | 
-| <a href="Easy/118 Pascal's Triangle/">118</a> |  <a href="Easy/118 Pascal's Triangle/Readme.md">Pascal's Triangle</a>| Easy | <a href="Easy/118 Pascal's Triangle/pascalsTriangle.js">Solution</a> | 
+| <a href="Easy/118 Pascal's Triangle/">118</a> |  <a href="Easy/118 Pascal's Triangle/Readme.md">Pascal's Triangle</a>| Easy | <a href="Easy/118 Pascal's Triangle/pascal'sTriangle.js">Solution</a> | 
 | <a href="Easy/125 Valid Palindrome/">125</a> |  <a href="Easy/125 Valid Palindrome/Readme.md">Valid Palindrome</a>| Easy | <a href="Easy/125 Valid Palindrome/validPalindrome.js">Solution</a> | 
 | <a href="Easy/136 Single Number/">136</a> |  <a href="Easy/136 Single Number/Readme.md">Single Number</a>| Easy | <a href="Easy/136 Single Number/singleNumber.js">Solution</a> | 
 | <a href="Easy/155 Min Stack/">155</a> |  <a href="Easy/155 Min Stack/Readme.md">Min Stack</a>| Easy | <a href="Easy/155 Min Stack/minStack.js">Solution</a> | 
