@@ -1,4 +1,4 @@
-## Problems Solved - 87
+## Problems Solved - 88
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -89,3 +89,4 @@
 | <a href="Medium/944  Delete Columns to Make Sorted/">944</a> |  <a href="Medium/944  Delete Columns to Make Sorted/Readme.md">Delete Columns to Make Sorted</a>| Medium | <a href="Medium/944  Delete Columns to Make Sorted/deleteColumnsToMakeSorted.js">Solution</a> | 
 | <a href="Medium/945  Minimum Increment to Make Array Unique/">945</a> |  <a href="Medium/945  Minimum Increment to Make Array Unique/Readme.md">Minimum Increment to Make Array Unique</a>| Medium | <a href="Medium/945  Minimum Increment to Make Array Unique/minimumIncrementToMakeArrayUnique.js">Solution</a> | 
 | <a href="Medium/946  Validate Stack Sequences/">946</a> |  <a href="Medium/946  Validate Stack Sequences/Readme.md">Validate Stack Sequences</a>| Medium | <a href="Medium/946  Validate Stack Sequences/validateStackSequences.js">Solution</a> | 
+| <a href="Medium/950  Reveal Cards In Increasing Order/">950</a> |  <a href="Medium/950  Reveal Cards In Increasing Order/Readme.md">Reveal Cards In Increasing Order</a>| Medium | <a href="Medium/950  Reveal Cards In Increasing Order/revealCardsInIncreasingOrder.js">Solution</a> | 
