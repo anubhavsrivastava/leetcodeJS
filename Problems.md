@@ -1,4 +1,4 @@
-## Problems Solved - 86
+## Problems Solved - 87
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -88,3 +88,4 @@
 | <a href="Easy/942  DI String Match/">942</a> |  <a href="Easy/942  DI String Match/Readme.md">DI String Match</a>| Easy | <a href="Easy/942  DI String Match/diStringMatch.js">Solution</a> | 
 | <a href="Medium/944  Delete Columns to Make Sorted/">944</a> |  <a href="Medium/944  Delete Columns to Make Sorted/Readme.md">Delete Columns to Make Sorted</a>| Medium | <a href="Medium/944  Delete Columns to Make Sorted/deleteColumnsToMakeSorted.js">Solution</a> | 
 | <a href="Medium/945  Minimum Increment to Make Array Unique/">945</a> |  <a href="Medium/945  Minimum Increment to Make Array Unique/Readme.md">Minimum Increment to Make Array Unique</a>| Medium | <a href="Medium/945  Minimum Increment to Make Array Unique/minimumIncrementToMakeArrayUnique.js">Solution</a> | 
+| <a href="Medium/946  Validate Stack Sequences/">946</a> |  <a href="Medium/946  Validate Stack Sequences/Readme.md">Validate Stack Sequences</a>| Medium | <a href="Medium/946  Validate Stack Sequences/validateStackSequences.js">Solution</a> | 
