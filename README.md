@@ -20,3 +20,11 @@ There is also a seperate section as another solution for individual problems for
 ## Problems Solutions
 
 Complete list of solved problems in order of Problem number can be seen [here](Problems.md)
+
+## Contribution
+
+Suggestions and PRs are welcome for any algo/documentation improvment!
+
+Please create issue or open PR request for contribution.
+
+---
