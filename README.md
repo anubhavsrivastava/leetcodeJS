@@ -23,7 +23,7 @@ Complete list of solved problems in order of Problem number can be seen [here](P
 
 ## Contribution
 
-Suggestions and PRs are welcome for any algo/documentation improvment!
+Suggestions and PRs are welcome for any algo/documentation improvement!
 
 Please create issue or open PR request for contribution.
 
