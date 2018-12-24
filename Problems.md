@@ -1,4 +1,4 @@
-## Problems Solved - 88
+## Problems Solved - 89
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -90,3 +90,4 @@
 | <a href="Medium/945  Minimum Increment to Make Array Unique/">945</a> |  <a href="Medium/945  Minimum Increment to Make Array Unique/Readme.md">Minimum Increment to Make Array Unique</a>| Medium | <a href="Medium/945  Minimum Increment to Make Array Unique/minimumIncrementToMakeArrayUnique.js">Solution</a> | 
 | <a href="Medium/946  Validate Stack Sequences/">946</a> |  <a href="Medium/946  Validate Stack Sequences/Readme.md">Validate Stack Sequences</a>| Medium | <a href="Medium/946  Validate Stack Sequences/validateStackSequences.js">Solution</a> | 
 | <a href="Medium/950  Reveal Cards In Increasing Order/">950</a> |  <a href="Medium/950  Reveal Cards In Increasing Order/Readme.md">Reveal Cards In Increasing Order</a>| Medium | <a href="Medium/950  Reveal Cards In Increasing Order/revealCardsInIncreasingOrder.js">Solution</a> | 
+| <a href="Medium/958  Check Completeness of a Binary Tree/">958</a> |  <a href="Medium/958  Check Completeness of a Binary Tree/Readme.md">Check Completeness of a Binary Tree</a>| Medium | <a href="Medium/958  Check Completeness of a Binary Tree/checkCompletenessOfABinaryTree.js">Solution</a> | 

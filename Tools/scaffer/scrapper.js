@@ -14,9 +14,8 @@ module.exports = {
 		await page.waitFor('body').then(async () => {
 			const isSPA = await page.evaluate(() => document.querySelectorAll('#app') && document.querySelectorAll('#app').length);
 			// This is SPA with either React/Vue/
-			console.log();
 			if (isSPA) {
-				result = await page.waitFor('#main-container div[diff]').then(async () => {
+				result = await page.waitFor('div[diff]').then(async () => {
 					console.log('Main content loaded for SPA. Evaluating...');
 					let problemData = await page.evaluate(
 						async ({ UrlObj }) => {
