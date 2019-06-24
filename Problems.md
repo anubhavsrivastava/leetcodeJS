@@ -1,4 +1,4 @@
-## Problems Solved - 102
+## Problems Solved - 103
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -56,6 +56,7 @@
 | <a href="Easy/575  Distribute Candies/">575</a> |  <a href="Easy/575  Distribute Candies/Readme.md">Distribute Candies</a>| Easy | <a href="Easy/575  Distribute Candies/distributeCandies.js">Solution</a> | 
 | <a href="Easy/606  Construct String from Binary Tree/">606</a> |  <a href="Easy/606  Construct String from Binary Tree/Readme.md">Construct String from Binary Tree</a>| Easy | <a href="Easy/606  Construct String from Binary Tree/constructStringFromBinaryTree.js">Solution</a> | 
 | <a href="Easy/617 Merge Two Binary Trees/">617</a> |  <a href="Easy/617 Merge Two Binary Trees/Readme.md">Merge Two Binary Trees</a>| Easy | <a href="Easy/617 Merge Two Binary Trees/mergeTwoBinaryTrees.js">Solution</a> | 
+| <a href="Easy/628  Maximum Product of Three Numbers/">628</a> |  <a href="Easy/628  Maximum Product of Three Numbers/Readme.md">Maximum Product of Three Numbers</a>| Easy | <a href="Easy/628  Maximum Product of Three Numbers/maximumProductOfThreeNumbers.js">Solution</a> | 
 | <a href="Easy/637 Average of Levels in Binary Tree/">637</a> |  <a href="Easy/637 Average of Levels in Binary Tree/Readme.md">Average of Levels in Binary Tree</a>| Easy | <a href="Easy/637 Average of Levels in Binary Tree/averageOfLevelsInBinaryTree.js">Solution</a> | 
 | <a href="Easy/657 Robot Return to Origin/">657</a> |  <a href="Easy/657 Robot Return to Origin/Readme.md">Robot Return to Origin</a>| Easy | <a href="Easy/657 Robot Return to Origin/robotReturnToOrigin.js">Solution</a> | 
 | <a href="Easy/669  Trim a Binary Search Tree/">669</a> |  <a href="Easy/669  Trim a Binary Search Tree/Readme.md">Trim a Binary Search Tree</a>| Easy | <a href="Easy/669  Trim a Binary Search Tree/trimABinarySearchTree.js">Solution</a> | 
