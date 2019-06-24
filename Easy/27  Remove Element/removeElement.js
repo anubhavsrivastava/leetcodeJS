@@ -18,3 +18,5 @@ var removeElement = function(nums, val) {
 
 	return nums.length;
 };
+
+//better approach can be seen in #26
