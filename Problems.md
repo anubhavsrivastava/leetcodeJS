@@ -1,4 +1,4 @@
-## Problems Solved - 103
+## Problems Solved - 104
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -13,6 +13,7 @@
 | <a href="Easy/111 Minimum Depth of Binary Tree/">111</a> |  <a href="Easy/111 Minimum Depth of Binary Tree/Readme.md">Minimum Depth of Binary Tree</a>| Easy | <a href="Easy/111 Minimum Depth of Binary Tree/minimumDepthOfBinaryTree.js">Solution</a> | 
 | <a href="Easy/112 Path Sum/">112</a> |  <a href="Easy/112 Path Sum/Readme.md">Path Sum</a>| Easy | <a href="Easy/112 Path Sum/pathSum.js">Solution</a> | 
 | <a href="Easy/118 Pascal's Triangle/">118</a> |  <a href="Easy/118 Pascal's Triangle/Readme.md">Pascal's Triangle</a>| Easy | <a href="Easy/118 Pascal's Triangle/pascal'sTriangle.js">Solution</a> | 
+| <a href="Easy/121  Best Time to Buy and Sell Stock/">121</a> |  <a href="Easy/121  Best Time to Buy and Sell Stock/Readme.md">Best Time to Buy and Sell Stock</a>| Easy | <a href="Easy/121  Best Time to Buy and Sell Stock/bestTimeToBuyAndSellStock.js">Solution</a> | 
 | <a href="Easy/125 Valid Palindrome/">125</a> |  <a href="Easy/125 Valid Palindrome/Readme.md">Valid Palindrome</a>| Easy | <a href="Easy/125 Valid Palindrome/validPalindrome.js">Solution</a> | 
 | <a href="Easy/136 Single Number/">136</a> |  <a href="Easy/136 Single Number/Readme.md">Single Number</a>| Easy | <a href="Easy/136 Single Number/singleNumber.js">Solution</a> | 
 | <a href="Easy/155 Min Stack/">155</a> |  <a href="Easy/155 Min Stack/Readme.md">Min Stack</a>| Easy | <a href="Easy/155 Min Stack/minStack.js">Solution</a> | 
