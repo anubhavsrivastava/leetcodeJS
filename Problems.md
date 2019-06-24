@@ -1,4 +1,4 @@
-## Problems Solved - 93
+## Problems Solved - 94
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -95,3 +95,4 @@
 | <a href="Medium/958  Check Completeness of a Binary Tree/">958</a> |  <a href="Medium/958  Check Completeness of a Binary Tree/Readme.md">Check Completeness of a Binary Tree</a>| Medium | <a href="Medium/958  Check Completeness of a Binary Tree/checkCompletenessOfABinaryTree.js">Solution</a> | 
 | <a href="Easy/961  N-Repeated Element in Size 2N Array/">961</a> |  <a href="Easy/961  N-Repeated Element in Size 2N Array/Readme.md">N-Repeated Element in Size 2N Array</a>| Easy | <a href="Easy/961  N-Repeated Element in Size 2N Array/nRepeatedElementInSize2nArray.js">Solution</a> | 
 | <a href="Medium/962  Maximum Width Ramp/">962</a> |  <a href="Medium/962  Maximum Width Ramp/Readme.md">Maximum Width Ramp</a>| Medium | <a href="Medium/962  Maximum Width Ramp/maximumWidthRamp.js">Solution</a> | 
+| <a href="Easy/977  Squares of a Sorted Array/">977</a> |  <a href="Easy/977  Squares of a Sorted Array/Readme.md">Squares of a Sorted Array</a>| Easy | <a href="Easy/977  Squares of a Sorted Array/squaresOfASortedArray.js">Solution</a> | 
