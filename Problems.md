@@ -1,4 +1,4 @@
-## Problems Solved - 94
+## Problems Solved - 95
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -69,6 +69,7 @@
 | <a href="Easy/852 Peak Index in a Mountain Array/">852</a> |  <a href="Easy/852 Peak Index in a Mountain Array/Readme.md">Peak Index in a Mountain Array</a>| Easy | <a href="Easy/852 Peak Index in a Mountain Array/peakIndexInAMountainArray.js">Solution</a> | 
 | <a href="Easy/859  Buddy Strings/">859</a> |  <a href="Easy/859  Buddy Strings/Readme.md">Buddy Strings</a>| Easy | <a href="Easy/859  Buddy Strings/buddyStrings.js">Solution</a> | 
 | <a href="Easy/860  Lemonade Change/">860</a> |  <a href="Easy/860  Lemonade Change/Readme.md">Lemonade Change</a>| Easy | <a href="Easy/860  Lemonade Change/lemonadeChange.js">Solution</a> | 
+| <a href="Easy/867  Transpose Matrix/">867</a> |  <a href="Easy/867  Transpose Matrix/Readme.md">Transpose Matrix</a>| Easy | <a href="Easy/867  Transpose Matrix/transposeMatrix.js">Solution</a> | 
 | <a href="Easy/872 Leaf-Similar Trees/">872</a> |  <a href="Easy/872 Leaf-Similar Trees/Readme.md">Leaf-Similar Trees</a>| Easy | <a href="Easy/872 Leaf-Similar Trees/leafSimilarTrees.js">Solution</a> | 
 | <a href="Easy/876 Middle of the Linked List/">876</a> |  <a href="Easy/876 Middle of the Linked List/Readme.md">Middle of the Linked List</a>| Easy | <a href="Easy/876 Middle of the Linked List/middleOfTheLinkedList.js">Solution</a> | 
 | <a href="Easy/884 Uncommon Words from Two Sentences/">884</a> |  <a href="Easy/884 Uncommon Words from Two Sentences/Readme.md">Uncommon Words from Two Sentences</a>| Easy | <a href="Easy/884 Uncommon Words from Two Sentences/uncommonWordsFromTwoSentences.js">Solution</a> | 
