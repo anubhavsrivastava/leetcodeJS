@@ -1,4 +1,4 @@
-## Problems Solved - 99
+## Problems Solved - 100
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -29,6 +29,7 @@
 | <a href="Easy/242 Valid Anagram/">242</a> |  <a href="Easy/242 Valid Anagram/Readme.md">Valid Anagram</a>| Easy | <a href="Easy/242 Valid Anagram/validAnagram.js">Solution</a> | 
 | <a href="Easy/263  Ugly Number/">263</a> |  <a href="Easy/263  Ugly Number/Readme.md">Ugly Number</a>| Easy | <a href="Easy/263  Ugly Number/uglyNumber.js">Solution</a> | 
 | <a href="Easy/268 Missing Number/">268</a> |  <a href="Easy/268 Missing Number/Readme.md">Missing Number</a>| Easy | <a href="Easy/268 Missing Number/missingNumber.js">Solution</a> | 
+| <a href="Easy/283  Move Zeroes/">283</a> |  <a href="Easy/283  Move Zeroes/Readme.md">Move Zeroes</a>| Easy | <a href="Easy/283  Move Zeroes/moveZeroes.js">Solution</a> | 
 | <a href="Easy/292 Nim Game/">292</a> |  <a href="Easy/292 Nim Game/Readme.md">Nim Game</a>| Easy | <a href="Easy/292 Nim Game/nimGame.js">Solution</a> | 
 | <a href="Easy/326  Power of Three/">326</a> |  <a href="Easy/326  Power of Three/Readme.md">Power of Three</a>| Easy | <a href="Easy/326  Power of Three/powerOfThree.js">Solution</a> | 
 | <a href="Easy/342  Power of Four/">342</a> |  <a href="Easy/342  Power of Four/Readme.md">Power of Four</a>| Easy | <a href="Easy/342  Power of Four/powerOfFour.js">Solution</a> | 
