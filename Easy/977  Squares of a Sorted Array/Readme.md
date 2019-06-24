@@ -22,6 +22,10 @@ A is sorted in non-decreasing order.
 
 Will keep two pointers to track the greatest number to be add.
 
+Time Complexity: O(N), where N is the length of A.
+
+Space Complexity: O(N).
+
 ## Another solution
 
 ```javascript
@@ -33,4 +37,8 @@ var sortedSquares = function(A) {
 		return a - b;
 	});
 };
+
+<!-- Time Complexity: O(N log N), where N is the length of A.
+Space Complexity: O(N)  -->
+
 ```
