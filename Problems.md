@@ -1,7 +1,8 @@
-## Problems Solved - 104
+## Problems Solved - 105
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
+| <a href="Easy/1  Two Sum/">1</a> |  <a href="Easy/1  Two Sum/Readme.md">Two Sum</a>| Easy | <a href="Easy/1  Two Sum/twoSum.js">Solution</a> | 
 | <a href="Easy/9 Palindrome Number/">9</a> |  <a href="Easy/9 Palindrome Number/Readme.md">Palindrome Number</a>| Easy | <a href="Easy/9 Palindrome Number/palindromeNumber.js">Solution</a> | 
 | <a href="Easy/26  Remove Duplicates from Sorted Array/">26</a> |  <a href="Easy/26  Remove Duplicates from Sorted Array/Readme.md">Remove Duplicates from Sorted Array</a>| Easy | <a href="Easy/26  Remove Duplicates from Sorted Array/removeDuplicatesFromSortedArray.js">Solution</a> | 
 | <a href="Easy/27  Remove Element/">27</a> |  <a href="Easy/27  Remove Element/Readme.md">Remove Element</a>| Easy | <a href="Easy/27  Remove Element/removeElement.js">Solution</a> | 
