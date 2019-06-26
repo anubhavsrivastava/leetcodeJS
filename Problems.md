@@ -1,8 +1,9 @@
-## Problems Solved - 109
+## Problems Solved - 110
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
 | <a href="Easy/1  Two Sum/">1</a> |  <a href="Easy/1  Two Sum/Readme.md">Two Sum</a>| Easy | <a href="Easy/1  Two Sum/twoSum.js">Solution</a> | 
+| <a href="Easy/7  Reverse Integer/">7</a> |  <a href="Easy/7  Reverse Integer/Readme.md">Reverse Integer</a>| Easy | <a href="Easy/7  Reverse Integer/reverseInteger.js">Solution</a> | 
 | <a href="Medium/8  String to Integer (atoi)/">8</a> |  <a href="Medium/8  String to Integer (atoi)/Readme.md">String to Integer (atoi)</a>| Medium | <a href="Medium/8  String to Integer (atoi)/stringToInteger(atoi).js">Solution</a> | 
 | <a href="Easy/9 Palindrome Number/">9</a> |  <a href="Easy/9 Palindrome Number/Readme.md">Palindrome Number</a>| Easy | <a href="Easy/9 Palindrome Number/palindromeNumber.js">Solution</a> | 
 | <a href="Easy/26  Remove Duplicates from Sorted Array/">26</a> |  <a href="Easy/26  Remove Duplicates from Sorted Array/Readme.md">Remove Duplicates from Sorted Array</a>| Easy | <a href="Easy/26  Remove Duplicates from Sorted Array/removeDuplicatesFromSortedArray.js">Solution</a> | 
