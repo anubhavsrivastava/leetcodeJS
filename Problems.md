@@ -1,4 +1,4 @@
-## Problems Solved - 111
+## Problems Solved - 112
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -6,6 +6,7 @@
 | <a href="Easy/7  Reverse Integer/">7</a> |  <a href="Easy/7  Reverse Integer/Readme.md">Reverse Integer</a>| Easy | <a href="Easy/7  Reverse Integer/reverseInteger.js">Solution</a> | 
 | <a href="Medium/8  String to Integer (atoi)/">8</a> |  <a href="Medium/8  String to Integer (atoi)/Readme.md">String to Integer (atoi)</a>| Medium | <a href="Medium/8  String to Integer (atoi)/stringToInteger(atoi).js">Solution</a> | 
 | <a href="Easy/9 Palindrome Number/">9</a> |  <a href="Easy/9 Palindrome Number/Readme.md">Palindrome Number</a>| Easy | <a href="Easy/9 Palindrome Number/palindromeNumber.js">Solution</a> | 
+| <a href="Easy/21  Merge Two Sorted Lists/">21</a> |  <a href="Easy/21  Merge Two Sorted Lists/Readme.md">Merge Two Sorted Lists</a>| Easy | <a href="Easy/21  Merge Two Sorted Lists/mergeTwoSortedLists.js">Solution</a> | 
 | <a href="Easy/26  Remove Duplicates from Sorted Array/">26</a> |  <a href="Easy/26  Remove Duplicates from Sorted Array/Readme.md">Remove Duplicates from Sorted Array</a>| Easy | <a href="Easy/26  Remove Duplicates from Sorted Array/removeDuplicatesFromSortedArray.js">Solution</a> | 
 | <a href="Easy/27  Remove Element/">27</a> |  <a href="Easy/27  Remove Element/Readme.md">Remove Element</a>| Easy | <a href="Easy/27  Remove Element/removeElement.js">Solution</a> | 
 | <a href="Easy/28 Implement strStr()/">28</a> |  <a href="Easy/28 Implement strStr()/Readme.md">Implement strStr()</a>| Easy | <a href="Easy/28 Implement strStr()/implementStrstr().js">Solution</a> | 
