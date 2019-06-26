@@ -1,4 +1,4 @@
-## Problems Solved - 108
+## Problems Solved - 109
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -22,6 +22,7 @@
 | <a href="Easy/155 Min Stack/">155</a> |  <a href="Easy/155 Min Stack/Readme.md">Min Stack</a>| Easy | <a href="Easy/155 Min Stack/minStack.js">Solution</a> | 
 | <a href="Easy/167 Two Sum II - Input array is sorted/">167</a> |  <a href="Easy/167 Two Sum II - Input array is sorted/Readme.md">Two Sum II - Input array is sorted</a>| Easy | <a href="Easy/167 Two Sum II - Input array is sorted/twoSumIiInputArrayIsSorted.js">Solution</a> | 
 | <a href="Easy/169 Majority Element/">169</a> |  <a href="Easy/169 Majority Element/Readme.md">Majority Element</a>| Easy | <a href="Easy/169 Majority Element/majorityElement.js">Solution</a> | 
+| <a href="Easy/189  Rotate Array/">189</a> |  <a href="Easy/189  Rotate Array/Readme.md">Rotate Array</a>| Easy | <a href="Easy/189  Rotate Array/rotateArray.js">Solution</a> | 
 | <a href="Easy/203  Remove Linked List Elements/">203</a> |  <a href="Easy/203  Remove Linked List Elements/Readme.md">Remove Linked List Elements</a>| Easy | <a href="Easy/203  Remove Linked List Elements/removeLinkedListElements.js">Solution</a> | 
 | <a href="Easy/205  Isomorphic Strings/">205</a> |  <a href="Easy/205  Isomorphic Strings/Readme.md">Isomorphic Strings</a>| Easy | <a href="Easy/205  Isomorphic Strings/isomorphicStrings.js">Solution</a> | 
 | <a href="Easy/217  Contains Duplicate/">217</a> |  <a href="Easy/217  Contains Duplicate/Readme.md">Contains Duplicate</a>| Easy | <a href="Easy/217  Contains Duplicate/containsDuplicate.js">Solution</a> | 
