@@ -1,4 +1,4 @@
-## Problems Solved - 110
+## Problems Solved - 111
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -10,6 +10,7 @@
 | <a href="Easy/27  Remove Element/">27</a> |  <a href="Easy/27  Remove Element/Readme.md">Remove Element</a>| Easy | <a href="Easy/27  Remove Element/removeElement.js">Solution</a> | 
 | <a href="Easy/28 Implement strStr()/">28</a> |  <a href="Easy/28 Implement strStr()/Readme.md">Implement strStr()</a>| Easy | <a href="Easy/28 Implement strStr()/implementStrstr().js">Solution</a> | 
 | <a href="Easy/58  Length of Last Word/">58</a> |  <a href="Easy/58  Length of Last Word/Readme.md">Length of Last Word</a>| Easy | <a href="Easy/58  Length of Last Word/lengthOfLastWord.js">Solution</a> | 
+| <a href="Easy/66  Plus One/">66</a> |  <a href="Easy/66  Plus One/Readme.md">Plus One</a>| Easy | <a href="Easy/66  Plus One/plusOne.js">Solution</a> | 
 | <a href="Easy/83 Remove Duplicates from Sorted List/">83</a> |  <a href="Easy/83 Remove Duplicates from Sorted List/Readme.md">Remove Duplicates from Sorted List</a>| Easy | <a href="Easy/83 Remove Duplicates from Sorted List/removeDuplicatesFromSortedList.js">Solution</a> | 
 | <a href="Easy/100 Same Tree/">100</a> |  <a href="Easy/100 Same Tree/Readme.md">Same Tree</a>| Easy | <a href="Easy/100 Same Tree/sameTree.js">Solution</a> | 
 | <a href="Easy/104 Maximum Depth of Binary Tree/">104</a> |  <a href="Easy/104 Maximum Depth of Binary Tree/Readme.md">Maximum Depth of Binary Tree</a>| Easy | <a href="Easy/104 Maximum Depth of Binary Tree/maximumDepthOfBinaryTree.js">Solution</a> | 
