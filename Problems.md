@@ -1,4 +1,4 @@
-## Problems Solved - 112
+## Problems Solved - 113
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -113,4 +113,5 @@
 | <a href="Easy/977  Squares of a Sorted Array/">977</a> |  <a href="Easy/977  Squares of a Sorted Array/Readme.md">Squares of a Sorted Array</a>| Easy | <a href="Easy/977  Squares of a Sorted Array/squaresOfASortedArray.js">Solution</a> | 
 | <a href="Easy/985  Sum of Even Numbers After Queries/">985</a> |  <a href="Easy/985  Sum of Even Numbers After Queries/Readme.md">Sum of Even Numbers After Queries</a>| Easy | <a href="Easy/985  Sum of Even Numbers After Queries/sumOfEvenNumbersAfterQueries.js">Solution</a> | 
 | <a href="Easy/1010  Pairs of Songs With Total Durations Divisible by 60/">1010</a> |  <a href="Easy/1010  Pairs of Songs With Total Durations Divisible by 60/Readme.md">Pairs of Songs With Total Durations Divisible by 60</a>| Easy | <a href="Easy/1010  Pairs of Songs With Total Durations Divisible by 60/pairsOfSongsWithTotalDurationsDivisibleBy60.js">Solution</a> | 
+| <a href="Easy/1051  Height Checker/">1051</a> |  <a href="Easy/1051  Height Checker/Readme.md">Height Checker</a>| Easy | <a href="Easy/1051  Height Checker/heightChecker.js">Solution</a> | 
 | <a href="Easy/1089  Duplicate Zeros/">1089</a> |  <a href="Easy/1089  Duplicate Zeros/Readme.md">Duplicate Zeros</a>| Easy | <a href="Easy/1089  Duplicate Zeros/duplicateZeros.js">Solution</a> | 
