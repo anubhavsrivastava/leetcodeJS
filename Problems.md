@@ -1,4 +1,4 @@
-## Problems Solved - 113
+## Problems Solved - 114
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -115,3 +115,4 @@
 | <a href="Easy/1010  Pairs of Songs With Total Durations Divisible by 60/">1010</a> |  <a href="Easy/1010  Pairs of Songs With Total Durations Divisible by 60/Readme.md">Pairs of Songs With Total Durations Divisible by 60</a>| Easy | <a href="Easy/1010  Pairs of Songs With Total Durations Divisible by 60/pairsOfSongsWithTotalDurationsDivisibleBy60.js">Solution</a> | 
 | <a href="Easy/1051  Height Checker/">1051</a> |  <a href="Easy/1051  Height Checker/Readme.md">Height Checker</a>| Easy | <a href="Easy/1051  Height Checker/heightChecker.js">Solution</a> | 
 | <a href="Easy/1089  Duplicate Zeros/">1089</a> |  <a href="Easy/1089  Duplicate Zeros/Readme.md">Duplicate Zeros</a>| Easy | <a href="Easy/1089  Duplicate Zeros/duplicateZeros.js">Solution</a> | 
+| <a href="Easy/1103  Distribute Candies to People/">1103</a> |  <a href="Easy/1103  Distribute Candies to People/Readme.md">Distribute Candies to People</a>| Easy | <a href="Easy/1103  Distribute Candies to People/distributeCandiesToPeople.js">Solution</a> | 
