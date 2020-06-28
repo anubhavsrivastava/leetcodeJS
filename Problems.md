@@ -1,4 +1,4 @@
-## Problems Solved - 115
+## Problems Solved - 116
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -116,4 +116,5 @@
 | <a href="Easy/1089  Duplicate Zeros/">1089</a> |  <a href="Easy/1089  Duplicate Zeros/Readme.md">Duplicate Zeros</a>| Easy | <a href="Easy/1089  Duplicate Zeros/duplicateZeros.js">Solution</a> | 
 | <a href="Easy/1103  Distribute Candies to People/">1103</a> |  <a href="Easy/1103  Distribute Candies to People/Readme.md">Distribute Candies to People</a>| Easy | <a href="Easy/1103  Distribute Candies to People/distributeCandiesToPeople.js">Solution</a> | 
 | <a href="Easy/1137  N-th Tribonacci Number/">1137</a> |  <a href="Easy/1137  N-th Tribonacci Number/Readme.md">N-th Tribonacci Number</a>| Easy | <a href="Easy/1137  N-th Tribonacci Number/nThTribonacciNumber.js">Solution</a> | 
+| <a href="Easy/1470  Shuffle the Array/">1470</a> |  <a href="Easy/1470  Shuffle the Array/Readme.md">Shuffle the Array</a>| Easy | <a href="Easy/1470  Shuffle the Array/shuffleTheArray.js">Solution</a> | 
 | <a href="Easy/1480  Running Sum of 1d Array/">1480</a> |  <a href="Easy/1480  Running Sum of 1d Array/Readme.md">Running Sum of 1d Array</a>| Easy | <a href="Easy/1480  Running Sum of 1d Array/runningSumOf1dArray.js">Solution</a> | 
