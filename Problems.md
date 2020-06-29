@@ -1,4 +1,4 @@
-## Problems Solved - 119
+## Problems Solved - 120
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -115,6 +115,7 @@
 | <a href="Easy/1051  Height Checker/">1051</a> |  <a href="Easy/1051  Height Checker/Readme.md">Height Checker</a>| Easy | <a href="Easy/1051  Height Checker/heightChecker.js">Solution</a> | 
 | <a href="Easy/1089  Duplicate Zeros/">1089</a> |  <a href="Easy/1089  Duplicate Zeros/Readme.md">Duplicate Zeros</a>| Easy | <a href="Easy/1089  Duplicate Zeros/duplicateZeros.js">Solution</a> | 
 | <a href="Easy/1103  Distribute Candies to People/">1103</a> |  <a href="Easy/1103  Distribute Candies to People/Readme.md">Distribute Candies to People</a>| Easy | <a href="Easy/1103  Distribute Candies to People/distributeCandiesToPeople.js">Solution</a> | 
+| <a href="Easy/1108  Defanging an IP Address/">1108</a> |  <a href="Easy/1108  Defanging an IP Address/Readme.md">Defanging an IP Address</a>| Easy | <a href="Easy/1108  Defanging an IP Address/defangingAnIpAddress.js">Solution</a> | 
 | <a href="Easy/1137  N-th Tribonacci Number/">1137</a> |  <a href="Easy/1137  N-th Tribonacci Number/Readme.md">N-th Tribonacci Number</a>| Easy | <a href="Easy/1137  N-th Tribonacci Number/nThTribonacciNumber.js">Solution</a> | 
 | <a href="Easy/1380  Lucky Numbers in a Matrix/">1380</a> |  <a href="Easy/1380  Lucky Numbers in a Matrix/Readme.md">Lucky Numbers in a Matrix</a>| Easy | <a href="Easy/1380  Lucky Numbers in a Matrix/luckyNumbersInAMatrix.js">Solution</a> | 
 | <a href="Easy/1431  Kids With the Greatest Number of Candies/">1431</a> |  <a href="Easy/1431  Kids With the Greatest Number of Candies/Readme.md">Kids With the Greatest Number of Candies</a>| Easy | <a href="Easy/1431  Kids With the Greatest Number of Candies/kidsWithTheGreatestNumberOfCandies.js">Solution</a> | 
