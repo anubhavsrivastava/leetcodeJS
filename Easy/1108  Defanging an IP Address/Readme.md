@@ -25,3 +25,10 @@ The given address is a valid IPv4 address.
 replacing '.' with '[.]'
 
 O(n)
+
+
+## Another solution
+
+    var defangIPaddr = function(address) {
+        return address.replace(/\./g,"[.]");
+    };
