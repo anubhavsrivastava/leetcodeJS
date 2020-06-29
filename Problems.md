@@ -1,4 +1,4 @@
-## Problems Solved - 118
+## Problems Solved - 119
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -120,3 +120,4 @@
 | <a href="Easy/1431  Kids With the Greatest Number of Candies/">1431</a> |  <a href="Easy/1431  Kids With the Greatest Number of Candies/Readme.md">Kids With the Greatest Number of Candies</a>| Easy | <a href="Easy/1431  Kids With the Greatest Number of Candies/kidsWithTheGreatestNumberOfCandies.js">Solution</a> | 
 | <a href="Easy/1470  Shuffle the Array/">1470</a> |  <a href="Easy/1470  Shuffle the Array/Readme.md">Shuffle the Array</a>| Easy | <a href="Easy/1470  Shuffle the Array/shuffleTheArray.js">Solution</a> | 
 | <a href="Easy/1480  Running Sum of 1d Array/">1480</a> |  <a href="Easy/1480  Running Sum of 1d Array/Readme.md">Running Sum of 1d Array</a>| Easy | <a href="Easy/1480  Running Sum of 1d Array/runningSumOf1dArray.js">Solution</a> | 
+| <a href="Easy/1486  XOR Operation in an Array/">1486</a> |  <a href="Easy/1486  XOR Operation in an Array/Readme.md">XOR Operation in an Array</a>| Easy | <a href="Easy/1486  XOR Operation in an Array/xorOperationInAnArray.js">Solution</a> | 
