@@ -1,4 +1,4 @@
-## Problems Solved - 121
+## Problems Solved - 122
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -50,6 +50,7 @@
 | <a href="Easy/389  Find the Difference/">389</a> |  <a href="Easy/389  Find the Difference/Readme.md">Find the Difference</a>| Easy | <a href="Easy/389  Find the Difference/findTheDifference.js">Solution</a> | 
 | <a href="Easy/404 Sum of Left Leaves/">404</a> |  <a href="Easy/404 Sum of Left Leaves/Readme.md">Sum of Left Leaves</a>| Easy | <a href="Easy/404 Sum of Left Leaves/sumOfLeftLeaves.js">Solution</a> | 
 | <a href="Easy/412 Fizz Buzz/">412</a> |  <a href="Easy/412 Fizz Buzz/Readme.md">Fizz Buzz</a>| Easy | <a href="Easy/412 Fizz Buzz/fizzBuzz.js">Solution</a> | 
+| <a href="Easy/441  Arranging Coins/">441</a> |  <a href="Easy/441  Arranging Coins/Readme.md">Arranging Coins</a>| Easy | <a href="Easy/441  Arranging Coins/arrangingCoins.js">Solution</a> | 
 | <a href="Easy/443 String Compression/">443</a> |  <a href="Easy/443 String Compression/Readme.md">String Compression</a>| Easy | <a href="Easy/443 String Compression/stringCompression.js">Solution</a> | 
 | <a href="Easy/461  Hamming Distance/">461</a> |  <a href="Easy/461  Hamming Distance/Readme.md">Hamming Distance</a>| Easy | <a href="Easy/461  Hamming Distance/hammingDistance.js">Solution</a> | 
 | <a href="Easy/476  Number Complement/">476</a> |  <a href="Easy/476  Number Complement/Readme.md">Number Complement</a>| Easy | <a href="Easy/476  Number Complement/numberComplement.js">Solution</a> | 
