@@ -1,4 +1,4 @@
-## Problems Solved - 122
+## Problems Solved - 123
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -118,6 +118,7 @@
 | <a href="Easy/1103  Distribute Candies to People/">1103</a> |  <a href="Easy/1103  Distribute Candies to People/Readme.md">Distribute Candies to People</a>| Easy | <a href="Easy/1103  Distribute Candies to People/distributeCandiesToPeople.js">Solution</a> | 
 | <a href="Easy/1108  Defanging an IP Address/">1108</a> |  <a href="Easy/1108  Defanging an IP Address/Readme.md">Defanging an IP Address</a>| Easy | <a href="Easy/1108  Defanging an IP Address/defangingAnIpAddress.js">Solution</a> | 
 | <a href="Easy/1137  N-th Tribonacci Number/">1137</a> |  <a href="Easy/1137  N-th Tribonacci Number/Readme.md">N-th Tribonacci Number</a>| Easy | <a href="Easy/1137  N-th Tribonacci Number/nThTribonacciNumber.js">Solution</a> | 
+| <a href="Easy/1281  Subtract the Product and Sum of Digits of an Integer/">1281</a> |  <a href="Easy/1281  Subtract the Product and Sum of Digits of an Integer/Readme.md">Subtract the Product and Sum of Digits of an Integer</a>| Easy | <a href="Easy/1281  Subtract the Product and Sum of Digits of an Integer/subtractTheProductAndSumOfDigitsOfAnInteger.js">Solution</a> | 
 | <a href="Easy/1313  Decompress Run-Length Encoded List/">1313</a> |  <a href="Easy/1313  Decompress Run-Length Encoded List/Readme.md">Decompress Run-Length Encoded List</a>| Easy | <a href="Easy/1313  Decompress Run-Length Encoded List/decompressRunLengthEncodedList.js">Solution</a> | 
 | <a href="Easy/1380  Lucky Numbers in a Matrix/">1380</a> |  <a href="Easy/1380  Lucky Numbers in a Matrix/Readme.md">Lucky Numbers in a Matrix</a>| Easy | <a href="Easy/1380  Lucky Numbers in a Matrix/luckyNumbersInAMatrix.js">Solution</a> | 
 | <a href="Easy/1431  Kids With the Greatest Number of Candies/">1431</a> |  <a href="Easy/1431  Kids With the Greatest Number of Candies/Readme.md">Kids With the Greatest Number of Candies</a>| Easy | <a href="Easy/1431  Kids With the Greatest Number of Candies/kidsWithTheGreatestNumberOfCandies.js">Solution</a> | 
