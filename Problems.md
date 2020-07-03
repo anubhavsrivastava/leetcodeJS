@@ -1,4 +1,4 @@
-## Problems Solved - 126
+## Problems Solved - 127
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -108,6 +108,7 @@
 | <a href="Medium/950  Reveal Cards In Increasing Order/">950</a> |  <a href="Medium/950  Reveal Cards In Increasing Order/Readme.md">Reveal Cards In Increasing Order</a>| Medium | <a href="Medium/950  Reveal Cards In Increasing Order/revealCardsInIncreasingOrder.js">Solution</a> | 
 | <a href="Easy/953  Verifying an Alien Dictionary/">953</a> |  <a href="Easy/953  Verifying an Alien Dictionary/Readme.md">Verifying an Alien Dictionary</a>| Easy | <a href="Easy/953  Verifying an Alien Dictionary/verifyingAnAlienDictionary.js">Solution</a> | 
 | <a href="Medium/954  Array of Doubled Pairs/">954</a> |  <a href="Medium/954  Array of Doubled Pairs/Readme.md">Array of Doubled Pairs</a>| Medium | <a href="Medium/954  Array of Doubled Pairs/arrayOfDoubledPairs.js">Solution</a> | 
+| <a href="Medium/957  Prison Cells After N Days/">957</a> |  <a href="Medium/957  Prison Cells After N Days/Readme.md">Prison Cells After N Days</a>| Medium | <a href="Medium/957  Prison Cells After N Days/prisonCellsAfterNDays.js">Solution</a> | 
 | <a href="Medium/958  Check Completeness of a Binary Tree/">958</a> |  <a href="Medium/958  Check Completeness of a Binary Tree/Readme.md">Check Completeness of a Binary Tree</a>| Medium | <a href="Medium/958  Check Completeness of a Binary Tree/checkCompletenessOfABinaryTree.js">Solution</a> | 
 | <a href="Easy/961  N-Repeated Element in Size 2N Array/">961</a> |  <a href="Easy/961  N-Repeated Element in Size 2N Array/Readme.md">N-Repeated Element in Size 2N Array</a>| Easy | <a href="Easy/961  N-Repeated Element in Size 2N Array/nRepeatedElementInSize2nArray.js">Solution</a> | 
 | <a href="Medium/962  Maximum Width Ramp/">962</a> |  <a href="Medium/962  Maximum Width Ramp/Readme.md">Maximum Width Ramp</a>| Medium | <a href="Medium/962  Maximum Width Ramp/maximumWidthRamp.js">Solution</a> | 
