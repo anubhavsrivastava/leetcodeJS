@@ -1,4 +1,4 @@
-## Problems Solved - 128
+## Problems Solved - 129
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -130,3 +130,4 @@
 | <a href="Easy/1470  Shuffle the Array/">1470</a> |  <a href="Easy/1470  Shuffle the Array/Readme.md">Shuffle the Array</a>| Easy | <a href="Easy/1470  Shuffle the Array/shuffleTheArray.js">Solution</a> | 
 | <a href="Easy/1480  Running Sum of 1d Array/">1480</a> |  <a href="Easy/1480  Running Sum of 1d Array/Readme.md">Running Sum of 1d Array</a>| Easy | <a href="Easy/1480  Running Sum of 1d Array/runningSumOf1dArray.js">Solution</a> | 
 | <a href="Easy/1486  XOR Operation in an Array/">1486</a> |  <a href="Easy/1486  XOR Operation in an Array/Readme.md">XOR Operation in an Array</a>| Easy | <a href="Easy/1486  XOR Operation in an Array/xorOperationInAnArray.js">Solution</a> | 
+| <a href="Easy/1496  Path Crossing/">1496</a> |  <a href="Easy/1496  Path Crossing/Readme.md">Path Crossing</a>| Easy | <a href="Easy/1496  Path Crossing/pathCrossing.js">Solution</a> | 
