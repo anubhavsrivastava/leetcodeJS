@@ -1,4 +1,4 @@
-## Problems Solved - 127
+## Problems Solved - 128
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -14,6 +14,7 @@
 | <a href="Easy/66  Plus One/">66</a> |  <a href="Easy/66  Plus One/Readme.md">Plus One</a>| Easy | <a href="Easy/66  Plus One/plusOne.js">Solution</a> | 
 | <a href="Easy/83 Remove Duplicates from Sorted List/">83</a> |  <a href="Easy/83 Remove Duplicates from Sorted List/Readme.md">Remove Duplicates from Sorted List</a>| Easy | <a href="Easy/83 Remove Duplicates from Sorted List/removeDuplicatesFromSortedList.js">Solution</a> | 
 | <a href="Easy/100 Same Tree/">100</a> |  <a href="Easy/100 Same Tree/Readme.md">Same Tree</a>| Easy | <a href="Easy/100 Same Tree/sameTree.js">Solution</a> | 
+| <a href="Medium/102  Binary Tree Level Order Traversal/">102</a> |  <a href="Medium/102  Binary Tree Level Order Traversal/Readme.md">Binary Tree Level Order Traversal</a>| Medium | <a href="Medium/102  Binary Tree Level Order Traversal/binaryTreeLevelOrderTraversal.js">Solution</a> | 
 | <a href="Easy/104 Maximum Depth of Binary Tree/">104</a> |  <a href="Easy/104 Maximum Depth of Binary Tree/Readme.md">Maximum Depth of Binary Tree</a>| Easy | <a href="Easy/104 Maximum Depth of Binary Tree/maximumDepthOfBinaryTree.js">Solution</a> | 
 | <a href="Easy/107  Binary Tree Level Order Traversal II/">107</a> |  <a href="Easy/107  Binary Tree Level Order Traversal II/Readme.md">Binary Tree Level Order Traversal II</a>| Easy | <a href="Easy/107  Binary Tree Level Order Traversal II/binaryTreeLevelOrderTraversalIi.js">Solution</a> | 
 | <a href="Easy/111 Minimum Depth of Binary Tree/">111</a> |  <a href="Easy/111 Minimum Depth of Binary Tree/Readme.md">Minimum Depth of Binary Tree</a>| Easy | <a href="Easy/111 Minimum Depth of Binary Tree/minimumDepthOfBinaryTree.js">Solution</a> | 
