@@ -5,6 +5,7 @@ Given an array nums, write a function to move all 0's to the end of it while mai
 Example:
 
 Input: [0,1,0,3,12]
+
 Output: [1,3,12,0,0]
 
 Note:
@@ -14,4 +15,4 @@ Minimize the total number of operations.
 
 ## Pre analysis
 
-Will rebuild array if 0 is encountered
+Will use two pointer approach
