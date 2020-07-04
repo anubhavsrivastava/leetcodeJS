@@ -59,3 +59,30 @@ Will factorise with 2 then 3 then 5, and find whether the divident is ugly.
 
             return true;
         };
+
+
+---
+
+    var isUgly = function(num) {
+        let primes = [2,3,5];
+        let ugly = !!num;
+        while(ugly) {
+            ugly = primes.some(prime=>{
+                if ( !(num % prime) ){
+                    num /= prime;
+                    return true;
+                };
+                return false;
+            });
+        };
+        return num === 1;
+    };
+
+---
+
+    var isUgly = function(num) {
+        for (const p of [2, 3, 5])
+        while (num && num % p == 0)
+            num /= p;
+        return num == 1;
+    };
