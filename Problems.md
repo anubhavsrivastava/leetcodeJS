@@ -1,4 +1,4 @@
-## Problems Solved - 130
+## Problems Solved - 131
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -40,6 +40,7 @@
 | <a href="Medium/238  Product of Array Except Self/">238</a> |  <a href="Medium/238  Product of Array Except Self/Readme.md">Product of Array Except Self</a>| Medium | <a href="Medium/238  Product of Array Except Self/productOfArrayExceptSelf.js">Solution</a> | 
 | <a href="Easy/242 Valid Anagram/">242</a> |  <a href="Easy/242 Valid Anagram/Readme.md">Valid Anagram</a>| Easy | <a href="Easy/242 Valid Anagram/validAnagram.js">Solution</a> | 
 | <a href="Easy/263  Ugly Number/">263</a> |  <a href="Easy/263  Ugly Number/Readme.md">Ugly Number</a>| Easy | <a href="Easy/263  Ugly Number/uglyNumber.js">Solution</a> | 
+| <a href="Medium/264  Ugly Number II/">264</a> |  <a href="Medium/264  Ugly Number II/Readme.md">Ugly Number II</a>| Medium | <a href="Medium/264  Ugly Number II/uglyNumberIi.js">Solution</a> | 
 | <a href="Easy/268 Missing Number/">268</a> |  <a href="Easy/268 Missing Number/Readme.md">Missing Number</a>| Easy | <a href="Easy/268 Missing Number/missingNumber.js">Solution</a> | 
 | <a href="Easy/283  Move Zeroes/">283</a> |  <a href="Easy/283  Move Zeroes/Readme.md">Move Zeroes</a>| Easy | <a href="Easy/283  Move Zeroes/moveZeroes.js">Solution</a> | 
 | <a href="Easy/292 Nim Game/">292</a> |  <a href="Easy/292 Nim Game/Readme.md">Nim Game</a>| Easy | <a href="Easy/292 Nim Game/nimGame.js">Solution</a> | 
