@@ -1,4 +1,4 @@
-## Problems Solved - 133
+## Problems Solved - 135
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -19,6 +19,7 @@
 | <a href="Easy/107  Binary Tree Level Order Traversal II/">107</a> |  <a href="Easy/107  Binary Tree Level Order Traversal II/Readme.md">Binary Tree Level Order Traversal II</a>| Easy | <a href="Easy/107  Binary Tree Level Order Traversal II/binaryTreeLevelOrderTraversalIi.js">Solution</a> | 
 | <a href="Easy/111 Minimum Depth of Binary Tree/">111</a> |  <a href="Easy/111 Minimum Depth of Binary Tree/Readme.md">Minimum Depth of Binary Tree</a>| Easy | <a href="Easy/111 Minimum Depth of Binary Tree/minimumDepthOfBinaryTree.js">Solution</a> | 
 | <a href="Easy/112 Path Sum/">112</a> |  <a href="Easy/112 Path Sum/Readme.md">Path Sum</a>| Easy | <a href="Easy/112 Path Sum/pathSum.js">Solution</a> | 
+| <a href="Medium/114  Flatten Binary Tree to Linked List/">114</a> |  <a href="Medium/114  Flatten Binary Tree to Linked List/Readme.md">Flatten Binary Tree to Linked List</a>| Medium | <a href="Medium/114  Flatten Binary Tree to Linked List/flattenBinaryTreeToLinkedList.js">Solution</a> | 
 | <a href="Easy/118 Pascal's Triangle/">118</a> |  <a href="Easy/118 Pascal's Triangle/Readme.md">Pascal's Triangle</a>| Easy | <a href="Easy/118 Pascal's Triangle/pascal'sTriangle.js">Solution</a> | 
 | <a href="Easy/121  Best Time to Buy and Sell Stock/">121</a> |  <a href="Easy/121  Best Time to Buy and Sell Stock/Readme.md">Best Time to Buy and Sell Stock</a>| Easy | <a href="Easy/121  Best Time to Buy and Sell Stock/bestTimeToBuyAndSellStock.js">Solution</a> | 
 | <a href="Easy/125 Valid Palindrome/">125</a> |  <a href="Easy/125 Valid Palindrome/Readme.md">Valid Palindrome</a>| Easy | <a href="Easy/125 Valid Palindrome/validPalindrome.js">Solution</a> | 
@@ -53,6 +54,7 @@
 | <a href="Easy/389  Find the Difference/">389</a> |  <a href="Easy/389  Find the Difference/Readme.md">Find the Difference</a>| Easy | <a href="Easy/389  Find the Difference/findTheDifference.js">Solution</a> | 
 | <a href="Easy/404 Sum of Left Leaves/">404</a> |  <a href="Easy/404 Sum of Left Leaves/Readme.md">Sum of Left Leaves</a>| Easy | <a href="Easy/404 Sum of Left Leaves/sumOfLeftLeaves.js">Solution</a> | 
 | <a href="Easy/412 Fizz Buzz/">412</a> |  <a href="Easy/412 Fizz Buzz/Readme.md">Fizz Buzz</a>| Easy | <a href="Easy/412 Fizz Buzz/fizzBuzz.js">Solution</a> | 
+| <a href="Medium/430  Flatten a Multilevel Doubly Linked List/">430</a> |  <a href="Medium/430  Flatten a Multilevel Doubly Linked List/Readme.md">Flatten a Multilevel Doubly Linked List</a>| Medium | <a href="Medium/430  Flatten a Multilevel Doubly Linked List/flattenAMultilevelDoublyLinkedList.js">Solution</a> | 
 | <a href="Easy/441  Arranging Coins/">441</a> |  <a href="Easy/441  Arranging Coins/Readme.md">Arranging Coins</a>| Easy | <a href="Easy/441  Arranging Coins/arrangingCoins.js">Solution</a> | 
 | <a href="Easy/443 String Compression/">443</a> |  <a href="Easy/443 String Compression/Readme.md">String Compression</a>| Easy | <a href="Easy/443 String Compression/stringCompression.js">Solution</a> | 
 | <a href="Easy/461  Hamming Distance/">461</a> |  <a href="Easy/461  Hamming Distance/Readme.md">Hamming Distance</a>| Easy | <a href="Easy/461  Hamming Distance/hammingDistance.js">Solution</a> | 
