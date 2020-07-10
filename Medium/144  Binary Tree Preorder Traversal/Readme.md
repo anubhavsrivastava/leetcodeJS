@@ -25,22 +25,22 @@ Solved recursively.
 Iterative approach
 
 var preorderTraversal = function(root) {
-  
- let stack = [root]
-let result = [];
-  
- while(stack.length){
-let t = stack.pop();
-result.push(t.val);
-if(t.right){
-stack.push(t.right)
-}
-if(t.left){
-stack.push(t.left)
-}
-  
- }
-  
-  
- return result
-};
+
+      let stack = [root]
+      let result = [];
+
+      while(stack.length){
+         let t = stack.pop();
+         result.push(t.val);
+      if(t.right){
+         stack.push(t.right)
+      }
+      if(t.left){
+         stack.push(t.left)
+      }
+
+      }
+
+
+      return result
+      };
