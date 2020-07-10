@@ -1,4 +1,4 @@
-## Problems Solved - 135
+## Problems Solved - 136
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -24,6 +24,7 @@
 | <a href="Easy/121  Best Time to Buy and Sell Stock/">121</a> |  <a href="Easy/121  Best Time to Buy and Sell Stock/Readme.md">Best Time to Buy and Sell Stock</a>| Easy | <a href="Easy/121  Best Time to Buy and Sell Stock/bestTimeToBuyAndSellStock.js">Solution</a> | 
 | <a href="Easy/125 Valid Palindrome/">125</a> |  <a href="Easy/125 Valid Palindrome/Readme.md">Valid Palindrome</a>| Easy | <a href="Easy/125 Valid Palindrome/validPalindrome.js">Solution</a> | 
 | <a href="Easy/136 Single Number/">136</a> |  <a href="Easy/136 Single Number/Readme.md">Single Number</a>| Easy | <a href="Easy/136 Single Number/singleNumber.js">Solution</a> | 
+| <a href="Medium/144  Binary Tree Preorder Traversal/">144</a> |  <a href="Medium/144  Binary Tree Preorder Traversal/Readme.md">Binary Tree Preorder Traversal</a>| Medium | <a href="Medium/144  Binary Tree Preorder Traversal/binaryTreePreorderTraversal.js">Solution</a> | 
 | <a href="Medium/151  Reverse Words in a String/">151</a> |  <a href="Medium/151  Reverse Words in a String/Readme.md">Reverse Words in a String</a>| Medium | <a href="Medium/151  Reverse Words in a String/reverseWordsInAString.js">Solution</a> | 
 | <a href="Easy/155 Min Stack/">155</a> |  <a href="Easy/155 Min Stack/Readme.md">Min Stack</a>| Easy | <a href="Easy/155 Min Stack/minStack.js">Solution</a> | 
 | <a href="Easy/167 Two Sum II - Input array is sorted/">167</a> |  <a href="Easy/167 Two Sum II - Input array is sorted/Readme.md">Two Sum II - Input array is sorted</a>| Easy | <a href="Easy/167 Two Sum II - Input array is sorted/twoSumIiInputArrayIsSorted.js">Solution</a> | 
