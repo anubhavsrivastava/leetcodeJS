@@ -1,4 +1,4 @@
-## Problems Solved - 138
+## Problems Solved - 137
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -138,5 +138,4 @@
 | <a href="Easy/1486  XOR Operation in an Array/">1486</a> |  <a href="Easy/1486  XOR Operation in an Array/Readme.md">XOR Operation in an Array</a>| Easy | <a href="Easy/1486  XOR Operation in an Array/xorOperationInAnArray.js">Solution</a> | 
 | <a href="Easy/1496  Path Crossing/">1496</a> |  <a href="Easy/1496  Path Crossing/Readme.md">Path Crossing</a>| Easy | <a href="Easy/1496  Path Crossing/pathCrossing.js">Solution</a> | 
 | <a href="Medium/1497  Check If Array Pairs Are Divisible by k/">1497</a> |  <a href="Medium/1497  Check If Array Pairs Are Divisible by k/Readme.md">Check If Array Pairs Are Divisible by k</a>| Medium | <a href="Medium/1497  Check If Array Pairs Are Divisible by k/checkIfArrayPairsAreDivisibleByK.js">Solution</a> | 
-| <a href="Easy/1502  Can Make Arithmetic Progression From Sequence/">1502</a> |  <a href="Easy/1502  Can Make Arithmetic Progression From Sequence/Readme.md">Can Make Arithmetic Progression From Sequence</a>| Easy | <a href="Easy/1502  Can Make Arithmetic Progression From Sequence/canMakeArithmeticProgressionFromSequence.js">Solution</a> | 
 | <a href="Easy/1512  Number of Good Pairs/">1512</a> |  <a href="Easy/1512  Number of Good Pairs/Readme.md">Number of Good Pairs</a>| Easy | <a href="Easy/1512  Number of Good Pairs/numberOfGoodPairs.js">Solution</a> | 

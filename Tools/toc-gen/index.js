@@ -1,5 +1,5 @@
 const { writeFileSync } = require('fs');
-const { join, resolve } = require('path');
+const {  resolve } = require('path');
 const { rootPath } = require('./package.json');
 const problemsStruct = require('./dirReader');
 const problemDirectory = resolve(__dirname, rootPath);
