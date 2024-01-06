@@ -1,7 +1,7 @@
 const scrapper = require('./scrapper');
 const { rootPath } = require('./package.json');
-const { stat, mkdirSync, writeFileSync, readFileSync } = require('fs');
-const { join, resolve } = require('path');
+const { stat, mkdirSync, writeFileSync } = require('fs');
+const {  resolve } = require('path');
 
 var arguments = process.argv.slice(2);
 if (!arguments.length) {

@@ -5,7 +5,7 @@ module.exports = {
 	extract: async leetCodeProblemURL => {
 		const UrlObj = url.parse(leetCodeProblemURL);
 
-		const browser = await puppeteer.launch({ headless: true });
+		const browser = await puppeteer.launch({ headless: false });
 		const page = await browser.newPage();
 		await page.setViewport({ width: 1920, height: 926 });
 		await page.goto(leetCodeProblemURL);
@@ -51,18 +51,18 @@ module.exports = {
 					// console.log(problemData);
 				});
 			} else {
-				result = await page.waitFor('.difficulty-label').then(async () => {
+				result = await page.waitFor("div.mt-3 > div.inline-block.text-sm.font-medium.capitalize").then(async () => {
 					console.log('Main content loaded. Evaluating...');
 					let problemData = await page.evaluate(
 						async ({ UrlObj }) => {
 							let result = {};
-							result.difficulty = document.querySelectorAll('.difficulty-label')[0].innerText;
-							result.completeProblemName = document.querySelectorAll('.question-title .row h3')[0].innerText;
+							result.difficulty = document.querySelectorAll("div.mt-3 > div.inline-block.text-sm.font-medium.capitalize")[0].innerText;
+							result.completeProblemName = document.querySelectorAll('div > a.text-label-1')[0].innerText;
 							// problemName: "872. Leaf-Similar Trees"
 							let problemArr = result.completeProblemName.split('. ');
 							result.problemName = problemArr[1];
 							result.problemNumber = problemArr[0];
-							result.question = document.querySelectorAll('.question-content div div')[0].innerText;
+							result.question = document.querySelectorAll('[data-track-load="description_content"]')[0].innerText;
 							return result;
 						},
 						{

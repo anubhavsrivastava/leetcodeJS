@@ -1,4 +1,4 @@
-## Problems Solved - 137
+## Problems Solved - 138
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -139,3 +139,4 @@
 | <a href="Easy/1496  Path Crossing/">1496</a> |  <a href="Easy/1496  Path Crossing/Readme.md">Path Crossing</a>| Easy | <a href="Easy/1496  Path Crossing/pathCrossing.js">Solution</a> | 
 | <a href="Medium/1497  Check If Array Pairs Are Divisible by k/">1497</a> |  <a href="Medium/1497  Check If Array Pairs Are Divisible by k/Readme.md">Check If Array Pairs Are Divisible by k</a>| Medium | <a href="Medium/1497  Check If Array Pairs Are Divisible by k/checkIfArrayPairsAreDivisibleByK.js">Solution</a> | 
 | <a href="Easy/1512  Number of Good Pairs/">1512</a> |  <a href="Easy/1512  Number of Good Pairs/Readme.md">Number of Good Pairs</a>| Easy | <a href="Easy/1512  Number of Good Pairs/numberOfGoodPairs.js">Solution</a> | 
+| <a href="Easy/2726 Calculator with Method Chaining/">2726</a> |  <a href="Easy/2726 Calculator with Method Chaining/Readme.md">Calculator with Method Chaining</a>| Easy | <a href="Easy/2726 Calculator with Method Chaining/calculatorWithMethodChaining.js">Solution</a> | 
