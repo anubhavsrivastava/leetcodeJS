@@ -27,7 +27,7 @@ function generateProblemIndex(problems, fileToWrite ){
 			.join('');
 		const solutionFileName = solutionFile.charAt(0).toLowerCase() + solutionFile.substr(1) + '.js';
 
-		ptableBody += `| <a href="${p.difficulty + '/' + p.name + '/'}">${p.problemNumber}</a> |  <a href="${p.difficulty + '/' + p.name }">${p.problemTitle}</a>| ${p.difficulty} | <a href="${p.difficulty + '/' + p.name + '/' + solutionFileName}">Solution</a> | \n`;
+		ptableBody += `| <a href="${'/' + p.difficulty + '/' + p.name + '/'}">${p.problemNumber}</a> |  <a href="${'/' + p.difficulty + '/' + p.name }">${p.problemTitle}</a>| ${p.difficulty} | <a href="${'/' + p.difficulty + '/' + p.name + '/' + solutionFileName}">Solution</a> | \n`;
 	});
 
 	return	writeFileSync(fileToWrite, `${header}${tableHeader}${ptableBody}`);
