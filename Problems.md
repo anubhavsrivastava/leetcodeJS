@@ -1,4 +1,4 @@
-## Problems Solved - 141
+## Problems Solved - 142
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -140,6 +140,7 @@
 | <a href="Medium/1497  Check If Array Pairs Are Divisible by k/">1497</a> |  <a href="Medium/1497  Check If Array Pairs Are Divisible by k/Readme.md">Check If Array Pairs Are Divisible by k</a>| Medium | <a href="Medium/1497  Check If Array Pairs Are Divisible by k/checkIfArrayPairsAreDivisibleByK.js">Solution</a> | 
 | <a href="Easy/1512  Number of Good Pairs/">1512</a> |  <a href="Easy/1512  Number of Good Pairs/Readme.md">Number of Good Pairs</a>| Easy | <a href="Easy/1512  Number of Good Pairs/numberOfGoodPairs.js">Solution</a> | 
 | <a href="Medium/2637 Promise Time Limit/">2637</a> |  <a href="Medium/2637 Promise Time Limit/Readme.md">Promise Time Limit</a>| Medium | <a href="Medium/2637 Promise Time Limit/promiseTimeLimit.js">Solution</a> | 
+| <a href="Easy/2667 Create Hello World Function/">2667</a> |  <a href="Easy/2667 Create Hello World Function/Readme.md">Create Hello World Function</a>| Easy | <a href="Easy/2667 Create Hello World Function/createHelloWorldFunction.js">Solution</a> | 
 | <a href="Medium/2694 Event Emitter/">2694</a> |  <a href="Medium/2694 Event Emitter/Readme.md">Event Emitter</a>| Medium | <a href="Medium/2694 Event Emitter/eventEmitter.js">Solution</a> | 
 | <a href="Easy/2695 Array Wrapper/">2695</a> |  <a href="Easy/2695 Array Wrapper/Readme.md">Array Wrapper</a>| Easy | <a href="Easy/2695 Array Wrapper/arrayWrapper.js">Solution</a> | 
 | <a href="Easy/2726 Calculator with Method Chaining/">2726</a> |  <a href="Easy/2726 Calculator with Method Chaining/Readme.md">Calculator with Method Chaining</a>| Easy | <a href="Easy/2726 Calculator with Method Chaining/calculatorWithMethodChaining.js">Solution</a> | 
