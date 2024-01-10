@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"gen-toc": "node Tools/toc-gen/index.js && git add Problems.md && git add Easy/Readme.md && git add Medium/Readme.md ",
+		"gen-toc": "node Tools/toc-gen/index.js && git add Problems.md && git add Easy/README.md && git add Medium/README.md ",
 		"prepare": "cd Tools/toc-gen && npm install && cd .. && cd scaffer && npm install "
 	},
 	"husky": {
