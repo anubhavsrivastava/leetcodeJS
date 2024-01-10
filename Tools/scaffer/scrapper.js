@@ -10,6 +10,14 @@ module.exports = {
 		await page.setViewport({ width: 1920, height: 926 });
 		await page.goto(leetCodeProblemURL);
 
+		
+		await page.evaluate(() => {
+			localStorage.setItem('used-dynamic-layout', 'true');
+			localStorage.setItem('dynamicIdeLayoutGuide', 'true');
+		});
+		
+		await page.goto(leetCodeProblemURL);
+
 		let result;
 		await page.waitFor('body').then(async () => {
 			const isSPA = await page.evaluate(() => document.querySelectorAll('#app') && document.querySelectorAll('#app').length);
@@ -51,13 +59,13 @@ module.exports = {
 					// console.log(problemData);
 				});
 			} else {
-				result = await page.waitFor("div.mt-3 > div.inline-block.text-sm.font-medium.capitalize").then(async () => {
+				result = await page.waitFor("div.inline-flex.items-center.justify-center.text-caption.gap-1.rounded-full.bg-fill-secondary").then(async () => {
 					console.log('Main content loaded. Evaluating...');
 					let problemData = await page.evaluate(
 						async ({ UrlObj }) => {
 							let result = {};
-							result.difficulty = document.querySelectorAll("div.mt-3 > div.inline-block.text-sm.font-medium.capitalize")[0].innerText;
-							result.completeProblemName = document.querySelectorAll('div > a.text-label-1')[0].innerText;
+							result.difficulty = document.querySelectorAll("div.inline-flex.items-center.justify-center.text-caption.gap-1.rounded-full.bg-fill-secondary")[0].innerText;
+							result.completeProblemName = document.querySelectorAll('div.flex.items-start > div > a')[0].innerText;
 							// problemName: "872. Leaf-Similar Trees"
 							let problemArr = result.completeProblemName.split('. ');
 							result.problemName = problemArr[1];
