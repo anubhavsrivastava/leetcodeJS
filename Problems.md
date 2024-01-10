@@ -1,4 +1,4 @@
-## Problems Solved - 145
+## Problems Solved - 146
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -140,6 +140,7 @@
 | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/">1497</a> |  <a href="/Medium/1497  Check If Array Pairs Are Divisible by k">Check If Array Pairs Are Divisible by k</a>| Medium | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/checkIfArrayPairsAreDivisibleByK.js">Solution</a> | 
 | <a href="/Easy/1512  Number of Good Pairs/">1512</a> |  <a href="/Easy/1512  Number of Good Pairs">Number of Good Pairs</a>| Easy | <a href="/Easy/1512  Number of Good Pairs/numberOfGoodPairs.js">Solution</a> | 
 | <a href="/Easy/2620 Counter/">2620</a> |  <a href="/Easy/2620 Counter">Counter</a>| Easy | <a href="/Easy/2620 Counter/counter.js">Solution</a> | 
+| <a href="/Easy/2635 Apply Transform Over Each Element in Array/">2635</a> |  <a href="/Easy/2635 Apply Transform Over Each Element in Array">Apply Transform Over Each Element in Array</a>| Easy | <a href="/Easy/2635 Apply Transform Over Each Element in Array/applyTransformOverEachElementInArray.js">Solution</a> | 
 | <a href="/Medium/2637 Promise Time Limit/">2637</a> |  <a href="/Medium/2637 Promise Time Limit">Promise Time Limit</a>| Medium | <a href="/Medium/2637 Promise Time Limit/promiseTimeLimit.js">Solution</a> | 
 | <a href="/Easy/2665 Counter II/">2665</a> |  <a href="/Easy/2665 Counter II">Counter II</a>| Easy | <a href="/Easy/2665 Counter II/counterIi.js">Solution</a> | 
 | <a href="/Easy/2667 Create Hello World Function/">2667</a> |  <a href="/Easy/2667 Create Hello World Function">Create Hello World Function</a>| Easy | <a href="/Easy/2667 Create Hello World Function/createHelloWorldFunction.js">Solution</a> | 

@@ -1,4 +1,4 @@
-## Problems Solved - 122
+## Problems Solved - 123
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -119,6 +119,7 @@
 | <a href="/Easy/1496  Path Crossing/">1496</a> |  <a href="/Easy/1496  Path Crossing">Path Crossing</a>| Easy | <a href="/Easy/1496  Path Crossing/pathCrossing.js">Solution</a> | 
 | <a href="/Easy/1512  Number of Good Pairs/">1512</a> |  <a href="/Easy/1512  Number of Good Pairs">Number of Good Pairs</a>| Easy | <a href="/Easy/1512  Number of Good Pairs/numberOfGoodPairs.js">Solution</a> | 
 | <a href="/Easy/2620 Counter/">2620</a> |  <a href="/Easy/2620 Counter">Counter</a>| Easy | <a href="/Easy/2620 Counter/counter.js">Solution</a> | 
+| <a href="/Easy/2635 Apply Transform Over Each Element in Array/">2635</a> |  <a href="/Easy/2635 Apply Transform Over Each Element in Array">Apply Transform Over Each Element in Array</a>| Easy | <a href="/Easy/2635 Apply Transform Over Each Element in Array/applyTransformOverEachElementInArray.js">Solution</a> | 
 | <a href="/Easy/2665 Counter II/">2665</a> |  <a href="/Easy/2665 Counter II">Counter II</a>| Easy | <a href="/Easy/2665 Counter II/counterIi.js">Solution</a> | 
 | <a href="/Easy/2667 Create Hello World Function/">2667</a> |  <a href="/Easy/2667 Create Hello World Function">Create Hello World Function</a>| Easy | <a href="/Easy/2667 Create Hello World Function/createHelloWorldFunction.js">Solution</a> | 
 | <a href="/Easy/2695 Array Wrapper/">2695</a> |  <a href="/Easy/2695 Array Wrapper">Array Wrapper</a>| Easy | <a href="/Easy/2695 Array Wrapper/arrayWrapper.js">Solution</a> | 
