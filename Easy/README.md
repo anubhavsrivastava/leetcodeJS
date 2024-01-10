@@ -1,4 +1,4 @@
-## Problems Solved - 123
+## Problems Solved - 124
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -125,3 +125,4 @@
 | <a href="/Easy/2695 Array Wrapper/">2695</a> |  <a href="/Easy/2695 Array Wrapper">Array Wrapper</a>| Easy | <a href="/Easy/2695 Array Wrapper/arrayWrapper.js">Solution</a> | 
 | <a href="/Easy/2704 To Be Or Not To Be/">2704</a> |  <a href="/Easy/2704 To Be Or Not To Be">To Be Or Not To Be</a>| Easy | <a href="/Easy/2704 To Be Or Not To Be/toBeOrNotToBe.js">Solution</a> | 
 | <a href="/Easy/2726 Calculator with Method Chaining/">2726</a> |  <a href="/Easy/2726 Calculator with Method Chaining">Calculator with Method Chaining</a>| Easy | <a href="/Easy/2726 Calculator with Method Chaining/calculatorWithMethodChaining.js">Solution</a> | 
+| <a href="/Easy/2727 Is Object Empty/">2727</a> |  <a href="/Easy/2727 Is Object Empty">Is Object Empty</a>| Easy | <a href="/Easy/2727 Is Object Empty/isObjectEmpty.js">Solution</a> | 
