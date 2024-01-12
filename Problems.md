@@ -1,4 +1,4 @@
-## Problems Solved - 153
+## Problems Solved - 154
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -145,6 +145,7 @@
 | <a href="/Easy/2635 Apply Transform Over Each Element in Array/">2635</a> |  <a href="/Easy/2635 Apply Transform Over Each Element in Array">Apply Transform Over Each Element in Array</a>| Easy | <a href="/Easy/2635 Apply Transform Over Each Element in Array/applyTransformOverEachElementInArray.js">Solution</a> | 
 | <a href="/Medium/2637 Promise Time Limit/">2637</a> |  <a href="/Medium/2637 Promise Time Limit">Promise Time Limit</a>| Medium | <a href="/Medium/2637 Promise Time Limit/promiseTimeLimit.js">Solution</a> | 
 | <a href="/Easy/2648 Generate Fibonacci Sequence/">2648</a> |  <a href="/Easy/2648 Generate Fibonacci Sequence">Generate Fibonacci Sequence</a>| Easy | <a href="/Easy/2648 Generate Fibonacci Sequence/generateFibonacciSequence.js">Solution</a> | 
+| <a href="/Easy/2652 Sum Multiples/">2652</a> |  <a href="/Easy/2652 Sum Multiples">Sum Multiples</a>| Easy | <a href="/Easy/2652 Sum Multiples/sumMultiples.js">Solution</a> | 
 | <a href="/Easy/2665 Counter II/">2665</a> |  <a href="/Easy/2665 Counter II">Counter II</a>| Easy | <a href="/Easy/2665 Counter II/counterIi.js">Solution</a> | 
 | <a href="/Easy/2667 Create Hello World Function/">2667</a> |  <a href="/Easy/2667 Create Hello World Function">Create Hello World Function</a>| Easy | <a href="/Easy/2667 Create Hello World Function/createHelloWorldFunction.js">Solution</a> | 
 | <a href="/Medium/2694 Event Emitter/">2694</a> |  <a href="/Medium/2694 Event Emitter">Event Emitter</a>| Medium | <a href="/Medium/2694 Event Emitter/eventEmitter.js">Solution</a> | 
