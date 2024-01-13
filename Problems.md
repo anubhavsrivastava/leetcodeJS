@@ -1,4 +1,4 @@
-## Problems Solved - 154
+## Problems Solved - 155
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -141,6 +141,7 @@
 | <a href="/Easy/1512  Number of Good Pairs/">1512</a> |  <a href="/Easy/1512  Number of Good Pairs">Number of Good Pairs</a>| Easy | <a href="/Easy/1512  Number of Good Pairs/numberOfGoodPairs.js">Solution</a> | 
 | <a href="/Easy/2469 Convert the Temperature/">2469</a> |  <a href="/Easy/2469 Convert the Temperature">Convert the Temperature</a>| Easy | <a href="/Easy/2469 Convert the Temperature/convertTheTemperature.js">Solution</a> | 
 | <a href="/Easy/2620 Counter/">2620</a> |  <a href="/Easy/2620 Counter">Counter</a>| Easy | <a href="/Easy/2620 Counter/counter.js">Solution</a> | 
+| <a href="/Easy/2626 Array Reduce Transformation/">2626</a> |  <a href="/Easy/2626 Array Reduce Transformation">Array Reduce Transformation</a>| Easy | <a href="/Easy/2626 Array Reduce Transformation/arrayReduceTransformation.js">Solution</a> | 
 | <a href="/Easy/2634 Filter Elements from Array/">2634</a> |  <a href="/Easy/2634 Filter Elements from Array">Filter Elements from Array</a>| Easy | <a href="/Easy/2634 Filter Elements from Array/filterElementsFromArray.js">Solution</a> | 
 | <a href="/Easy/2635 Apply Transform Over Each Element in Array/">2635</a> |  <a href="/Easy/2635 Apply Transform Over Each Element in Array">Apply Transform Over Each Element in Array</a>| Easy | <a href="/Easy/2635 Apply Transform Over Each Element in Array/applyTransformOverEachElementInArray.js">Solution</a> | 
 | <a href="/Medium/2637 Promise Time Limit/">2637</a> |  <a href="/Medium/2637 Promise Time Limit">Promise Time Limit</a>| Medium | <a href="/Medium/2637 Promise Time Limit/promiseTimeLimit.js">Solution</a> | 
