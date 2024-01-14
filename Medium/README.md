@@ -1,4 +1,4 @@
-## Problems Solved - 23
+## Problems Solved - 24
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -23,5 +23,6 @@
 | <a href="/Medium/962  Maximum Width Ramp/">962</a> |  <a href="/Medium/962  Maximum Width Ramp">Maximum Width Ramp</a>| Medium | <a href="/Medium/962  Maximum Width Ramp/maximumWidthRamp.js">Solution</a> | 
 | <a href="/Medium/1344  Angle Between Hands of a Clock/">1344</a> |  <a href="/Medium/1344  Angle Between Hands of a Clock">Angle Between Hands of a Clock</a>| Medium | <a href="/Medium/1344  Angle Between Hands of a Clock/angleBetweenHandsOfAClock.js">Solution</a> | 
 | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/">1497</a> |  <a href="/Medium/1497  Check If Array Pairs Are Divisible by k">Check If Array Pairs Are Divisible by k</a>| Medium | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/checkIfArrayPairsAreDivisibleByK.js">Solution</a> | 
+| <a href="/Medium/2623 Memoize/">2623</a> |  <a href="/Medium/2623 Memoize">Memoize</a>| Medium | <a href="/Medium/2623 Memoize/memoize.js">Solution</a> | 
 | <a href="/Medium/2637 Promise Time Limit/">2637</a> |  <a href="/Medium/2637 Promise Time Limit">Promise Time Limit</a>| Medium | <a href="/Medium/2637 Promise Time Limit/promiseTimeLimit.js">Solution</a> | 
 | <a href="/Medium/2694 Event Emitter/">2694</a> |  <a href="/Medium/2694 Event Emitter">Event Emitter</a>| Medium | <a href="/Medium/2694 Event Emitter/eventEmitter.js">Solution</a> | 
