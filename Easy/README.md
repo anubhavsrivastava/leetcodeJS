@@ -1,4 +1,4 @@
-## Problems Solved - 135
+## Problems Solved - 136
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -135,5 +135,6 @@
 | <a href="/Easy/2704 To Be Or Not To Be/">2704</a> |  <a href="/Easy/2704 To Be Or Not To Be">To Be Or Not To Be</a>| Easy | <a href="/Easy/2704 To Be Or Not To Be/toBeOrNotToBe.js">Solution</a> | 
 | <a href="/Easy/2715 Timeout Cancellation/">2715</a> |  <a href="/Easy/2715 Timeout Cancellation">Timeout Cancellation</a>| Easy | <a href="/Easy/2715 Timeout Cancellation/timeoutCancellation.js">Solution</a> | 
 | <a href="/Easy/2723 Add Two Promises/">2723</a> |  <a href="/Easy/2723 Add Two Promises">Add Two Promises</a>| Easy | <a href="/Easy/2723 Add Two Promises/addTwoPromises.js">Solution</a> | 
+| <a href="/Easy/2725 Interval Cancellation/">2725</a> |  <a href="/Easy/2725 Interval Cancellation">Interval Cancellation</a>| Easy | <a href="/Easy/2725 Interval Cancellation/intervalCancellation.js">Solution</a> | 
 | <a href="/Easy/2726 Calculator with Method Chaining/">2726</a> |  <a href="/Easy/2726 Calculator with Method Chaining">Calculator with Method Chaining</a>| Easy | <a href="/Easy/2726 Calculator with Method Chaining/calculatorWithMethodChaining.js">Solution</a> | 
 | <a href="/Easy/2727 Is Object Empty/">2727</a> |  <a href="/Easy/2727 Is Object Empty">Is Object Empty</a>| Easy | <a href="/Easy/2727 Is Object Empty/isObjectEmpty.js">Solution</a> | 
