@@ -1,4 +1,4 @@
-## Problems Solved - 133
+## Problems Solved - 134
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -127,6 +127,7 @@
 | <a href="/Easy/2648 Generate Fibonacci Sequence/">2648</a> |  <a href="/Easy/2648 Generate Fibonacci Sequence">Generate Fibonacci Sequence</a>| Easy | <a href="/Easy/2648 Generate Fibonacci Sequence/generateFibonacciSequence.js">Solution</a> | 
 | <a href="/Easy/2652 Sum Multiples/">2652</a> |  <a href="/Easy/2652 Sum Multiples">Sum Multiples</a>| Easy | <a href="/Easy/2652 Sum Multiples/sumMultiples.js">Solution</a> | 
 | <a href="/Easy/2665 Counter II/">2665</a> |  <a href="/Easy/2665 Counter II">Counter II</a>| Easy | <a href="/Easy/2665 Counter II/counterIi.js">Solution</a> | 
+| <a href="/Easy/2666 Allow One Function Call/">2666</a> |  <a href="/Easy/2666 Allow One Function Call">Allow One Function Call</a>| Easy | <a href="/Easy/2666 Allow One Function Call/allowOneFunctionCall.js">Solution</a> | 
 | <a href="/Easy/2667 Create Hello World Function/">2667</a> |  <a href="/Easy/2667 Create Hello World Function">Create Hello World Function</a>| Easy | <a href="/Easy/2667 Create Hello World Function/createHelloWorldFunction.js">Solution</a> | 
 | <a href="/Easy/2695 Array Wrapper/">2695</a> |  <a href="/Easy/2695 Array Wrapper">Array Wrapper</a>| Easy | <a href="/Easy/2695 Array Wrapper/arrayWrapper.js">Solution</a> | 
 | <a href="/Easy/2703 Return Length of Arguments Passed/">2703</a> |  <a href="/Easy/2703 Return Length of Arguments Passed">Return Length of Arguments Passed</a>| Easy | <a href="/Easy/2703 Return Length of Arguments Passed/returnLengthOfArgumentsPassed.js">Solution</a> | 

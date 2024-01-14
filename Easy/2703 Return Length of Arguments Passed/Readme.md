@@ -31,4 +31,12 @@ args is a valid JSON array
 
 ## Pre analysis
 
-None
+Will make use of destructured `args` to get length of arguments passed. It could laos be done via the `arguments` object.
+
+## Another solution
+
+```javascript
+var argumentsLength = function () {
+  return arguments.length;
+};
+```
