@@ -1,4 +1,4 @@
-## Problems Solved - 162
+## Problems Solved - 163
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -146,6 +146,7 @@
 | <a href="/Medium/2623 Memoize/">2623</a> |  <a href="/Medium/2623 Memoize">Memoize</a>| Medium | <a href="/Medium/2623 Memoize/memoize.js">Solution</a> | 
 | <a href="/Easy/2626 Array Reduce Transformation/">2626</a> |  <a href="/Easy/2626 Array Reduce Transformation">Array Reduce Transformation</a>| Easy | <a href="/Easy/2626 Array Reduce Transformation/arrayReduceTransformation.js">Solution</a> | 
 | <a href="/Easy/2629 Function Composition/">2629</a> |  <a href="/Easy/2629 Function Composition">Function Composition</a>| Easy | <a href="/Easy/2629 Function Composition/functionComposition.js">Solution</a> | 
+| <a href="/Medium/2631 Group By/">2631</a> |  <a href="/Medium/2631 Group By">Group By</a>| Medium | <a href="/Medium/2631 Group By/groupBy.js">Solution</a> | 
 | <a href="/Easy/2634 Filter Elements from Array/">2634</a> |  <a href="/Easy/2634 Filter Elements from Array">Filter Elements from Array</a>| Easy | <a href="/Easy/2634 Filter Elements from Array/filterElementsFromArray.js">Solution</a> | 
 | <a href="/Easy/2635 Apply Transform Over Each Element in Array/">2635</a> |  <a href="/Easy/2635 Apply Transform Over Each Element in Array">Apply Transform Over Each Element in Array</a>| Easy | <a href="/Easy/2635 Apply Transform Over Each Element in Array/applyTransformOverEachElementInArray.js">Solution</a> | 
 | <a href="/Medium/2637 Promise Time Limit/">2637</a> |  <a href="/Medium/2637 Promise Time Limit">Promise Time Limit</a>| Medium | <a href="/Medium/2637 Promise Time Limit/promiseTimeLimit.js">Solution</a> | 
