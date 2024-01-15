@@ -1,4 +1,4 @@
-## Problems Solved - 137
+## Problems Solved - 138
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -119,6 +119,7 @@
 | <a href="/Easy/1496  Path Crossing/">1496</a> |  <a href="/Easy/1496  Path Crossing">Path Crossing</a>| Easy | <a href="/Easy/1496  Path Crossing/pathCrossing.js">Solution</a> | 
 | <a href="/Easy/1512  Number of Good Pairs/">1512</a> |  <a href="/Easy/1512  Number of Good Pairs">Number of Good Pairs</a>| Easy | <a href="/Easy/1512  Number of Good Pairs/numberOfGoodPairs.js">Solution</a> | 
 | <a href="/Easy/2469 Convert the Temperature/">2469</a> |  <a href="/Easy/2469 Convert the Temperature">Convert the Temperature</a>| Easy | <a href="/Easy/2469 Convert the Temperature/convertTheTemperature.js">Solution</a> | 
+| <a href="/Easy/2619 Array Prototype Last/">2619</a> |  <a href="/Easy/2619 Array Prototype Last">Array Prototype Last</a>| Easy | <a href="/Easy/2619 Array Prototype Last/arrayPrototypeLast.js">Solution</a> | 
 | <a href="/Easy/2620 Counter/">2620</a> |  <a href="/Easy/2620 Counter">Counter</a>| Easy | <a href="/Easy/2620 Counter/counter.js">Solution</a> | 
 | <a href="/Easy/2621 Sleep/">2621</a> |  <a href="/Easy/2621 Sleep">Sleep</a>| Easy | <a href="/Easy/2621 Sleep/sleep.js">Solution</a> | 
 | <a href="/Easy/2626 Array Reduce Transformation/">2626</a> |  <a href="/Easy/2626 Array Reduce Transformation">Array Reduce Transformation</a>| Easy | <a href="/Easy/2626 Array Reduce Transformation/arrayReduceTransformation.js">Solution</a> | 
