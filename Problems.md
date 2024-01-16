@@ -1,4 +1,4 @@
-## Problems Solved - 164
+## Problems Solved - 165
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -77,6 +77,7 @@
 | <a href="/Easy/657 Robot Return to Origin/">657</a> |  <a href="/Easy/657 Robot Return to Origin">Robot Return to Origin</a>| Easy | <a href="/Easy/657 Robot Return to Origin/robotReturnToOrigin.js">Solution</a> | 
 | <a href="/Easy/669  Trim a Binary Search Tree/">669</a> |  <a href="/Easy/669  Trim a Binary Search Tree">Trim a Binary Search Tree</a>| Easy | <a href="/Easy/669  Trim a Binary Search Tree/trimABinarySearchTree.js">Solution</a> | 
 | <a href="/Easy/693  Binary Number with Alternating Bits/">693</a> |  <a href="/Easy/693  Binary Number with Alternating Bits">Binary Number with Alternating Bits</a>| Easy | <a href="/Easy/693  Binary Number with Alternating Bits/binaryNumberWithAlternatingBits.js">Solution</a> | 
+| <a href="/Easy/697 Degree of an Array/">697</a> |  <a href="/Easy/697 Degree of an Array">Degree of an Array</a>| Easy | <a href="/Easy/697 Degree of an Array/degreeOfAnArray.js">Solution</a> | 
 | <a href="/Easy/709 To Lower Case/">709</a> |  <a href="/Easy/709 To Lower Case">To Lower Case</a>| Easy | <a href="/Easy/709 To Lower Case/toLowerCase.js">Solution</a> | 
 | <a href="/Easy/728  Self Dividing Numbers/">728</a> |  <a href="/Easy/728  Self Dividing Numbers">Self Dividing Numbers</a>| Easy | <a href="/Easy/728  Self Dividing Numbers/selfDividingNumbers.js">Solution</a> | 
 | <a href="/Easy/771 Jewels and Stones/">771</a> |  <a href="/Easy/771 Jewels and Stones">Jewels and Stones</a>| Easy | <a href="/Easy/771 Jewels and Stones/jewelsAndStones.js">Solution</a> | 
