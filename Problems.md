@@ -1,4 +1,4 @@
-## Problems Solved - 166
+## Problems Solved - 167
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -144,6 +144,7 @@
 | <a href="/Easy/2619 Array Prototype Last/">2619</a> |  <a href="/Easy/2619 Array Prototype Last">Array Prototype Last</a>| Easy | <a href="/Easy/2619 Array Prototype Last/arrayPrototypeLast.js">Solution</a> | 
 | <a href="/Easy/2620 Counter/">2620</a> |  <a href="/Easy/2620 Counter">Counter</a>| Easy | <a href="/Easy/2620 Counter/counter.js">Solution</a> | 
 | <a href="/Easy/2621 Sleep/">2621</a> |  <a href="/Easy/2621 Sleep">Sleep</a>| Easy | <a href="/Easy/2621 Sleep/sleep.js">Solution</a> | 
+| <a href="/Medium/2622 Cache With Time Limit/">2622</a> |  <a href="/Medium/2622 Cache With Time Limit">Cache With Time Limit</a>| Medium | <a href="/Medium/2622 Cache With Time Limit/cacheWithTimeLimit.js">Solution</a> | 
 | <a href="/Medium/2623 Memoize/">2623</a> |  <a href="/Medium/2623 Memoize">Memoize</a>| Medium | <a href="/Medium/2623 Memoize/memoize.js">Solution</a> | 
 | <a href="/Easy/2626 Array Reduce Transformation/">2626</a> |  <a href="/Easy/2626 Array Reduce Transformation">Array Reduce Transformation</a>| Easy | <a href="/Easy/2626 Array Reduce Transformation/arrayReduceTransformation.js">Solution</a> | 
 | <a href="/Easy/2629 Function Composition/">2629</a> |  <a href="/Easy/2629 Function Composition">Function Composition</a>| Easy | <a href="/Easy/2629 Function Composition/functionComposition.js">Solution</a> | 
