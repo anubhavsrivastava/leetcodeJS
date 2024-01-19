@@ -1,4 +1,4 @@
-## Problems Solved - 27
+## Problems Solved - 28
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -28,4 +28,5 @@
 | <a href="/Medium/2631 Group By/">2631</a> |  <a href="/Medium/2631 Group By">Group By</a>| Medium | <a href="/Medium/2631 Group By/groupBy.js">Solution</a> | 
 | <a href="/Medium/2637 Promise Time Limit/">2637</a> |  <a href="/Medium/2637 Promise Time Limit">Promise Time Limit</a>| Medium | <a href="/Medium/2637 Promise Time Limit/promiseTimeLimit.js">Solution</a> | 
 | <a href="/Medium/2694 Event Emitter/">2694</a> |  <a href="/Medium/2694 Event Emitter">Event Emitter</a>| Medium | <a href="/Medium/2694 Event Emitter/eventEmitter.js">Solution</a> | 
+| <a href="/Medium/2721 Execute Asynchronous Functions in Parallel/">2721</a> |  <a href="/Medium/2721 Execute Asynchronous Functions in Parallel">Execute Asynchronous Functions in Parallel</a>| Medium | <a href="/Medium/2721 Execute Asynchronous Functions in Parallel/executeAsynchronousFunctionsInParallel.js">Solution</a> | 
 | <a href="/Medium/2722 Join Two Arrays by ID/">2722</a> |  <a href="/Medium/2722 Join Two Arrays by ID">Join Two Arrays by ID</a>| Medium | <a href="/Medium/2722 Join Two Arrays by ID/joinTwoArraysById.js">Solution</a> | 

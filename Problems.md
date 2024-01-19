@@ -1,4 +1,4 @@
-## Problems Solved - 167
+## Problems Solved - 168
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -163,6 +163,7 @@
 | <a href="/Easy/2703 Return Length of Arguments Passed/">2703</a> |  <a href="/Easy/2703 Return Length of Arguments Passed">Return Length of Arguments Passed</a>| Easy | <a href="/Easy/2703 Return Length of Arguments Passed/returnLengthOfArgumentsPassed.js">Solution</a> | 
 | <a href="/Easy/2704 To Be Or Not To Be/">2704</a> |  <a href="/Easy/2704 To Be Or Not To Be">To Be Or Not To Be</a>| Easy | <a href="/Easy/2704 To Be Or Not To Be/toBeOrNotToBe.js">Solution</a> | 
 | <a href="/Easy/2715 Timeout Cancellation/">2715</a> |  <a href="/Easy/2715 Timeout Cancellation">Timeout Cancellation</a>| Easy | <a href="/Easy/2715 Timeout Cancellation/timeoutCancellation.js">Solution</a> | 
+| <a href="/Medium/2721 Execute Asynchronous Functions in Parallel/">2721</a> |  <a href="/Medium/2721 Execute Asynchronous Functions in Parallel">Execute Asynchronous Functions in Parallel</a>| Medium | <a href="/Medium/2721 Execute Asynchronous Functions in Parallel/executeAsynchronousFunctionsInParallel.js">Solution</a> | 
 | <a href="/Medium/2722 Join Two Arrays by ID/">2722</a> |  <a href="/Medium/2722 Join Two Arrays by ID">Join Two Arrays by ID</a>| Medium | <a href="/Medium/2722 Join Two Arrays by ID/joinTwoArraysById.js">Solution</a> | 
 | <a href="/Easy/2723 Add Two Promises/">2723</a> |  <a href="/Easy/2723 Add Two Promises">Add Two Promises</a>| Easy | <a href="/Easy/2723 Add Two Promises/addTwoPromises.js">Solution</a> | 
 | <a href="/Easy/2724 Sort By/">2724</a> |  <a href="/Easy/2724 Sort By">Sort By</a>| Easy | <a href="/Easy/2724 Sort By/sortBy.js">Solution</a> | 
