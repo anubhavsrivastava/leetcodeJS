@@ -1,4 +1,4 @@
-## Problems Solved - 28
+## Problems Solved - 29
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -25,6 +25,7 @@
 | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/">1497</a> |  <a href="/Medium/1497  Check If Array Pairs Are Divisible by k">Check If Array Pairs Are Divisible by k</a>| Medium | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/checkIfArrayPairsAreDivisibleByK.js">Solution</a> | 
 | <a href="/Medium/2622 Cache With Time Limit/">2622</a> |  <a href="/Medium/2622 Cache With Time Limit">Cache With Time Limit</a>| Medium | <a href="/Medium/2622 Cache With Time Limit/cacheWithTimeLimit.js">Solution</a> | 
 | <a href="/Medium/2623 Memoize/">2623</a> |  <a href="/Medium/2623 Memoize">Memoize</a>| Medium | <a href="/Medium/2623 Memoize/memoize.js">Solution</a> | 
+| <a href="/Medium/2625 Flatten Deeply Nested Array/">2625</a> |  <a href="/Medium/2625 Flatten Deeply Nested Array">Flatten Deeply Nested Array</a>| Medium | <a href="/Medium/2625 Flatten Deeply Nested Array/flattenDeeplyNestedArray.js">Solution</a> | 
 | <a href="/Medium/2631 Group By/">2631</a> |  <a href="/Medium/2631 Group By">Group By</a>| Medium | <a href="/Medium/2631 Group By/groupBy.js">Solution</a> | 
 | <a href="/Medium/2637 Promise Time Limit/">2637</a> |  <a href="/Medium/2637 Promise Time Limit">Promise Time Limit</a>| Medium | <a href="/Medium/2637 Promise Time Limit/promiseTimeLimit.js">Solution</a> | 
 | <a href="/Medium/2694 Event Emitter/">2694</a> |  <a href="/Medium/2694 Event Emitter">Event Emitter</a>| Medium | <a href="/Medium/2694 Event Emitter/eventEmitter.js">Solution</a> | 
