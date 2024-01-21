@@ -1,4 +1,4 @@
-## Problems Solved - 140
+## Problems Solved - 141
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -10,6 +10,7 @@
 | <a href="/Easy/27  Remove Element/">27</a> |  <a href="/Easy/27  Remove Element">Remove Element</a>| Easy | <a href="/Easy/27  Remove Element/removeElement.js">Solution</a> | 
 | <a href="/Easy/28 Implement strStr()/">28</a> |  <a href="/Easy/28 Implement strStr()">Implement strStr()</a>| Easy | <a href="/Easy/28 Implement strStr()/implementStrstr().js">Solution</a> | 
 | <a href="/Easy/58  Length of Last Word/">58</a> |  <a href="/Easy/58  Length of Last Word">Length of Last Word</a>| Easy | <a href="/Easy/58  Length of Last Word/lengthOfLastWord.js">Solution</a> | 
+| <a href="/Easy/58 Length of Last Word/">58</a> |  <a href="/Easy/58 Length of Last Word">Length of Last Word</a>| Easy | <a href="/Easy/58 Length of Last Word/lengthOfLastWord.js">Solution</a> | 
 | <a href="/Easy/66  Plus One/">66</a> |  <a href="/Easy/66  Plus One">Plus One</a>| Easy | <a href="/Easy/66  Plus One/plusOne.js">Solution</a> | 
 | <a href="/Easy/83 Remove Duplicates from Sorted List/">83</a> |  <a href="/Easy/83 Remove Duplicates from Sorted List">Remove Duplicates from Sorted List</a>| Easy | <a href="/Easy/83 Remove Duplicates from Sorted List/removeDuplicatesFromSortedList.js">Solution</a> | 
 | <a href="/Easy/100 Same Tree/">100</a> |  <a href="/Easy/100 Same Tree">Same Tree</a>| Easy | <a href="/Easy/100 Same Tree/sameTree.js">Solution</a> | 
