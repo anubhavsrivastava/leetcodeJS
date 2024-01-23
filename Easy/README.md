@@ -1,4 +1,4 @@
-## Problems Solved - 142
+## Problems Solved - 143
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -120,6 +120,7 @@
 | <a href="/Easy/1486  XOR Operation in an Array/">1486</a> |  <a href="/Easy/1486  XOR Operation in an Array">XOR Operation in an Array</a>| Easy | <a href="/Easy/1486  XOR Operation in an Array/xorOperationInAnArray.js">Solution</a> | 
 | <a href="/Easy/1496  Path Crossing/">1496</a> |  <a href="/Easy/1496  Path Crossing">Path Crossing</a>| Easy | <a href="/Easy/1496  Path Crossing/pathCrossing.js">Solution</a> | 
 | <a href="/Easy/1512  Number of Good Pairs/">1512</a> |  <a href="/Easy/1512  Number of Good Pairs">Number of Good Pairs</a>| Easy | <a href="/Easy/1512  Number of Good Pairs/numberOfGoodPairs.js">Solution</a> | 
+| <a href="/Easy/1920 Build Array from Permutation/">1920</a> |  <a href="/Easy/1920 Build Array from Permutation">Build Array from Permutation</a>| Easy | <a href="/Easy/1920 Build Array from Permutation/buildArrayFromPermutation.js">Solution</a> | 
 | <a href="/Easy/1929 Concatenation of Array/">1929</a> |  <a href="/Easy/1929 Concatenation of Array">Concatenation of Array</a>| Easy | <a href="/Easy/1929 Concatenation of Array/concatenationOfArray.js">Solution</a> | 
 | <a href="/Easy/2469 Convert the Temperature/">2469</a> |  <a href="/Easy/2469 Convert the Temperature">Convert the Temperature</a>| Easy | <a href="/Easy/2469 Convert the Temperature/convertTheTemperature.js">Solution</a> | 
 | <a href="/Easy/2619 Array Prototype Last/">2619</a> |  <a href="/Easy/2619 Array Prototype Last">Array Prototype Last</a>| Easy | <a href="/Easy/2619 Array Prototype Last/arrayPrototypeLast.js">Solution</a> | 
