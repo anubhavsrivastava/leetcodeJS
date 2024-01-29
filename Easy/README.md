@@ -1,4 +1,4 @@
-## Problems Solved - 146
+## Problems Solved - 147
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -120,6 +120,7 @@
 | <a href="/Easy/1486  XOR Operation in an Array/">1486</a> |  <a href="/Easy/1486  XOR Operation in an Array">XOR Operation in an Array</a>| Easy | <a href="/Easy/1486  XOR Operation in an Array/xorOperationInAnArray.js">Solution</a> | 
 | <a href="/Easy/1496  Path Crossing/">1496</a> |  <a href="/Easy/1496  Path Crossing">Path Crossing</a>| Easy | <a href="/Easy/1496  Path Crossing/pathCrossing.js">Solution</a> | 
 | <a href="/Easy/1512  Number of Good Pairs/">1512</a> |  <a href="/Easy/1512  Number of Good Pairs">Number of Good Pairs</a>| Easy | <a href="/Easy/1512  Number of Good Pairs/numberOfGoodPairs.js">Solution</a> | 
+| <a href="/Easy/1672 Richest Customer Wealth/">1672</a> |  <a href="/Easy/1672 Richest Customer Wealth">Richest Customer Wealth</a>| Easy | <a href="/Easy/1672 Richest Customer Wealth/richestCustomerWealth.js">Solution</a> | 
 | <a href="/Easy/1920 Build Array from Permutation/">1920</a> |  <a href="/Easy/1920 Build Array from Permutation">Build Array from Permutation</a>| Easy | <a href="/Easy/1920 Build Array from Permutation/buildArrayFromPermutation.js">Solution</a> | 
 | <a href="/Easy/1929 Concatenation of Array/">1929</a> |  <a href="/Easy/1929 Concatenation of Array">Concatenation of Array</a>| Easy | <a href="/Easy/1929 Concatenation of Array/concatenationOfArray.js">Solution</a> | 
 | <a href="/Easy/2011 Final Value of Variable After Performing Operations/">2011</a> |  <a href="/Easy/2011 Final Value of Variable After Performing Operations">Final Value of Variable After Performing Operations</a>| Easy | <a href="/Easy/2011 Final Value of Variable After Performing Operations/finalValueOfVariableAfterPerformingOperations.js">Solution</a> | 
