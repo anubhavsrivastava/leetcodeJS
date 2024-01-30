@@ -1,4 +1,4 @@
-## Problems Solved - 178
+## Problems Solved - 179
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -133,6 +133,7 @@
 | <a href="/Easy/1323  Maximum 69 Number/">1323</a> |  <a href="/Easy/1323  Maximum 69 Number">Maximum 69 Number</a>| Easy | <a href="/Easy/1323  Maximum 69 Number/maximum69Number.js">Solution</a> | 
 | <a href="/Medium/1344  Angle Between Hands of a Clock/">1344</a> |  <a href="/Medium/1344  Angle Between Hands of a Clock">Angle Between Hands of a Clock</a>| Medium | <a href="/Medium/1344  Angle Between Hands of a Clock/angleBetweenHandsOfAClock.js">Solution</a> | 
 | <a href="/Easy/1351  Count Negative Numbers in a Sorted Matrix/">1351</a> |  <a href="/Easy/1351  Count Negative Numbers in a Sorted Matrix">Count Negative Numbers in a Sorted Matrix</a>| Easy | <a href="/Easy/1351  Count Negative Numbers in a Sorted Matrix/countNegativeNumbersInASortedMatrix.js">Solution</a> | 
+| <a href="/Easy/1365 How Many Numbers Are Smaller Than the Current Number/">1365</a> |  <a href="/Easy/1365 How Many Numbers Are Smaller Than the Current Number">How Many Numbers Are Smaller Than the Current Number</a>| Easy | <a href="/Easy/1365 How Many Numbers Are Smaller Than the Current Number/howManyNumbersAreSmallerThanTheCurrentNumber.js">Solution</a> | 
 | <a href="/Easy/1380  Lucky Numbers in a Matrix/">1380</a> |  <a href="/Easy/1380  Lucky Numbers in a Matrix">Lucky Numbers in a Matrix</a>| Easy | <a href="/Easy/1380  Lucky Numbers in a Matrix/luckyNumbersInAMatrix.js">Solution</a> | 
 | <a href="/Easy/1431  Kids With the Greatest Number of Candies/">1431</a> |  <a href="/Easy/1431  Kids With the Greatest Number of Candies">Kids With the Greatest Number of Candies</a>| Easy | <a href="/Easy/1431  Kids With the Greatest Number of Candies/kidsWithTheGreatestNumberOfCandies.js">Solution</a> | 
 | <a href="/Easy/1470  Shuffle the Array/">1470</a> |  <a href="/Easy/1470  Shuffle the Array">Shuffle the Array</a>| Easy | <a href="/Easy/1470  Shuffle the Array/shuffleTheArray.js">Solution</a> | 
