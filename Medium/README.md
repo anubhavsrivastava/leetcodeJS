@@ -1,4 +1,4 @@
-## Problems Solved - 29
+## Problems Solved - 30
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -12,6 +12,7 @@
 | <a href="/Medium/264  Ugly Number II/">264</a> |  <a href="/Medium/264  Ugly Number II">Ugly Number II</a>| Medium | <a href="/Medium/264  Ugly Number II/uglyNumberIi.js">Solution</a> | 
 | <a href="/Medium/430  Flatten a Multilevel Doubly Linked List/">430</a> |  <a href="/Medium/430  Flatten a Multilevel Doubly Linked List">Flatten a Multilevel Doubly Linked List</a>| Medium | <a href="/Medium/430  Flatten a Multilevel Doubly Linked List/flattenAMultilevelDoublyLinkedList.js">Solution</a> | 
 | <a href="/Medium/535  Encode and Decode TinyURL/">535</a> |  <a href="/Medium/535  Encode and Decode TinyURL">Encode and Decode TinyURL</a>| Medium | <a href="/Medium/535  Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 
+| <a href="/Medium/535 Encode and Decode TinyURL/">535</a> |  <a href="/Medium/535 Encode and Decode TinyURL">Encode and Decode TinyURL</a>| Medium | <a href="/Medium/535 Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 
 | <a href="/Medium/938  Range Sum of BST/">938</a> |  <a href="/Medium/938  Range Sum of BST">Range Sum of BST</a>| Medium | <a href="/Medium/938  Range Sum of BST/rangeSumOfBst.js">Solution</a> | 
 | <a href="/Medium/944  Delete Columns to Make Sorted/">944</a> |  <a href="/Medium/944  Delete Columns to Make Sorted">Delete Columns to Make Sorted</a>| Medium | <a href="/Medium/944  Delete Columns to Make Sorted/deleteColumnsToMakeSorted.js">Solution</a> | 
 | <a href="/Medium/945  Minimum Increment to Make Array Unique/">945</a> |  <a href="/Medium/945  Minimum Increment to Make Array Unique">Minimum Increment to Make Array Unique</a>| Medium | <a href="/Medium/945  Minimum Increment to Make Array Unique/minimumIncrementToMakeArrayUnique.js">Solution</a> | 

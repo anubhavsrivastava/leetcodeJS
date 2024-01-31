@@ -1,4 +1,4 @@
-## Problems Solved - 179
+## Problems Solved - 180
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -67,6 +67,7 @@
 | <a href="/Easy/504  Base 7/">504</a> |  <a href="/Easy/504  Base 7">Base 7</a>| Easy | <a href="/Easy/504  Base 7/base7.js">Solution</a> | 
 | <a href="/Easy/520 Detect Capital/">520</a> |  <a href="/Easy/520 Detect Capital">Detect Capital</a>| Easy | <a href="/Easy/520 Detect Capital/detectCapital.js">Solution</a> | 
 | <a href="/Medium/535  Encode and Decode TinyURL/">535</a> |  <a href="/Medium/535  Encode and Decode TinyURL">Encode and Decode TinyURL</a>| Medium | <a href="/Medium/535  Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 
+| <a href="/Medium/535 Encode and Decode TinyURL/">535</a> |  <a href="/Medium/535 Encode and Decode TinyURL">Encode and Decode TinyURL</a>| Medium | <a href="/Medium/535 Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 
 | <a href="/Easy/541 Reverse String II/">541</a> |  <a href="/Easy/541 Reverse String II">Reverse String II</a>| Easy | <a href="/Easy/541 Reverse String II/reverseStringIi.js">Solution</a> | 
 | <a href="/Easy/551 Student Attendance Record I/">551</a> |  <a href="/Easy/551 Student Attendance Record I">Student Attendance Record I</a>| Easy | <a href="/Easy/551 Student Attendance Record I/studentAttendanceRecordI.js">Solution</a> | 
 | <a href="/Easy/557 Reverse Words in a String III/">557</a> |  <a href="/Easy/557 Reverse Words in a String III">Reverse Words in a String III</a>| Easy | <a href="/Easy/557 Reverse Words in a String III/reverseWordsInAStringIii.js">Solution</a> | 
