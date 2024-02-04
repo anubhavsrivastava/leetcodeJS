@@ -1,4 +1,4 @@
-## Problems Solved - 180
+## Problems Solved - 181
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -42,6 +42,7 @@
 | <a href="/Easy/237 Delete Node in a Linked List/">237</a> |  <a href="/Easy/237 Delete Node in a Linked List">Delete Node in a Linked List</a>| Easy | <a href="/Easy/237 Delete Node in a Linked List/deleteNodeInALinkedList.js">Solution</a> | 
 | <a href="/Medium/238  Product of Array Except Self/">238</a> |  <a href="/Medium/238  Product of Array Except Self">Product of Array Except Self</a>| Medium | <a href="/Medium/238  Product of Array Except Self/productOfArrayExceptSelf.js">Solution</a> | 
 | <a href="/Easy/242 Valid Anagram/">242</a> |  <a href="/Easy/242 Valid Anagram">Valid Anagram</a>| Easy | <a href="/Easy/242 Valid Anagram/validAnagram.js">Solution</a> | 
+| <a href="/Easy/258 Add Digits/">258</a> |  <a href="/Easy/258 Add Digits">Add Digits</a>| Easy | <a href="/Easy/258 Add Digits/addDigits.js">Solution</a> | 
 | <a href="/Easy/263  Ugly Number/">263</a> |  <a href="/Easy/263  Ugly Number">Ugly Number</a>| Easy | <a href="/Easy/263  Ugly Number/uglyNumber.js">Solution</a> | 
 | <a href="/Medium/264  Ugly Number II/">264</a> |  <a href="/Medium/264  Ugly Number II">Ugly Number II</a>| Medium | <a href="/Medium/264  Ugly Number II/uglyNumberIi.js">Solution</a> | 
 | <a href="/Easy/268 Missing Number/">268</a> |  <a href="/Easy/268 Missing Number">Missing Number</a>| Easy | <a href="/Easy/268 Missing Number/missingNumber.js">Solution</a> | 
