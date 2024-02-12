@@ -1,4 +1,4 @@
-## Problems Solved - 182
+## Problems Solved - 183
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -183,4 +183,5 @@
 | <a href="/Easy/2726 Calculator with Method Chaining/">2726</a> |  <a href="/Easy/2726 Calculator with Method Chaining">Calculator with Method Chaining</a>| Easy | <a href="/Easy/2726 Calculator with Method Chaining/calculatorWithMethodChaining.js">Solution</a> | 
 | <a href="/Easy/2727 Is Object Empty/">2727</a> |  <a href="/Easy/2727 Is Object Empty">Is Object Empty</a>| Easy | <a href="/Easy/2727 Is Object Empty/isObjectEmpty.js">Solution</a> | 
 | <a href="/Easy/2798 Number of Employees Who Met the Target/">2798</a> |  <a href="/Easy/2798 Number of Employees Who Met the Target">Number of Employees Who Met the Target</a>| Easy | <a href="/Easy/2798 Number of Employees Who Met the Target/numberOfEmployeesWhoMetTheTarget.js">Solution</a> | 
+| <a href="/Easy/2894 Divisible and Non-divisible Sums Difference/">2894</a> |  <a href="/Easy/2894 Divisible and Non-divisible Sums Difference">Divisible and Non-divisible Sums Difference</a>| Easy | <a href="/Easy/2894 Divisible and Non-divisible Sums Difference/divisibleAndNonDivisibleSumsDifference.js">Solution</a> | 
 | <a href="/Easy/2942 Find Words Containing Character/">2942</a> |  <a href="/Easy/2942 Find Words Containing Character">Find Words Containing Character</a>| Easy | <a href="/Easy/2942 Find Words Containing Character/findWordsContainingCharacter.js">Solution</a> | 
