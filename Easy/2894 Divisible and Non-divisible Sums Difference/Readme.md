@@ -9,8 +9,6 @@ num2: The sum of all integers in the range [1, n] that are divisible by m.
 
 Return the integer num1 - num2.
 
-
-
 Example 1:
 
 Input: n = 10, m = 3
@@ -40,8 +38,6 @@ Explanation: In the given example:
 - Integers in the range [1, 5] that are not divisible by 1 are [], num1 is the sum of those integers = 0.
 - Integers in the range [1, 5] that are divisible by 1 are [1,2,3,4,5], num2 is the sum of those integers = 15.
   We return 0 - 15 = -15 as the answer.
-
-
 
 Constraints:
 
