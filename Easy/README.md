@@ -1,4 +1,4 @@
-## Problems Solved - 154
+## Problems Solved - 155
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -131,6 +131,7 @@
 | <a href="/Easy/2160 Minimum Sum of Four Digit Number After Splitting Digits/">2160</a> |  <a href="/Easy/2160 Minimum Sum of Four Digit Number After Splitting Digits">Minimum Sum of Four Digit Number After Splitting Digits</a>| Easy | <a href="/Easy/2160 Minimum Sum of Four Digit Number After Splitting Digits/minimumSumOfFourDigitNumberAfterSplittingDigits.js">Solution</a> | 
 | <a href="/Easy/2413 Smallest Even Multiple/">2413</a> |  <a href="/Easy/2413 Smallest Even Multiple">Smallest Even Multiple</a>| Easy | <a href="/Easy/2413 Smallest Even Multiple/smallestEvenMultiple.js">Solution</a> | 
 | <a href="/Easy/2469 Convert the Temperature/">2469</a> |  <a href="/Easy/2469 Convert the Temperature">Convert the Temperature</a>| Easy | <a href="/Easy/2469 Convert the Temperature/convertTheTemperature.js">Solution</a> | 
+| <a href="/Easy/2574 Left and Right Sum Differences/">2574</a> |  <a href="/Easy/2574 Left and Right Sum Differences">Left and Right Sum Differences</a>| Easy | <a href="/Easy/2574 Left and Right Sum Differences/leftAndRightSumDifferences.js">Solution</a> | 
 | <a href="/Easy/2619 Array Prototype Last/">2619</a> |  <a href="/Easy/2619 Array Prototype Last">Array Prototype Last</a>| Easy | <a href="/Easy/2619 Array Prototype Last/arrayPrototypeLast.js">Solution</a> | 
 | <a href="/Easy/2620 Counter/">2620</a> |  <a href="/Easy/2620 Counter">Counter</a>| Easy | <a href="/Easy/2620 Counter/counter.js">Solution</a> | 
 | <a href="/Easy/2621 Sleep/">2621</a> |  <a href="/Easy/2621 Sleep">Sleep</a>| Easy | <a href="/Easy/2621 Sleep/sleep.js">Solution</a> | 
