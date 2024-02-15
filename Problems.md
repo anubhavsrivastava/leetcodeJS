@@ -1,4 +1,4 @@
-## Problems Solved - 185
+## Problems Solved - 186
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -145,6 +145,7 @@
 | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/">1497</a> |  <a href="/Medium/1497  Check If Array Pairs Are Divisible by k">Check If Array Pairs Are Divisible by k</a>| Medium | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/checkIfArrayPairsAreDivisibleByK.js">Solution</a> | 
 | <a href="/Easy/1512  Number of Good Pairs/">1512</a> |  <a href="/Easy/1512  Number of Good Pairs">Number of Good Pairs</a>| Easy | <a href="/Easy/1512  Number of Good Pairs/numberOfGoodPairs.js">Solution</a> | 
 | <a href="/Easy/1672 Richest Customer Wealth/">1672</a> |  <a href="/Easy/1672 Richest Customer Wealth">Richest Customer Wealth</a>| Easy | <a href="/Easy/1672 Richest Customer Wealth/richestCustomerWealth.js">Solution</a> | 
+| <a href="/Easy/1773 Count Items Matching a Rule/">1773</a> |  <a href="/Easy/1773 Count Items Matching a Rule">Count Items Matching a Rule</a>| Easy | <a href="/Easy/1773 Count Items Matching a Rule/countItemsMatchingARule.js">Solution</a> | 
 | <a href="/Easy/1920 Build Array from Permutation/">1920</a> |  <a href="/Easy/1920 Build Array from Permutation">Build Array from Permutation</a>| Easy | <a href="/Easy/1920 Build Array from Permutation/buildArrayFromPermutation.js">Solution</a> | 
 | <a href="/Easy/1929 Concatenation of Array/">1929</a> |  <a href="/Easy/1929 Concatenation of Array">Concatenation of Array</a>| Easy | <a href="/Easy/1929 Concatenation of Array/concatenationOfArray.js">Solution</a> | 
 | <a href="/Easy/2011 Final Value of Variable After Performing Operations/">2011</a> |  <a href="/Easy/2011 Final Value of Variable After Performing Operations">Final Value of Variable After Performing Operations</a>| Easy | <a href="/Easy/2011 Final Value of Variable After Performing Operations/finalValueOfVariableAfterPerformingOperations.js">Solution</a> | 
