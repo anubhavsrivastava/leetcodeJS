@@ -1,4 +1,4 @@
-## Problems Solved - 158
+## Problems Solved - 159
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -110,6 +110,7 @@
 | <a href="/Easy/1103  Distribute Candies to People/">1103</a> |  <a href="/Easy/1103  Distribute Candies to People">Distribute Candies to People</a>| Easy | <a href="/Easy/1103  Distribute Candies to People/distributeCandiesToPeople.js">Solution</a> | 
 | <a href="/Easy/1108  Defanging an IP Address/">1108</a> |  <a href="/Easy/1108  Defanging an IP Address">Defanging an IP Address</a>| Easy | <a href="/Easy/1108  Defanging an IP Address/defangingAnIpAddress.js">Solution</a> | 
 | <a href="/Easy/1137  N-th Tribonacci Number/">1137</a> |  <a href="/Easy/1137  N-th Tribonacci Number">N-th Tribonacci Number</a>| Easy | <a href="/Easy/1137  N-th Tribonacci Number/nThTribonacciNumber.js">Solution</a> | 
+| <a href="/Easy/1221 Split a String in Balanced Strings/">1221</a> |  <a href="/Easy/1221 Split a String in Balanced Strings">Split a String in Balanced Strings</a>| Easy | <a href="/Easy/1221 Split a String in Balanced Strings/splitAStringInBalancedStrings.js">Solution</a> | 
 | <a href="/Easy/1281  Subtract the Product and Sum of Digits of an Integer/">1281</a> |  <a href="/Easy/1281  Subtract the Product and Sum of Digits of an Integer">Subtract the Product and Sum of Digits of an Integer</a>| Easy | <a href="/Easy/1281  Subtract the Product and Sum of Digits of an Integer/subtractTheProductAndSumOfDigitsOfAnInteger.js">Solution</a> | 
 | <a href="/Easy/1313  Decompress Run-Length Encoded List/">1313</a> |  <a href="/Easy/1313  Decompress Run-Length Encoded List">Decompress Run-Length Encoded List</a>| Easy | <a href="/Easy/1313  Decompress Run-Length Encoded List/decompressRunLengthEncodedList.js">Solution</a> | 
 | <a href="/Easy/1323  Maximum 69 Number/">1323</a> |  <a href="/Easy/1323  Maximum 69 Number">Maximum 69 Number</a>| Easy | <a href="/Easy/1323  Maximum 69 Number/maximum69Number.js">Solution</a> | 
