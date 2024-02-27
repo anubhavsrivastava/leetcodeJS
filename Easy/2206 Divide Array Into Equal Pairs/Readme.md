@@ -9,8 +9,6 @@ The elements present in a pair are equal.
 
 Return true if nums can be divided into n pairs, otherwise return false.
 
-
-
 Example 1:
 
 Input: nums = [3,2,3,2,2,2]
@@ -25,8 +23,6 @@ Input: nums = [1,2,3,4]
 Output: false
 Explanation:
 There is no way to divide nums into 4 / 2 = 2 pairs such that the pairs satisfy every condition.
-
-
 
 Constraints:
 
@@ -56,5 +52,19 @@ var canBePaired = function (nums) {
     }
   }
   return true;
+};
+```
+
+```javascript
+/**
+ * @param {number[]} nums
+ * @return {boolean}
+ */
+var divideArray = function (nums) {
+  const numMap = new Map();
+  for (const num of nums) {
+    numMap.has(num) ? numMap.delete(num) : numMap.set(num, true);
+  }
+  return numMap.size === 0;
 };
 ```
