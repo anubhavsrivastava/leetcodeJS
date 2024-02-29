@@ -1,4 +1,4 @@
-## Problems Solved - 168
+## Problems Solved - 169
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -170,3 +170,4 @@
 | <a href="/Easy/2828 Check if a String Is an Acronym of Words/">2828</a> |  <a href="/Easy/2828 Check if a String Is an Acronym of Words">Check if a String Is an Acronym of Words</a>| Easy | <a href="/Easy/2828 Check if a String Is an Acronym of Words/checkIfAStringIsAnAcronymOfWords.js">Solution</a> | 
 | <a href="/Easy/2894 Divisible and Non-divisible Sums Difference/">2894</a> |  <a href="/Easy/2894 Divisible and Non-divisible Sums Difference">Divisible and Non-divisible Sums Difference</a>| Easy | <a href="/Easy/2894 Divisible and Non-divisible Sums Difference/divisibleAndNonDivisibleSumsDifference.js">Solution</a> | 
 | <a href="/Easy/2942 Find Words Containing Character/">2942</a> |  <a href="/Easy/2942 Find Words Containing Character">Find Words Containing Character</a>| Easy | <a href="/Easy/2942 Find Words Containing Character/findWordsContainingCharacter.js">Solution</a> | 
+| <a href="/Easy/3046 Split the Array/">3046</a> |  <a href="/Easy/3046 Split the Array">Split the Array</a>| Easy | <a href="/Easy/3046 Split the Array/splitTheArray.js">Solution</a> | 
