@@ -1,4 +1,4 @@
-## Problems Solved - 200
+## Problems Solved - 201
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -149,6 +149,7 @@
 | <a href="/Easy/1672 Richest Customer Wealth/">1672</a> |  <a href="/Easy/1672 Richest Customer Wealth">Richest Customer Wealth</a>| Easy | <a href="/Easy/1672 Richest Customer Wealth/richestCustomerWealth.js">Solution</a> | 
 | <a href="/Easy/1678 Goal Parser Interpretation/">1678</a> |  <a href="/Easy/1678 Goal Parser Interpretation">Goal Parser Interpretation</a>| Easy | <a href="/Easy/1678 Goal Parser Interpretation/goalParserInterpretation.js">Solution</a> | 
 | <a href="/Easy/1773 Count Items Matching a Rule/">1773</a> |  <a href="/Easy/1773 Count Items Matching a Rule">Count Items Matching a Rule</a>| Easy | <a href="/Easy/1773 Count Items Matching a Rule/countItemsMatchingARule.js">Solution</a> | 
+| <a href="/Easy/1816 Truncate Sentence/">1816</a> |  <a href="/Easy/1816 Truncate Sentence">Truncate Sentence</a>| Easy | <a href="/Easy/1816 Truncate Sentence/truncateSentence.js">Solution</a> | 
 | <a href="/Easy/1920 Build Array from Permutation/">1920</a> |  <a href="/Easy/1920 Build Array from Permutation">Build Array from Permutation</a>| Easy | <a href="/Easy/1920 Build Array from Permutation/buildArrayFromPermutation.js">Solution</a> | 
 | <a href="/Easy/1929 Concatenation of Array/">1929</a> |  <a href="/Easy/1929 Concatenation of Array">Concatenation of Array</a>| Easy | <a href="/Easy/1929 Concatenation of Array/concatenationOfArray.js">Solution</a> | 
 | <a href="/Easy/2011 Final Value of Variable After Performing Operations/">2011</a> |  <a href="/Easy/2011 Final Value of Variable After Performing Operations">Final Value of Variable After Performing Operations</a>| Easy | <a href="/Easy/2011 Final Value of Variable After Performing Operations/finalValueOfVariableAfterPerformingOperations.js">Solution</a> | 
