@@ -1,4 +1,4 @@
-## Problems Solved - 171
+## Problems Solved - 172
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -118,6 +118,7 @@
 | <a href="/Easy/1365 How Many Numbers Are Smaller Than the Current Number/">1365</a> |  <a href="/Easy/1365 How Many Numbers Are Smaller Than the Current Number">How Many Numbers Are Smaller Than the Current Number</a>| Easy | <a href="/Easy/1365 How Many Numbers Are Smaller Than the Current Number/howManyNumbersAreSmallerThanTheCurrentNumber.js">Solution</a> | 
 | <a href="/Easy/1380  Lucky Numbers in a Matrix/">1380</a> |  <a href="/Easy/1380  Lucky Numbers in a Matrix">Lucky Numbers in a Matrix</a>| Easy | <a href="/Easy/1380  Lucky Numbers in a Matrix/luckyNumbersInAMatrix.js">Solution</a> | 
 | <a href="/Easy/1431  Kids With the Greatest Number of Candies/">1431</a> |  <a href="/Easy/1431  Kids With the Greatest Number of Candies">Kids With the Greatest Number of Candies</a>| Easy | <a href="/Easy/1431  Kids With the Greatest Number of Candies/kidsWithTheGreatestNumberOfCandies.js">Solution</a> | 
+| <a href="/Easy/1436 Destination City/">1436</a> |  <a href="/Easy/1436 Destination City">Destination City</a>| Easy | <a href="/Easy/1436 Destination City/destinationCity.js">Solution</a> | 
 | <a href="/Easy/1470  Shuffle the Array/">1470</a> |  <a href="/Easy/1470  Shuffle the Array">Shuffle the Array</a>| Easy | <a href="/Easy/1470  Shuffle the Array/shuffleTheArray.js">Solution</a> | 
 | <a href="/Easy/1480  Running Sum of 1d Array/">1480</a> |  <a href="/Easy/1480  Running Sum of 1d Array">Running Sum of 1d Array</a>| Easy | <a href="/Easy/1480  Running Sum of 1d Array/runningSumOf1dArray.js">Solution</a> | 
 | <a href="/Easy/1486  XOR Operation in an Array/">1486</a> |  <a href="/Easy/1486  XOR Operation in an Array">XOR Operation in an Array</a>| Easy | <a href="/Easy/1486  XOR Operation in an Array/xorOperationInAnArray.js">Solution</a> | 
