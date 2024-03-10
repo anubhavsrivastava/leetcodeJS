@@ -1,4 +1,4 @@
-## Problems Solved - 203
+## Problems Solved - 204
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -168,6 +168,7 @@
 | <a href="/Easy/2413 Smallest Even Multiple/">2413</a> |  <a href="/Easy/2413 Smallest Even Multiple">Smallest Even Multiple</a>| Easy | <a href="/Easy/2413 Smallest Even Multiple/smallestEvenMultiple.js">Solution</a> | 
 | <a href="/Easy/2469 Convert the Temperature/">2469</a> |  <a href="/Easy/2469 Convert the Temperature">Convert the Temperature</a>| Easy | <a href="/Easy/2469 Convert the Temperature/convertTheTemperature.js">Solution</a> | 
 | <a href="/Easy/2500 Delete Greatest Value in Each Row/">2500</a> |  <a href="/Easy/2500 Delete Greatest Value in Each Row">Delete Greatest Value in Each Row</a>| Easy | <a href="/Easy/2500 Delete Greatest Value in Each Row/deleteGreatestValueInEachRow.js">Solution</a> | 
+| <a href="/Easy/2535 Difference Between Element Sum and Digit Sum of an Array/">2535</a> |  <a href="/Easy/2535 Difference Between Element Sum and Digit Sum of an Array">Difference Between Element Sum and Digit Sum of an Array</a>| Easy | <a href="/Easy/2535 Difference Between Element Sum and Digit Sum of an Array/differenceBetweenElementSumAndDigitSumOfAnArray.js">Solution</a> | 
 | <a href="/Easy/2574 Left and Right Sum Differences/">2574</a> |  <a href="/Easy/2574 Left and Right Sum Differences">Left and Right Sum Differences</a>| Easy | <a href="/Easy/2574 Left and Right Sum Differences/leftAndRightSumDifferences.js">Solution</a> | 
 | <a href="/Easy/2619 Array Prototype Last/">2619</a> |  <a href="/Easy/2619 Array Prototype Last">Array Prototype Last</a>| Easy | <a href="/Easy/2619 Array Prototype Last/arrayPrototypeLast.js">Solution</a> | 
 | <a href="/Easy/2620 Counter/">2620</a> |  <a href="/Easy/2620 Counter">Counter</a>| Easy | <a href="/Easy/2620 Counter/counter.js">Solution</a> | 
