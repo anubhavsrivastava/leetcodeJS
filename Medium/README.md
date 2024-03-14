@@ -1,4 +1,4 @@
-## Problems Solved - 32
+## Problems Solved - 33
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -22,6 +22,7 @@
 | <a href="/Medium/957  Prison Cells After N Days/">957</a> |  <a href="/Medium/957  Prison Cells After N Days">Prison Cells After N Days</a>| Medium | <a href="/Medium/957  Prison Cells After N Days/prisonCellsAfterNDays.js">Solution</a> | 
 | <a href="/Medium/958  Check Completeness of a Binary Tree/">958</a> |  <a href="/Medium/958  Check Completeness of a Binary Tree">Check Completeness of a Binary Tree</a>| Medium | <a href="/Medium/958  Check Completeness of a Binary Tree/checkCompletenessOfABinaryTree.js">Solution</a> | 
 | <a href="/Medium/962  Maximum Width Ramp/">962</a> |  <a href="/Medium/962  Maximum Width Ramp">Maximum Width Ramp</a>| Medium | <a href="/Medium/962  Maximum Width Ramp/maximumWidthRamp.js">Solution</a> | 
+| <a href="/Medium/1282 Group the People Given the Group Size They Belong To/">1282</a> |  <a href="/Medium/1282 Group the People Given the Group Size They Belong To">Group the People Given the Group Size They Belong To</a>| Medium | <a href="/Medium/1282 Group the People Given the Group Size They Belong To/groupThePeopleGivenTheGroupSizeTheyBelongTo.js">Solution</a> | 
 | <a href="/Medium/1344  Angle Between Hands of a Clock/">1344</a> |  <a href="/Medium/1344  Angle Between Hands of a Clock">Angle Between Hands of a Clock</a>| Medium | <a href="/Medium/1344  Angle Between Hands of a Clock/angleBetweenHandsOfAClock.js">Solution</a> | 
 | <a href="/Medium/1476 Subrectangle Queries/">1476</a> |  <a href="/Medium/1476 Subrectangle Queries">Subrectangle Queries</a>| Medium | <a href="/Medium/1476 Subrectangle Queries/subrectangleQueries.js">Solution</a> | 
 | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/">1497</a> |  <a href="/Medium/1497  Check If Array Pairs Are Divisible by k">Check If Array Pairs Are Divisible by k</a>| Medium | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/checkIfArrayPairsAreDivisibleByK.js">Solution</a> | 
