@@ -1,4 +1,4 @@
-## Problems Solved - 206
+## Problems Solved - 207
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -141,6 +141,7 @@
 | <a href="/Easy/1431  Kids With the Greatest Number of Candies/">1431</a> |  <a href="/Easy/1431  Kids With the Greatest Number of Candies">Kids With the Greatest Number of Candies</a>| Easy | <a href="/Easy/1431  Kids With the Greatest Number of Candies/kidsWithTheGreatestNumberOfCandies.js">Solution</a> | 
 | <a href="/Easy/1436 Destination City/">1436</a> |  <a href="/Easy/1436 Destination City">Destination City</a>| Easy | <a href="/Easy/1436 Destination City/destinationCity.js">Solution</a> | 
 | <a href="/Easy/1470  Shuffle the Array/">1470</a> |  <a href="/Easy/1470  Shuffle the Array">Shuffle the Array</a>| Easy | <a href="/Easy/1470  Shuffle the Array/shuffleTheArray.js">Solution</a> | 
+| <a href="/Medium/1476 Subrectangle Queries/">1476</a> |  <a href="/Medium/1476 Subrectangle Queries">Subrectangle Queries</a>| Medium | <a href="/Medium/1476 Subrectangle Queries/subrectangleQueries.js">Solution</a> | 
 | <a href="/Easy/1480  Running Sum of 1d Array/">1480</a> |  <a href="/Easy/1480  Running Sum of 1d Array">Running Sum of 1d Array</a>| Easy | <a href="/Easy/1480  Running Sum of 1d Array/runningSumOf1dArray.js">Solution</a> | 
 | <a href="/Easy/1486  XOR Operation in an Array/">1486</a> |  <a href="/Easy/1486  XOR Operation in an Array">XOR Operation in an Array</a>| Easy | <a href="/Easy/1486  XOR Operation in an Array/xorOperationInAnArray.js">Solution</a> | 
 | <a href="/Easy/1496  Path Crossing/">1496</a> |  <a href="/Easy/1496  Path Crossing">Path Crossing</a>| Easy | <a href="/Easy/1496  Path Crossing/pathCrossing.js">Solution</a> | 
