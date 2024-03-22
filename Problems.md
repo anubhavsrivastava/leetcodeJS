@@ -1,4 +1,4 @@
-## Problems Solved - 213
+## Problems Solved - 214
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -149,6 +149,7 @@
 | <a href="/Easy/1496  Path Crossing/">1496</a> |  <a href="/Easy/1496  Path Crossing">Path Crossing</a>| Easy | <a href="/Easy/1496  Path Crossing/pathCrossing.js">Solution</a> | 
 | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/">1497</a> |  <a href="/Medium/1497  Check If Array Pairs Are Divisible by k">Check If Array Pairs Are Divisible by k</a>| Medium | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/checkIfArrayPairsAreDivisibleByK.js">Solution</a> | 
 | <a href="/Easy/1512  Number of Good Pairs/">1512</a> |  <a href="/Easy/1512  Number of Good Pairs">Number of Good Pairs</a>| Easy | <a href="/Easy/1512  Number of Good Pairs/numberOfGoodPairs.js">Solution</a> | 
+| <a href="/Easy/1572 Matrix Diagonal Sum/">1572</a> |  <a href="/Easy/1572 Matrix Diagonal Sum">Matrix Diagonal Sum</a>| Easy | <a href="/Easy/1572 Matrix Diagonal Sum/matrixDiagonalSum.js">Solution</a> | 
 | <a href="/Easy/1662 Check If Two String Arrays are Equivalent/">1662</a> |  <a href="/Easy/1662 Check If Two String Arrays are Equivalent">Check If Two String Arrays are Equivalent</a>| Easy | <a href="/Easy/1662 Check If Two String Arrays are Equivalent/checkIfTwoStringArraysAreEquivalent.js">Solution</a> | 
 | <a href="/Easy/1672 Richest Customer Wealth/">1672</a> |  <a href="/Easy/1672 Richest Customer Wealth">Richest Customer Wealth</a>| Easy | <a href="/Easy/1672 Richest Customer Wealth/richestCustomerWealth.js">Solution</a> | 
 | <a href="/Easy/1678 Goal Parser Interpretation/">1678</a> |  <a href="/Easy/1678 Goal Parser Interpretation">Goal Parser Interpretation</a>| Easy | <a href="/Easy/1678 Goal Parser Interpretation/goalParserInterpretation.js">Solution</a> | 
