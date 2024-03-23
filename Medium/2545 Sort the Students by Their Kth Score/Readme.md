@@ -6,8 +6,6 @@ You are also given an integer k. Sort the students (i.e., the rows of the matrix
 
 Return the matrix after sorting it.
 
-
-
 Example 1:
 
 Input: score = [[10,6,9,1],[7,5,11,2],[4,8,3,15]], k = 2
@@ -27,8 +25,6 @@ Explanation: In the above diagram, S denotes the student, while E denotes the ex
 - The student with index 1 scored 5 in exam 0, which is the highest score, so they got first place.
 - The student with index 0 scored 3 in exam 0, which is the lowest score, so they got second place.
 
-
-
 Constraints:
 
 m == score.length
@@ -41,3 +37,25 @@ score consists of distinct integers.
 ## Pre analysis
 
 The problem is to sort the students based on their kth score. sort functionality should simply work on k element of the object.
+
+## Another solution
+
+1. Solution from primitives without using sort function
+
+```javascript
+/**
+ * @param {number[][]} score
+ * @param {number} k
+ * @return {number[][]}
+ */
+var sortTheStudents = function (score, k) {
+  for (let i = 0; i < score.length; i++) {
+    for (let j = 0; j < score.length; j++) {
+      if (score[i][k] > score[j][k]) {
+        [score[i], score[j]] = [score[j], score[i]];
+      }
+    }
+  }
+  return score;
+};
+```
