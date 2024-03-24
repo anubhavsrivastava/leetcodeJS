@@ -1,4 +1,4 @@
-## Problems Solved - 34
+## Problems Solved - 35
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -10,6 +10,7 @@
 | <a href="/Medium/220  Contains Duplicate III/">220</a> |  <a href="/Medium/220  Contains Duplicate III">Contains Duplicate III</a>| Medium | <a href="/Medium/220  Contains Duplicate III/containsDuplicateIii.js">Solution</a> | 
 | <a href="/Medium/238  Product of Array Except Self/">238</a> |  <a href="/Medium/238  Product of Array Except Self">Product of Array Except Self</a>| Medium | <a href="/Medium/238  Product of Array Except Self/productOfArrayExceptSelf.js">Solution</a> | 
 | <a href="/Medium/264  Ugly Number II/">264</a> |  <a href="/Medium/264  Ugly Number II">Ugly Number II</a>| Medium | <a href="/Medium/264  Ugly Number II/uglyNumberIi.js">Solution</a> | 
+| <a href="/Medium/287 Find the Duplicate Number/">287</a> |  <a href="/Medium/287 Find the Duplicate Number">Find the Duplicate Number</a>| Medium | <a href="/Medium/287 Find the Duplicate Number/findTheDuplicateNumber.js">Solution</a> | 
 | <a href="/Medium/430  Flatten a Multilevel Doubly Linked List/">430</a> |  <a href="/Medium/430  Flatten a Multilevel Doubly Linked List">Flatten a Multilevel Doubly Linked List</a>| Medium | <a href="/Medium/430  Flatten a Multilevel Doubly Linked List/flattenAMultilevelDoublyLinkedList.js">Solution</a> | 
 | <a href="/Medium/535  Encode and Decode TinyURL/">535</a> |  <a href="/Medium/535  Encode and Decode TinyURL">Encode and Decode TinyURL</a>| Medium | <a href="/Medium/535  Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 
 | <a href="/Medium/535 Encode and Decode TinyURL/">535</a> |  <a href="/Medium/535 Encode and Decode TinyURL">Encode and Decode TinyURL</a>| Medium | <a href="/Medium/535 Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 
