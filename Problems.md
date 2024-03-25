@@ -1,4 +1,4 @@
-## Problems Solved - 216
+## Problems Solved - 217
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -60,6 +60,7 @@
 | <a href="/Easy/412 Fizz Buzz/">412</a> |  <a href="/Easy/412 Fizz Buzz">Fizz Buzz</a>| Easy | <a href="/Easy/412 Fizz Buzz/fizzBuzz.js">Solution</a> | 
 | <a href="/Medium/430  Flatten a Multilevel Doubly Linked List/">430</a> |  <a href="/Medium/430  Flatten a Multilevel Doubly Linked List">Flatten a Multilevel Doubly Linked List</a>| Medium | <a href="/Medium/430  Flatten a Multilevel Doubly Linked List/flattenAMultilevelDoublyLinkedList.js">Solution</a> | 
 | <a href="/Easy/441  Arranging Coins/">441</a> |  <a href="/Easy/441  Arranging Coins">Arranging Coins</a>| Easy | <a href="/Easy/441  Arranging Coins/arrangingCoins.js">Solution</a> | 
+| <a href="/Medium/442 Find All Duplicates in an Array/">442</a> |  <a href="/Medium/442 Find All Duplicates in an Array">Find All Duplicates in an Array</a>| Medium | <a href="/Medium/442 Find All Duplicates in an Array/findAllDuplicatesInAnArray.js">Solution</a> | 
 | <a href="/Easy/443 String Compression/">443</a> |  <a href="/Easy/443 String Compression">String Compression</a>| Easy | <a href="/Easy/443 String Compression/stringCompression.js">Solution</a> | 
 | <a href="/Easy/461  Hamming Distance/">461</a> |  <a href="/Easy/461  Hamming Distance">Hamming Distance</a>| Easy | <a href="/Easy/461  Hamming Distance/hammingDistance.js">Solution</a> | 
 | <a href="/Easy/463  Island Perimeter/">463</a> |  <a href="/Easy/463  Island Perimeter">Island Perimeter</a>| Easy | <a href="/Easy/463  Island Perimeter/islandPerimeter.js">Solution</a> | 

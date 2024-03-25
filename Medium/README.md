@@ -1,4 +1,4 @@
-## Problems Solved - 35
+## Problems Solved - 36
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -12,6 +12,7 @@
 | <a href="/Medium/264  Ugly Number II/">264</a> |  <a href="/Medium/264  Ugly Number II">Ugly Number II</a>| Medium | <a href="/Medium/264  Ugly Number II/uglyNumberIi.js">Solution</a> | 
 | <a href="/Medium/287 Find the Duplicate Number/">287</a> |  <a href="/Medium/287 Find the Duplicate Number">Find the Duplicate Number</a>| Medium | <a href="/Medium/287 Find the Duplicate Number/findTheDuplicateNumber.js">Solution</a> | 
 | <a href="/Medium/430  Flatten a Multilevel Doubly Linked List/">430</a> |  <a href="/Medium/430  Flatten a Multilevel Doubly Linked List">Flatten a Multilevel Doubly Linked List</a>| Medium | <a href="/Medium/430  Flatten a Multilevel Doubly Linked List/flattenAMultilevelDoublyLinkedList.js">Solution</a> | 
+| <a href="/Medium/442 Find All Duplicates in an Array/">442</a> |  <a href="/Medium/442 Find All Duplicates in an Array">Find All Duplicates in an Array</a>| Medium | <a href="/Medium/442 Find All Duplicates in an Array/findAllDuplicatesInAnArray.js">Solution</a> | 
 | <a href="/Medium/535  Encode and Decode TinyURL/">535</a> |  <a href="/Medium/535  Encode and Decode TinyURL">Encode and Decode TinyURL</a>| Medium | <a href="/Medium/535  Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 
 | <a href="/Medium/535 Encode and Decode TinyURL/">535</a> |  <a href="/Medium/535 Encode and Decode TinyURL">Encode and Decode TinyURL</a>| Medium | <a href="/Medium/535 Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 
 | <a href="/Medium/938  Range Sum of BST/">938</a> |  <a href="/Medium/938  Range Sum of BST">Range Sum of BST</a>| Medium | <a href="/Medium/938  Range Sum of BST/rangeSumOfBst.js">Solution</a> | 
