@@ -1,4 +1,4 @@
-## Problems Solved - 217
+## Problems Solved - 218
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -10,6 +10,7 @@
 | <a href="/Easy/26  Remove Duplicates from Sorted Array/">26</a> |  <a href="/Easy/26  Remove Duplicates from Sorted Array">Remove Duplicates from Sorted Array</a>| Easy | <a href="/Easy/26  Remove Duplicates from Sorted Array/removeDuplicatesFromSortedArray.js">Solution</a> | 
 | <a href="/Easy/27  Remove Element/">27</a> |  <a href="/Easy/27  Remove Element">Remove Element</a>| Easy | <a href="/Easy/27  Remove Element/removeElement.js">Solution</a> | 
 | <a href="/Easy/28 Implement strStr()/">28</a> |  <a href="/Easy/28 Implement strStr()">Implement strStr()</a>| Easy | <a href="/Easy/28 Implement strStr()/implementStrstr().js">Solution</a> | 
+| <a href="/Hard/41 First Missing Positive/">41</a> |  <a href="/Hard/41 First Missing Positive">First Missing Positive</a>| Hard | <a href="/Hard/41 First Missing Positive/firstMissingPositive.js">Solution</a> | 
 | <a href="/Easy/58  Length of Last Word/">58</a> |  <a href="/Easy/58  Length of Last Word">Length of Last Word</a>| Easy | <a href="/Easy/58  Length of Last Word/lengthOfLastWord.js">Solution</a> | 
 | <a href="/Easy/58 Length of Last Word/">58</a> |  <a href="/Easy/58 Length of Last Word">Length of Last Word</a>| Easy | <a href="/Easy/58 Length of Last Word/lengthOfLastWord.js">Solution</a> | 
 | <a href="/Easy/66  Plus One/">66</a> |  <a href="/Easy/66  Plus One">Plus One</a>| Easy | <a href="/Easy/66  Plus One/plusOne.js">Solution</a> | 
