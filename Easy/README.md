@@ -1,4 +1,4 @@
-## Problems Solved - 181
+## Problems Solved - 182
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -68,6 +68,7 @@
 | <a href="/Easy/637 Average of Levels in Binary Tree/">637</a> |  <a href="/Easy/637 Average of Levels in Binary Tree">Average of Levels in Binary Tree</a>| Easy | <a href="/Easy/637 Average of Levels in Binary Tree/averageOfLevelsInBinaryTree.js">Solution</a> | 
 | <a href="/Easy/657 Robot Return to Origin/">657</a> |  <a href="/Easy/657 Robot Return to Origin">Robot Return to Origin</a>| Easy | <a href="/Easy/657 Robot Return to Origin/robotReturnToOrigin.js">Solution</a> | 
 | <a href="/Easy/669  Trim a Binary Search Tree/">669</a> |  <a href="/Easy/669  Trim a Binary Search Tree">Trim a Binary Search Tree</a>| Easy | <a href="/Easy/669  Trim a Binary Search Tree/trimABinarySearchTree.js">Solution</a> | 
+| <a href="/Easy/682 Baseball Game/">682</a> |  <a href="/Easy/682 Baseball Game">Baseball Game</a>| Easy | <a href="/Easy/682 Baseball Game/baseballGame.js">Solution</a> | 
 | <a href="/Easy/693  Binary Number with Alternating Bits/">693</a> |  <a href="/Easy/693  Binary Number with Alternating Bits">Binary Number with Alternating Bits</a>| Easy | <a href="/Easy/693  Binary Number with Alternating Bits/binaryNumberWithAlternatingBits.js">Solution</a> | 
 | <a href="/Easy/697 Degree of an Array/">697</a> |  <a href="/Easy/697 Degree of an Array">Degree of an Array</a>| Easy | <a href="/Easy/697 Degree of an Array/degreeOfAnArray.js">Solution</a> | 
 | <a href="/Easy/709 To Lower Case/">709</a> |  <a href="/Easy/709 To Lower Case">To Lower Case</a>| Easy | <a href="/Easy/709 To Lower Case/toLowerCase.js">Solution</a> | 
