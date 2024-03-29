@@ -10,6 +10,8 @@ Personal solution for leetcode problem using Javascript.
 
 [Solved Medium Problems](Medium/README.md)
 
+[Solved Hard Problems](Hard/README.md)
+
 ## Why?
 
 This is personal attempt for leetcode problems. Over period of time with web development, I felt I was more into that part of CS that involves understanding contracts(RFCs, HTML5, ES, etc) and specifications(WCAG, REST, etc) that revolves around Browser and Web.
