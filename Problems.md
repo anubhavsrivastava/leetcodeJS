@@ -1,4 +1,4 @@
-## Problems Solved - 221
+## Problems Solved - 222
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -133,6 +133,7 @@
 | <a href="/Easy/1089  Duplicate Zeros/">1089</a> |  <a href="/Easy/1089  Duplicate Zeros">Duplicate Zeros</a>| Easy | <a href="/Easy/1089  Duplicate Zeros/duplicateZeros.js">Solution</a> | 
 | <a href="/Easy/1103  Distribute Candies to People/">1103</a> |  <a href="/Easy/1103  Distribute Candies to People">Distribute Candies to People</a>| Easy | <a href="/Easy/1103  Distribute Candies to People/distributeCandiesToPeople.js">Solution</a> | 
 | <a href="/Easy/1108  Defanging an IP Address/">1108</a> |  <a href="/Easy/1108  Defanging an IP Address">Defanging an IP Address</a>| Easy | <a href="/Easy/1108  Defanging an IP Address/defangingAnIpAddress.js">Solution</a> | 
+| <a href="/Easy/1128 Number of Equivalent Domino Pairs/">1128</a> |  <a href="/Easy/1128 Number of Equivalent Domino Pairs">Number of Equivalent Domino Pairs</a>| Easy | <a href="/Easy/1128 Number of Equivalent Domino Pairs/numberOfEquivalentDominoPairs.js">Solution</a> | 
 | <a href="/Easy/1137  N-th Tribonacci Number/">1137</a> |  <a href="/Easy/1137  N-th Tribonacci Number">N-th Tribonacci Number</a>| Easy | <a href="/Easy/1137  N-th Tribonacci Number/nThTribonacciNumber.js">Solution</a> | 
 | <a href="/Easy/1221 Split a String in Balanced Strings/">1221</a> |  <a href="/Easy/1221 Split a String in Balanced Strings">Split a String in Balanced Strings</a>| Easy | <a href="/Easy/1221 Split a String in Balanced Strings/splitAStringInBalancedStrings.js">Solution</a> | 
 | <a href="/Easy/1281  Subtract the Product and Sum of Digits of an Integer/">1281</a> |  <a href="/Easy/1281  Subtract the Product and Sum of Digits of an Integer">Subtract the Product and Sum of Digits of an Integer</a>| Easy | <a href="/Easy/1281  Subtract the Product and Sum of Digits of an Integer/subtractTheProductAndSumOfDigitsOfAnInteger.js">Solution</a> | 
