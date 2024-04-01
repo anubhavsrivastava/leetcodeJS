@@ -1,4 +1,4 @@
-## Problems Solved - 223
+## Problems Solved - 224
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -170,6 +170,7 @@
 | <a href="/Easy/2000 Reverse Prefix of Word/">2000</a> |  <a href="/Easy/2000 Reverse Prefix of Word">Reverse Prefix of Word</a>| Easy | <a href="/Easy/2000 Reverse Prefix of Word/reversePrefixOfWord.js">Solution</a> | 
 | <a href="/Easy/2011 Final Value of Variable After Performing Operations/">2011</a> |  <a href="/Easy/2011 Final Value of Variable After Performing Operations">Final Value of Variable After Performing Operations</a>| Easy | <a href="/Easy/2011 Final Value of Variable After Performing Operations/finalValueOfVariableAfterPerformingOperations.js">Solution</a> | 
 | <a href="/Easy/2089 Find Target Indices After Sorting Array/">2089</a> |  <a href="/Easy/2089 Find Target Indices After Sorting Array">Find Target Indices After Sorting Array</a>| Easy | <a href="/Easy/2089 Find Target Indices After Sorting Array/findTargetIndicesAfterSortingArray.js">Solution</a> | 
+| <a href="/Easy/2108 Find First Palindromic String in the Array/">2108</a> |  <a href="/Easy/2108 Find First Palindromic String in the Array">Find First Palindromic String in the Array</a>| Easy | <a href="/Easy/2108 Find First Palindromic String in the Array/findFirstPalindromicStringInTheArray.js">Solution</a> | 
 | <a href="/Easy/2114 Maximum Number of Words Found in Sentences/">2114</a> |  <a href="/Easy/2114 Maximum Number of Words Found in Sentences">Maximum Number of Words Found in Sentences</a>| Easy | <a href="/Easy/2114 Maximum Number of Words Found in Sentences/maximumNumberOfWordsFoundInSentences.js">Solution</a> | 
 | <a href="/Medium/2149 Rearrange Array Elements by Sign/">2149</a> |  <a href="/Medium/2149 Rearrange Array Elements by Sign">Rearrange Array Elements by Sign</a>| Medium | <a href="/Medium/2149 Rearrange Array Elements by Sign/rearrangeArrayElementsBySign.js">Solution</a> | 
 | <a href="/Easy/2154 Keep Multiplying Found Values by Two/">2154</a> |  <a href="/Easy/2154 Keep Multiplying Found Values by Two">Keep Multiplying Found Values by Two</a>| Easy | <a href="/Easy/2154 Keep Multiplying Found Values by Two/keepMultiplyingFoundValuesByTwo.js">Solution</a> | 
