@@ -1,4 +1,4 @@
-## Problems Solved - 225
+## Problems Solved - 226
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -184,6 +184,7 @@
 | <a href="/Easy/2325 Decode the Message/">2325</a> |  <a href="/Easy/2325 Decode the Message">Decode the Message</a>| Easy | <a href="/Easy/2325 Decode the Message/decodeTheMessage.js">Solution</a> | 
 | <a href="/Easy/2351 First Letter to Appear Twice/">2351</a> |  <a href="/Easy/2351 First Letter to Appear Twice">First Letter to Appear Twice</a>| Easy | <a href="/Easy/2351 First Letter to Appear Twice/firstLetterToAppearTwice.js">Solution</a> | 
 | <a href="/Easy/2413 Smallest Even Multiple/">2413</a> |  <a href="/Easy/2413 Smallest Even Multiple">Smallest Even Multiple</a>| Easy | <a href="/Easy/2413 Smallest Even Multiple/smallestEvenMultiple.js">Solution</a> | 
+| <a href="/Easy/2418 Sort the People/">2418</a> |  <a href="/Easy/2418 Sort the People">Sort the People</a>| Easy | <a href="/Easy/2418 Sort the People/sortThePeople.js">Solution</a> | 
 | <a href="/Easy/2469 Convert the Temperature/">2469</a> |  <a href="/Easy/2469 Convert the Temperature">Convert the Temperature</a>| Easy | <a href="/Easy/2469 Convert the Temperature/convertTheTemperature.js">Solution</a> | 
 | <a href="/Easy/2500 Delete Greatest Value in Each Row/">2500</a> |  <a href="/Easy/2500 Delete Greatest Value in Each Row">Delete Greatest Value in Each Row</a>| Easy | <a href="/Easy/2500 Delete Greatest Value in Each Row/deleteGreatestValueInEachRow.js">Solution</a> | 
 | <a href="/Easy/2535 Difference Between Element Sum and Digit Sum of an Array/">2535</a> |  <a href="/Easy/2535 Difference Between Element Sum and Digit Sum of an Array">Difference Between Element Sum and Digit Sum of an Array</a>| Easy | <a href="/Easy/2535 Difference Between Element Sum and Digit Sum of an Array/differenceBetweenElementSumAndDigitSumOfAnArray.js">Solution</a> | 
