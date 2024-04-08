@@ -1,4 +1,4 @@
-## Problems Solved - 229
+## Problems Solved - 230
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -230,4 +230,5 @@
 | <a href="/Easy/2960 Count Tested Devices After Test Operations/">2960</a> |  <a href="/Easy/2960 Count Tested Devices After Test Operations">Count Tested Devices After Test Operations</a>| Easy | <a href="/Easy/2960 Count Tested Devices After Test Operations/countTestedDevicesAfterTestOperations.js">Solution</a> | 
 | <a href="/Easy/3005 Count Elements With Maximum Frequency/">3005</a> |  <a href="/Easy/3005 Count Elements With Maximum Frequency">Count Elements With Maximum Frequency</a>| Easy | <a href="/Easy/3005 Count Elements With Maximum Frequency/countElementsWithMaximumFrequency.js">Solution</a> | 
 | <a href="/Easy/3046 Split the Array/">3046</a> |  <a href="/Easy/3046 Split the Array">Split the Array</a>| Easy | <a href="/Easy/3046 Split the Array/splitTheArray.js">Solution</a> | 
+| <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse/">3083</a> |  <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse">Existence of a Substring in a String and Its Reverse</a>| Easy | <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse/existenceOfASubstringInAStringAndItsReverse.js">Solution</a> | 
 | <a href="/Easy/3099 Harshad Number/">3099</a> |  <a href="/Easy/3099 Harshad Number">Harshad Number</a>| Easy | <a href="/Easy/3099 Harshad Number/harshadNumber.js">Solution</a> | 
