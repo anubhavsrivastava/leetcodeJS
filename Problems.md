@@ -1,4 +1,4 @@
-## Problems Solved - 230
+## Problems Solved - 231
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -160,6 +160,7 @@
 | <a href="/Easy/1678 Goal Parser Interpretation/">1678</a> |  <a href="/Easy/1678 Goal Parser Interpretation">Goal Parser Interpretation</a>| Easy | <a href="/Easy/1678 Goal Parser Interpretation/goalParserInterpretation.js">Solution</a> | 
 | <a href="/Easy/1684 Count the Number of Consistent Strings/">1684</a> |  <a href="/Easy/1684 Count the Number of Consistent Strings">Count the Number of Consistent Strings</a>| Easy | <a href="/Easy/1684 Count the Number of Consistent Strings/countTheNumberOfConsistentStrings.js">Solution</a> | 
 | <a href="/Easy/1732 Find the Highest Altitude/">1732</a> |  <a href="/Easy/1732 Find the Highest Altitude">Find the Highest Altitude</a>| Easy | <a href="/Easy/1732 Find the Highest Altitude/findTheHighestAltitude.js">Solution</a> | 
+| <a href="/Easy/1748 Sum of Unique Elements/">1748</a> |  <a href="/Easy/1748 Sum of Unique Elements">Sum of Unique Elements</a>| Easy | <a href="/Easy/1748 Sum of Unique Elements/sumOfUniqueElements.js">Solution</a> | 
 | <a href="/Easy/1773 Count Items Matching a Rule/">1773</a> |  <a href="/Easy/1773 Count Items Matching a Rule">Count Items Matching a Rule</a>| Easy | <a href="/Easy/1773 Count Items Matching a Rule/countItemsMatchingARule.js">Solution</a> | 
 | <a href="/Easy/1816 Truncate Sentence/">1816</a> |  <a href="/Easy/1816 Truncate Sentence">Truncate Sentence</a>| Easy | <a href="/Easy/1816 Truncate Sentence/truncateSentence.js">Solution</a> | 
 | <a href="/Easy/1832 Check if the Sentence Is Pangram/">1832</a> |  <a href="/Easy/1832 Check if the Sentence Is Pangram">Check if the Sentence Is Pangram</a>| Easy | <a href="/Easy/1832 Check if the Sentence Is Pangram/checkIfTheSentenceIsPangram.js">Solution</a> | 
