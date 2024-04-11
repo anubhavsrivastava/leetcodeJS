@@ -1,4 +1,4 @@
-## Problems Solved - 194
+## Problems Solved - 195
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -151,6 +151,7 @@
 | <a href="/Easy/2160 Minimum Sum of Four Digit Number After Splitting Digits/">2160</a> |  <a href="/Easy/2160 Minimum Sum of Four Digit Number After Splitting Digits">Minimum Sum of Four Digit Number After Splitting Digits</a>| Easy | <a href="/Easy/2160 Minimum Sum of Four Digit Number After Splitting Digits/minimumSumOfFourDigitNumberAfterSplittingDigits.js">Solution</a> | 
 | <a href="/Easy/2206 Divide Array Into Equal Pairs/">2206</a> |  <a href="/Easy/2206 Divide Array Into Equal Pairs">Divide Array Into Equal Pairs</a>| Easy | <a href="/Easy/2206 Divide Array Into Equal Pairs/divideArrayIntoEqualPairs.js">Solution</a> | 
 | <a href="/Easy/2215 Find the Difference of Two Arrays/">2215</a> |  <a href="/Easy/2215 Find the Difference of Two Arrays">Find the Difference of Two Arrays</a>| Easy | <a href="/Easy/2215 Find the Difference of Two Arrays/findTheDifferenceOfTwoArrays.js">Solution</a> | 
+| <a href="/Easy/2220 Minimum Bit Flips to Convert Number/">2220</a> |  <a href="/Easy/2220 Minimum Bit Flips to Convert Number">Minimum Bit Flips to Convert Number</a>| Easy | <a href="/Easy/2220 Minimum Bit Flips to Convert Number/minimumBitFlipsToConvertNumber.js">Solution</a> | 
 | <a href="/Easy/2236 Root Equals Sum of Children/">2236</a> |  <a href="/Easy/2236 Root Equals Sum of Children">Root Equals Sum of Children</a>| Easy | <a href="/Easy/2236 Root Equals Sum of Children/rootEqualsSumOfChildren.js">Solution</a> | 
 | <a href="/Easy/2239 Find Closest Number to Zero/">2239</a> |  <a href="/Easy/2239 Find Closest Number to Zero">Find Closest Number to Zero</a>| Easy | <a href="/Easy/2239 Find Closest Number to Zero/findClosestNumberToZero.js">Solution</a> | 
 | <a href="/Easy/2315 Count Asterisks/">2315</a> |  <a href="/Easy/2315 Count Asterisks">Count Asterisks</a>| Easy | <a href="/Easy/2315 Count Asterisks/countAsterisks.js">Solution</a> | 
