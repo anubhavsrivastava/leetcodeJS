@@ -1,4 +1,4 @@
-## Problems Solved - 36
+## Problems Solved - 37
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -29,6 +29,7 @@
 | <a href="/Medium/1476 Subrectangle Queries/">1476</a> |  <a href="/Medium/1476 Subrectangle Queries">Subrectangle Queries</a>| Medium | <a href="/Medium/1476 Subrectangle Queries/subrectangleQueries.js">Solution</a> | 
 | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/">1497</a> |  <a href="/Medium/1497  Check If Array Pairs Are Divisible by k">Check If Array Pairs Are Divisible by k</a>| Medium | <a href="/Medium/1497  Check If Array Pairs Are Divisible by k/checkIfArrayPairsAreDivisibleByK.js">Solution</a> | 
 | <a href="/Medium/2149 Rearrange Array Elements by Sign/">2149</a> |  <a href="/Medium/2149 Rearrange Array Elements by Sign">Rearrange Array Elements by Sign</a>| Medium | <a href="/Medium/2149 Rearrange Array Elements by Sign/rearrangeArrayElementsBySign.js">Solution</a> | 
+| <a href="/Medium/2396 Strictly Palindromic Number/">2396</a> |  <a href="/Medium/2396 Strictly Palindromic Number">Strictly Palindromic Number</a>| Medium | <a href="/Medium/2396 Strictly Palindromic Number/strictlyPalindromicNumber.js">Solution</a> | 
 | <a href="/Medium/2545 Sort the Students by Their Kth Score/">2545</a> |  <a href="/Medium/2545 Sort the Students by Their Kth Score">Sort the Students by Their Kth Score</a>| Medium | <a href="/Medium/2545 Sort the Students by Their Kth Score/sortTheStudentsByTheirKthScore.js">Solution</a> | 
 | <a href="/Medium/2622 Cache With Time Limit/">2622</a> |  <a href="/Medium/2622 Cache With Time Limit">Cache With Time Limit</a>| Medium | <a href="/Medium/2622 Cache With Time Limit/cacheWithTimeLimit.js">Solution</a> | 
 | <a href="/Medium/2623 Memoize/">2623</a> |  <a href="/Medium/2623 Memoize">Memoize</a>| Medium | <a href="/Medium/2623 Memoize/memoize.js">Solution</a> | 
