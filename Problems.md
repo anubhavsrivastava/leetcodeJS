@@ -1,4 +1,4 @@
-## Problems Solved - 234
+## Problems Solved - 235
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -236,3 +236,4 @@
 | <a href="/Easy/3046 Split the Array/">3046</a> |  <a href="/Easy/3046 Split the Array">Split the Array</a>| Easy | <a href="/Easy/3046 Split the Array/splitTheArray.js">Solution</a> | 
 | <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse/">3083</a> |  <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse">Existence of a Substring in a String and Its Reverse</a>| Easy | <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse/existenceOfASubstringInAStringAndItsReverse.js">Solution</a> | 
 | <a href="/Easy/3099 Harshad Number/">3099</a> |  <a href="/Easy/3099 Harshad Number">Harshad Number</a>| Easy | <a href="/Easy/3099 Harshad Number/harshadNumber.js">Solution</a> | 
+| <a href="/Easy/3110 Score of a String/">3110</a> |  <a href="/Easy/3110 Score of a String">Score of a String</a>| Easy | <a href="/Easy/3110 Score of a String/scoreOfAString.js">Solution</a> | 
