@@ -1,4 +1,4 @@
-## Problems Solved - 197
+## Problems Solved - 198
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -13,6 +13,7 @@
 | <a href="/Easy/58 Length of Last Word/">58</a> |  <a href="/Easy/58 Length of Last Word">Length of Last Word</a>| Easy | <a href="/Easy/58 Length of Last Word/lengthOfLastWord.js">Solution</a> | 
 | <a href="/Easy/66  Plus One/">66</a> |  <a href="/Easy/66  Plus One">Plus One</a>| Easy | <a href="/Easy/66  Plus One/plusOne.js">Solution</a> | 
 | <a href="/Easy/83 Remove Duplicates from Sorted List/">83</a> |  <a href="/Easy/83 Remove Duplicates from Sorted List">Remove Duplicates from Sorted List</a>| Easy | <a href="/Easy/83 Remove Duplicates from Sorted List/removeDuplicatesFromSortedList.js">Solution</a> | 
+| <a href="/Easy/88 Merge Sorted Array/">88</a> |  <a href="/Easy/88 Merge Sorted Array">Merge Sorted Array</a>| Easy | <a href="/Easy/88 Merge Sorted Array/mergeSortedArray.js">Solution</a> | 
 | <a href="/Easy/100 Same Tree/">100</a> |  <a href="/Easy/100 Same Tree">Same Tree</a>| Easy | <a href="/Easy/100 Same Tree/sameTree.js">Solution</a> | 
 | <a href="/Easy/104 Maximum Depth of Binary Tree/">104</a> |  <a href="/Easy/104 Maximum Depth of Binary Tree">Maximum Depth of Binary Tree</a>| Easy | <a href="/Easy/104 Maximum Depth of Binary Tree/maximumDepthOfBinaryTree.js">Solution</a> | 
 | <a href="/Easy/107  Binary Tree Level Order Traversal II/">107</a> |  <a href="/Easy/107  Binary Tree Level Order Traversal II">Binary Tree Level Order Traversal II</a>| Easy | <a href="/Easy/107  Binary Tree Level Order Traversal II/binaryTreeLevelOrderTraversalIi.js">Solution</a> | 
