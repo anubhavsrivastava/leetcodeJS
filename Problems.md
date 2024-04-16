@@ -1,4 +1,4 @@
-## Problems Solved - 236
+## Problems Solved - 237
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -160,6 +160,7 @@
 | <a href="/Easy/1672 Richest Customer Wealth/">1672</a> |  <a href="/Easy/1672 Richest Customer Wealth">Richest Customer Wealth</a>| Easy | <a href="/Easy/1672 Richest Customer Wealth/richestCustomerWealth.js">Solution</a> | 
 | <a href="/Easy/1678 Goal Parser Interpretation/">1678</a> |  <a href="/Easy/1678 Goal Parser Interpretation">Goal Parser Interpretation</a>| Easy | <a href="/Easy/1678 Goal Parser Interpretation/goalParserInterpretation.js">Solution</a> | 
 | <a href="/Easy/1684 Count the Number of Consistent Strings/">1684</a> |  <a href="/Easy/1684 Count the Number of Consistent Strings">Count the Number of Consistent Strings</a>| Easy | <a href="/Easy/1684 Count the Number of Consistent Strings/countTheNumberOfConsistentStrings.js">Solution</a> | 
+| <a href="/Easy/1688 Count of Matches in Tournament/">1688</a> |  <a href="/Easy/1688 Count of Matches in Tournament">Count of Matches in Tournament</a>| Easy | <a href="/Easy/1688 Count of Matches in Tournament/countOfMatchesInTournament.js">Solution</a> | 
 | <a href="/Easy/1732 Find the Highest Altitude/">1732</a> |  <a href="/Easy/1732 Find the Highest Altitude">Find the Highest Altitude</a>| Easy | <a href="/Easy/1732 Find the Highest Altitude/findTheHighestAltitude.js">Solution</a> | 
 | <a href="/Easy/1748 Sum of Unique Elements/">1748</a> |  <a href="/Easy/1748 Sum of Unique Elements">Sum of Unique Elements</a>| Easy | <a href="/Easy/1748 Sum of Unique Elements/sumOfUniqueElements.js">Solution</a> | 
 | <a href="/Easy/1773 Count Items Matching a Rule/">1773</a> |  <a href="/Easy/1773 Count Items Matching a Rule">Count Items Matching a Rule</a>| Easy | <a href="/Easy/1773 Count Items Matching a Rule/countItemsMatchingARule.js">Solution</a> | 
