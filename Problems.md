@@ -1,4 +1,4 @@
-## Problems Solved - 239
+## Problems Solved - 240
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -234,6 +234,7 @@
 | <a href="/Easy/2942 Find Words Containing Character/">2942</a> |  <a href="/Easy/2942 Find Words Containing Character">Find Words Containing Character</a>| Easy | <a href="/Easy/2942 Find Words Containing Character/findWordsContainingCharacter.js">Solution</a> | 
 | <a href="/Easy/2956 Find Common Elements Between Two Arrays/">2956</a> |  <a href="/Easy/2956 Find Common Elements Between Two Arrays">Find Common Elements Between Two Arrays</a>| Easy | <a href="/Easy/2956 Find Common Elements Between Two Arrays/findCommonElementsBetweenTwoArrays.js">Solution</a> | 
 | <a href="/Easy/2960 Count Tested Devices After Test Operations/">2960</a> |  <a href="/Easy/2960 Count Tested Devices After Test Operations">Count Tested Devices After Test Operations</a>| Easy | <a href="/Easy/2960 Count Tested Devices After Test Operations/countTestedDevicesAfterTestOperations.js">Solution</a> | 
+| <a href="/Easy/2965 Find Missing and Repeated Values/">2965</a> |  <a href="/Easy/2965 Find Missing and Repeated Values">Find Missing and Repeated Values</a>| Easy | <a href="/Easy/2965 Find Missing and Repeated Values/findMissingAndRepeatedValues.js">Solution</a> | 
 | <a href="/Easy/3005 Count Elements With Maximum Frequency/">3005</a> |  <a href="/Easy/3005 Count Elements With Maximum Frequency">Count Elements With Maximum Frequency</a>| Easy | <a href="/Easy/3005 Count Elements With Maximum Frequency/countElementsWithMaximumFrequency.js">Solution</a> | 
 | <a href="/Easy/3046 Split the Array/">3046</a> |  <a href="/Easy/3046 Split the Array">Split the Array</a>| Easy | <a href="/Easy/3046 Split the Array/splitTheArray.js">Solution</a> | 
 | <a href="/Easy/3079 Find the Sum of Encrypted Integers/">3079</a> |  <a href="/Easy/3079 Find the Sum of Encrypted Integers">Find the Sum of Encrypted Integers</a>| Easy | <a href="/Easy/3079 Find the Sum of Encrypted Integers/findTheSumOfEncryptedIntegers.js">Solution</a> | 
