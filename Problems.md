@@ -1,4 +1,4 @@
-## Problems Solved - 240
+## Problems Solved - 241
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -230,6 +230,7 @@
 | <a href="/Easy/2798 Number of Employees Who Met the Target/">2798</a> |  <a href="/Easy/2798 Number of Employees Who Met the Target">Number of Employees Who Met the Target</a>| Easy | <a href="/Easy/2798 Number of Employees Who Met the Target/numberOfEmployeesWhoMetTheTarget.js">Solution</a> | 
 | <a href="/Easy/2828 Check if a String Is an Acronym of Words/">2828</a> |  <a href="/Easy/2828 Check if a String Is an Acronym of Words">Check if a String Is an Acronym of Words</a>| Easy | <a href="/Easy/2828 Check if a String Is an Acronym of Words/checkIfAStringIsAnAcronymOfWords.js">Solution</a> | 
 | <a href="/Easy/2894 Divisible and Non-divisible Sums Difference/">2894</a> |  <a href="/Easy/2894 Divisible and Non-divisible Sums Difference">Divisible and Non-divisible Sums Difference</a>| Easy | <a href="/Easy/2894 Divisible and Non-divisible Sums Difference/divisibleAndNonDivisibleSumsDifference.js">Solution</a> | 
+| <a href="/Easy/2923 Find Champion I/">2923</a> |  <a href="/Easy/2923 Find Champion I">Find Champion I</a>| Easy | <a href="/Easy/2923 Find Champion I/findChampionI.js">Solution</a> | 
 | <a href="/Easy/2937 Make Three Strings Equal/">2937</a> |  <a href="/Easy/2937 Make Three Strings Equal">Make Three Strings Equal</a>| Easy | <a href="/Easy/2937 Make Three Strings Equal/makeThreeStringsEqual.js">Solution</a> | 
 | <a href="/Easy/2942 Find Words Containing Character/">2942</a> |  <a href="/Easy/2942 Find Words Containing Character">Find Words Containing Character</a>| Easy | <a href="/Easy/2942 Find Words Containing Character/findWordsContainingCharacter.js">Solution</a> | 
 | <a href="/Easy/2956 Find Common Elements Between Two Arrays/">2956</a> |  <a href="/Easy/2956 Find Common Elements Between Two Arrays">Find Common Elements Between Two Arrays</a>| Easy | <a href="/Easy/2956 Find Common Elements Between Two Arrays/findCommonElementsBetweenTwoArrays.js">Solution</a> | 
