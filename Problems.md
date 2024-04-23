@@ -1,4 +1,4 @@
-## Problems Solved - 243
+## Problems Solved - 244
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -237,6 +237,7 @@
 | <a href="/Easy/2960 Count Tested Devices After Test Operations/">2960</a> |  <a href="/Easy/2960 Count Tested Devices After Test Operations">Count Tested Devices After Test Operations</a>| Easy | <a href="/Easy/2960 Count Tested Devices After Test Operations/countTestedDevicesAfterTestOperations.js">Solution</a> | 
 | <a href="/Easy/2965 Find Missing and Repeated Values/">2965</a> |  <a href="/Easy/2965 Find Missing and Repeated Values">Find Missing and Repeated Values</a>| Easy | <a href="/Easy/2965 Find Missing and Repeated Values/findMissingAndRepeatedValues.js">Solution</a> | 
 | <a href="/Easy/3005 Count Elements With Maximum Frequency/">3005</a> |  <a href="/Easy/3005 Count Elements With Maximum Frequency">Count Elements With Maximum Frequency</a>| Easy | <a href="/Easy/3005 Count Elements With Maximum Frequency/countElementsWithMaximumFrequency.js">Solution</a> | 
+| <a href="/Easy/3019 Number of Changing Keys/">3019</a> |  <a href="/Easy/3019 Number of Changing Keys">Number of Changing Keys</a>| Easy | <a href="/Easy/3019 Number of Changing Keys/numberOfChangingKeys.js">Solution</a> | 
 | <a href="/Easy/3046 Split the Array/">3046</a> |  <a href="/Easy/3046 Split the Array">Split the Array</a>| Easy | <a href="/Easy/3046 Split the Array/splitTheArray.js">Solution</a> | 
 | <a href="/Easy/3079 Find the Sum of Encrypted Integers/">3079</a> |  <a href="/Easy/3079 Find the Sum of Encrypted Integers">Find the Sum of Encrypted Integers</a>| Easy | <a href="/Easy/3079 Find the Sum of Encrypted Integers/findTheSumOfEncryptedIntegers.js">Solution</a> | 
 | <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse/">3083</a> |  <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse">Existence of a Substring in a String and Its Reverse</a>| Easy | <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse/existenceOfASubstringInAStringAndItsReverse.js">Solution</a> | 
