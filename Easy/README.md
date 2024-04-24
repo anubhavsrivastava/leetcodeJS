@@ -1,4 +1,4 @@
-## Problems Solved - 205
+## Problems Solved - 206
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -201,6 +201,7 @@
 | <a href="/Easy/3005 Count Elements With Maximum Frequency/">3005</a> |  <a href="/Easy/3005 Count Elements With Maximum Frequency">Count Elements With Maximum Frequency</a>| Easy | <a href="/Easy/3005 Count Elements With Maximum Frequency/countElementsWithMaximumFrequency.js">Solution</a> | 
 | <a href="/Easy/3019 Number of Changing Keys/">3019</a> |  <a href="/Easy/3019 Number of Changing Keys">Number of Changing Keys</a>| Easy | <a href="/Easy/3019 Number of Changing Keys/numberOfChangingKeys.js">Solution</a> | 
 | <a href="/Easy/3046 Split the Array/">3046</a> |  <a href="/Easy/3046 Split the Array">Split the Array</a>| Easy | <a href="/Easy/3046 Split the Array/splitTheArray.js">Solution</a> | 
+| <a href="/Easy/3065 Minimum Operations to Exceed Threshold Value I/">3065</a> |  <a href="/Easy/3065 Minimum Operations to Exceed Threshold Value I">Minimum Operations to Exceed Threshold Value I</a>| Easy | <a href="/Easy/3065 Minimum Operations to Exceed Threshold Value I/minimumOperationsToExceedThresholdValueI.js">Solution</a> | 
 | <a href="/Easy/3079 Find the Sum of Encrypted Integers/">3079</a> |  <a href="/Easy/3079 Find the Sum of Encrypted Integers">Find the Sum of Encrypted Integers</a>| Easy | <a href="/Easy/3079 Find the Sum of Encrypted Integers/findTheSumOfEncryptedIntegers.js">Solution</a> | 
 | <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse/">3083</a> |  <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse">Existence of a Substring in a String and Its Reverse</a>| Easy | <a href="/Easy/3083 Existence of a Substring in a String and Its Reverse/existenceOfASubstringInAStringAndItsReverse.js">Solution</a> | 
 | <a href="/Easy/3099 Harshad Number/">3099</a> |  <a href="/Easy/3099 Harshad Number">Harshad Number</a>| Easy | <a href="/Easy/3099 Harshad Number/harshadNumber.js">Solution</a> | 
