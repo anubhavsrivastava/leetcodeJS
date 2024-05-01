@@ -1,4 +1,4 @@
-## Problems Solved - 248
+## Problems Solved - 249
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -164,6 +164,7 @@
 | <a href="/Easy/1732 Find the Highest Altitude/">1732</a> |  <a href="/Easy/1732 Find the Highest Altitude">Find the Highest Altitude</a>| Easy | <a href="/Easy/1732 Find the Highest Altitude/findTheHighestAltitude.js">Solution</a> | 
 | <a href="/Easy/1748 Sum of Unique Elements/">1748</a> |  <a href="/Easy/1748 Sum of Unique Elements">Sum of Unique Elements</a>| Easy | <a href="/Easy/1748 Sum of Unique Elements/sumOfUniqueElements.js">Solution</a> | 
 | <a href="/Easy/1773 Count Items Matching a Rule/">1773</a> |  <a href="/Easy/1773 Count Items Matching a Rule">Count Items Matching a Rule</a>| Easy | <a href="/Easy/1773 Count Items Matching a Rule/countItemsMatchingARule.js">Solution</a> | 
+| <a href="/Easy/1812 Determine Color of a Chessboard Square/">1812</a> |  <a href="/Easy/1812 Determine Color of a Chessboard Square">Determine Color of a Chessboard Square</a>| Easy | <a href="/Easy/1812 Determine Color of a Chessboard Square/determineColorOfAChessboardSquare.js">Solution</a> | 
 | <a href="/Easy/1816 Truncate Sentence/">1816</a> |  <a href="/Easy/1816 Truncate Sentence">Truncate Sentence</a>| Easy | <a href="/Easy/1816 Truncate Sentence/truncateSentence.js">Solution</a> | 
 | <a href="/Easy/1832 Check if the Sentence Is Pangram/">1832</a> |  <a href="/Easy/1832 Check if the Sentence Is Pangram">Check if the Sentence Is Pangram</a>| Easy | <a href="/Easy/1832 Check if the Sentence Is Pangram/checkIfTheSentenceIsPangram.js">Solution</a> | 
 | <a href="/Easy/1844 Replace All Digits with Characters/">1844</a> |  <a href="/Easy/1844 Replace All Digits with Characters">Replace All Digits with Characters</a>| Easy | <a href="/Easy/1844 Replace All Digits with Characters/replaceAllDigitsWithCharacters.js">Solution</a> | 
