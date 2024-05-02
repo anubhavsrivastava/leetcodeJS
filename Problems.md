@@ -1,4 +1,4 @@
-## Problems Solved - 249
+## Problems Solved - 250
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -189,6 +189,7 @@
 | <a href="/Easy/2315 Count Asterisks/">2315</a> |  <a href="/Easy/2315 Count Asterisks">Count Asterisks</a>| Easy | <a href="/Easy/2315 Count Asterisks/countAsterisks.js">Solution</a> | 
 | <a href="/Easy/2325 Decode the Message/">2325</a> |  <a href="/Easy/2325 Decode the Message">Decode the Message</a>| Easy | <a href="/Easy/2325 Decode the Message/decodeTheMessage.js">Solution</a> | 
 | <a href="/Easy/2351 First Letter to Appear Twice/">2351</a> |  <a href="/Easy/2351 First Letter to Appear Twice">First Letter to Appear Twice</a>| Easy | <a href="/Easy/2351 First Letter to Appear Twice/firstLetterToAppearTwice.js">Solution</a> | 
+| <a href="/Easy/2363 Merge Similar Items/">2363</a> |  <a href="/Easy/2363 Merge Similar Items">Merge Similar Items</a>| Easy | <a href="/Easy/2363 Merge Similar Items/mergeSimilarItems.js">Solution</a> | 
 | <a href="/Medium/2396 Strictly Palindromic Number/">2396</a> |  <a href="/Medium/2396 Strictly Palindromic Number">Strictly Palindromic Number</a>| Medium | <a href="/Medium/2396 Strictly Palindromic Number/strictlyPalindromicNumber.js">Solution</a> | 
 | <a href="/Easy/2413 Smallest Even Multiple/">2413</a> |  <a href="/Easy/2413 Smallest Even Multiple">Smallest Even Multiple</a>| Easy | <a href="/Easy/2413 Smallest Even Multiple/smallestEvenMultiple.js">Solution</a> | 
 | <a href="/Easy/2418 Sort the People/">2418</a> |  <a href="/Easy/2418 Sort the People">Sort the People</a>| Easy | <a href="/Easy/2418 Sort the People/sortThePeople.js">Solution</a> | 
