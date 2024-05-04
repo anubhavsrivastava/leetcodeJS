@@ -1,4 +1,4 @@
-## Problems Solved - 211
+## Problems Solved - 212
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -144,6 +144,7 @@
 | <a href="/Easy/1913 Maximum Product Difference Between Two Pairs/">1913</a> |  <a href="/Easy/1913 Maximum Product Difference Between Two Pairs">Maximum Product Difference Between Two Pairs</a>| Easy | <a href="/Easy/1913 Maximum Product Difference Between Two Pairs/maximumProductDifferenceBetweenTwoPairs.js">Solution</a> | 
 | <a href="/Easy/1920 Build Array from Permutation/">1920</a> |  <a href="/Easy/1920 Build Array from Permutation">Build Array from Permutation</a>| Easy | <a href="/Easy/1920 Build Array from Permutation/buildArrayFromPermutation.js">Solution</a> | 
 | <a href="/Easy/1929 Concatenation of Array/">1929</a> |  <a href="/Easy/1929 Concatenation of Array">Concatenation of Array</a>| Easy | <a href="/Easy/1929 Concatenation of Array/concatenationOfArray.js">Solution</a> | 
+| <a href="/Easy/1941 Check if All Characters Have Equal Number of Occurrences/">1941</a> |  <a href="/Easy/1941 Check if All Characters Have Equal Number of Occurrences">Check if All Characters Have Equal Number of Occurrences</a>| Easy | <a href="/Easy/1941 Check if All Characters Have Equal Number of Occurrences/checkIfAllCharactersHaveEqualNumberOfOccurrences.js">Solution</a> | 
 | <a href="/Easy/2000 Reverse Prefix of Word/">2000</a> |  <a href="/Easy/2000 Reverse Prefix of Word">Reverse Prefix of Word</a>| Easy | <a href="/Easy/2000 Reverse Prefix of Word/reversePrefixOfWord.js">Solution</a> | 
 | <a href="/Easy/2011 Final Value of Variable After Performing Operations/">2011</a> |  <a href="/Easy/2011 Final Value of Variable After Performing Operations">Final Value of Variable After Performing Operations</a>| Easy | <a href="/Easy/2011 Final Value of Variable After Performing Operations/finalValueOfVariableAfterPerformingOperations.js">Solution</a> | 
 | <a href="/Easy/2032 Two Out of Three/">2032</a> |  <a href="/Easy/2032 Two Out of Three">Two Out of Three</a>| Easy | <a href="/Easy/2032 Two Out of Three/twoOutOfThree.js">Solution</a> | 
