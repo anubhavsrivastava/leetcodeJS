@@ -1,4 +1,4 @@
-## Problems Solved - 252
+## Problems Solved - 253
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -232,6 +232,7 @@
 | <a href="/Easy/2726 Calculator with Method Chaining/">2726</a> |  <a href="/Easy/2726 Calculator with Method Chaining">Calculator with Method Chaining</a>| Easy | <a href="/Easy/2726 Calculator with Method Chaining/calculatorWithMethodChaining.js">Solution</a> | 
 | <a href="/Easy/2727 Is Object Empty/">2727</a> |  <a href="/Easy/2727 Is Object Empty">Is Object Empty</a>| Easy | <a href="/Easy/2727 Is Object Empty/isObjectEmpty.js">Solution</a> | 
 | <a href="/Easy/2729 Check if The Number is Fascinating/">2729</a> |  <a href="/Easy/2729 Check if The Number is Fascinating">Check if The Number is Fascinating</a>| Easy | <a href="/Easy/2729 Check if The Number is Fascinating/checkIfTheNumberIsFascinating.js">Solution</a> | 
+| <a href="/Easy/2744 Find Maximum Number of String Pairs/">2744</a> |  <a href="/Easy/2744 Find Maximum Number of String Pairs">Find Maximum Number of String Pairs</a>| Easy | <a href="/Easy/2744 Find Maximum Number of String Pairs/findMaximumNumberOfStringPairs.js">Solution</a> | 
 | <a href="/Easy/2788 Split Strings by Separator/">2788</a> |  <a href="/Easy/2788 Split Strings by Separator">Split Strings by Separator</a>| Easy | <a href="/Easy/2788 Split Strings by Separator/splitStringsBySeparator.js">Solution</a> | 
 | <a href="/Easy/2798 Number of Employees Who Met the Target/">2798</a> |  <a href="/Easy/2798 Number of Employees Who Met the Target">Number of Employees Who Met the Target</a>| Easy | <a href="/Easy/2798 Number of Employees Who Met the Target/numberOfEmployeesWhoMetTheTarget.js">Solution</a> | 
 | <a href="/Easy/2828 Check if a String Is an Acronym of Words/">2828</a> |  <a href="/Easy/2828 Check if a String Is an Acronym of Words">Check if a String Is an Acronym of Words</a>| Easy | <a href="/Easy/2828 Check if a String Is an Acronym of Words/checkIfAStringIsAnAcronymOfWords.js">Solution</a> | 
