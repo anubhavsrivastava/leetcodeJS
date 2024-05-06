@@ -1,4 +1,4 @@
-## Problems Solved - 253
+## Problems Solved - 254
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -137,6 +137,7 @@
 | <a href="/Easy/1108  Defanging an IP Address/">1108</a> |  <a href="/Easy/1108  Defanging an IP Address">Defanging an IP Address</a>| Easy | <a href="/Easy/1108  Defanging an IP Address/defangingAnIpAddress.js">Solution</a> | 
 | <a href="/Easy/1128 Number of Equivalent Domino Pairs/">1128</a> |  <a href="/Easy/1128 Number of Equivalent Domino Pairs">Number of Equivalent Domino Pairs</a>| Easy | <a href="/Easy/1128 Number of Equivalent Domino Pairs/numberOfEquivalentDominoPairs.js">Solution</a> | 
 | <a href="/Easy/1137  N-th Tribonacci Number/">1137</a> |  <a href="/Easy/1137  N-th Tribonacci Number">N-th Tribonacci Number</a>| Easy | <a href="/Easy/1137  N-th Tribonacci Number/nThTribonacciNumber.js">Solution</a> | 
+| <a href="/Easy/1207 Unique Number of Occurrences/">1207</a> |  <a href="/Easy/1207 Unique Number of Occurrences">Unique Number of Occurrences</a>| Easy | <a href="/Easy/1207 Unique Number of Occurrences/uniqueNumberOfOccurrences.js">Solution</a> | 
 | <a href="/Easy/1221 Split a String in Balanced Strings/">1221</a> |  <a href="/Easy/1221 Split a String in Balanced Strings">Split a String in Balanced Strings</a>| Easy | <a href="/Easy/1221 Split a String in Balanced Strings/splitAStringInBalancedStrings.js">Solution</a> | 
 | <a href="/Easy/1281  Subtract the Product and Sum of Digits of an Integer/">1281</a> |  <a href="/Easy/1281  Subtract the Product and Sum of Digits of an Integer">Subtract the Product and Sum of Digits of an Integer</a>| Easy | <a href="/Easy/1281  Subtract the Product and Sum of Digits of an Integer/subtractTheProductAndSumOfDigitsOfAnInteger.js">Solution</a> | 
 | <a href="/Medium/1282 Group the People Given the Group Size They Belong To/">1282</a> |  <a href="/Medium/1282 Group the People Given the Group Size They Belong To">Group the People Given the Group Size They Belong To</a>| Medium | <a href="/Medium/1282 Group the People Given the Group Size They Belong To/groupThePeopleGivenTheGroupSizeTheyBelongTo.js">Solution</a> | 
