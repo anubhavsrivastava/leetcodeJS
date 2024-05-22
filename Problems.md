@@ -1,4 +1,4 @@
-## Problems Solved - 255
+## Problems Solved - 256
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -71,6 +71,7 @@
 | <a href="/Easy/485 Max Consecutive Ones/">485</a> |  <a href="/Easy/485 Max Consecutive Ones">Max Consecutive Ones</a>| Easy | <a href="/Easy/485 Max Consecutive Ones/maxConsecutiveOnes.js">Solution</a> | 
 | <a href="/Easy/500  Keyboard Row/">500</a> |  <a href="/Easy/500  Keyboard Row">Keyboard Row</a>| Easy | <a href="/Easy/500  Keyboard Row/keyboardRow.js">Solution</a> | 
 | <a href="/Easy/504  Base 7/">504</a> |  <a href="/Easy/504  Base 7">Base 7</a>| Easy | <a href="/Easy/504  Base 7/base7.js">Solution</a> | 
+| <a href="/Easy/506 Relative Ranks/">506</a> |  <a href="/Easy/506 Relative Ranks">Relative Ranks</a>| Easy | <a href="/Easy/506 Relative Ranks/relativeRanks.js">Solution</a> | 
 | <a href="/Easy/520 Detect Capital/">520</a> |  <a href="/Easy/520 Detect Capital">Detect Capital</a>| Easy | <a href="/Easy/520 Detect Capital/detectCapital.js">Solution</a> | 
 | <a href="/Medium/535  Encode and Decode TinyURL/">535</a> |  <a href="/Medium/535  Encode and Decode TinyURL">Encode and Decode TinyURL</a>| Medium | <a href="/Medium/535  Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 
 | <a href="/Medium/535 Encode and Decode TinyURL/">535</a> |  <a href="/Medium/535 Encode and Decode TinyURL">Encode and Decode TinyURL</a>| Medium | <a href="/Medium/535 Encode and Decode TinyURL/encodeAndDecodeTinyurl.js">Solution</a> | 

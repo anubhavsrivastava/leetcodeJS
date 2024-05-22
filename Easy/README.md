@@ -1,4 +1,4 @@
-## Problems Solved - 215
+## Problems Solved - 216
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -58,6 +58,7 @@
 | <a href="/Easy/485 Max Consecutive Ones/">485</a> |  <a href="/Easy/485 Max Consecutive Ones">Max Consecutive Ones</a>| Easy | <a href="/Easy/485 Max Consecutive Ones/maxConsecutiveOnes.js">Solution</a> | 
 | <a href="/Easy/500  Keyboard Row/">500</a> |  <a href="/Easy/500  Keyboard Row">Keyboard Row</a>| Easy | <a href="/Easy/500  Keyboard Row/keyboardRow.js">Solution</a> | 
 | <a href="/Easy/504  Base 7/">504</a> |  <a href="/Easy/504  Base 7">Base 7</a>| Easy | <a href="/Easy/504  Base 7/base7.js">Solution</a> | 
+| <a href="/Easy/506 Relative Ranks/">506</a> |  <a href="/Easy/506 Relative Ranks">Relative Ranks</a>| Easy | <a href="/Easy/506 Relative Ranks/relativeRanks.js">Solution</a> | 
 | <a href="/Easy/520 Detect Capital/">520</a> |  <a href="/Easy/520 Detect Capital">Detect Capital</a>| Easy | <a href="/Easy/520 Detect Capital/detectCapital.js">Solution</a> | 
 | <a href="/Easy/541 Reverse String II/">541</a> |  <a href="/Easy/541 Reverse String II">Reverse String II</a>| Easy | <a href="/Easy/541 Reverse String II/reverseStringIi.js">Solution</a> | 
 | <a href="/Easy/551 Student Attendance Record I/">551</a> |  <a href="/Easy/551 Student Attendance Record I">Student Attendance Record I</a>| Easy | <a href="/Easy/551 Student Attendance Record I/studentAttendanceRecordI.js">Solution</a> | 
