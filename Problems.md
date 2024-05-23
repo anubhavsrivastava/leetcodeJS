@@ -1,4 +1,4 @@
-## Problems Solved - 256
+## Problems Solved - 257
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -178,6 +178,7 @@
 | <a href="/Easy/2000 Reverse Prefix of Word/">2000</a> |  <a href="/Easy/2000 Reverse Prefix of Word">Reverse Prefix of Word</a>| Easy | <a href="/Easy/2000 Reverse Prefix of Word/reversePrefixOfWord.js">Solution</a> | 
 | <a href="/Easy/2011 Final Value of Variable After Performing Operations/">2011</a> |  <a href="/Easy/2011 Final Value of Variable After Performing Operations">Final Value of Variable After Performing Operations</a>| Easy | <a href="/Easy/2011 Final Value of Variable After Performing Operations/finalValueOfVariableAfterPerformingOperations.js">Solution</a> | 
 | <a href="/Easy/2032 Two Out of Three/">2032</a> |  <a href="/Easy/2032 Two Out of Three">Two Out of Three</a>| Easy | <a href="/Easy/2032 Two Out of Three/twoOutOfThree.js">Solution</a> | 
+| <a href="/Easy/2037 Minimum Number of Moves to Seat Everyone/">2037</a> |  <a href="/Easy/2037 Minimum Number of Moves to Seat Everyone">Minimum Number of Moves to Seat Everyone</a>| Easy | <a href="/Easy/2037 Minimum Number of Moves to Seat Everyone/minimumNumberOfMovesToSeatEveryone.js">Solution</a> | 
 | <a href="/Easy/2089 Find Target Indices After Sorting Array/">2089</a> |  <a href="/Easy/2089 Find Target Indices After Sorting Array">Find Target Indices After Sorting Array</a>| Easy | <a href="/Easy/2089 Find Target Indices After Sorting Array/findTargetIndicesAfterSortingArray.js">Solution</a> | 
 | <a href="/Easy/2108 Find First Palindromic String in the Array/">2108</a> |  <a href="/Easy/2108 Find First Palindromic String in the Array">Find First Palindromic String in the Array</a>| Easy | <a href="/Easy/2108 Find First Palindromic String in the Array/findFirstPalindromicStringInTheArray.js">Solution</a> | 
 | <a href="/Easy/2114 Maximum Number of Words Found in Sentences/">2114</a> |  <a href="/Easy/2114 Maximum Number of Words Found in Sentences">Maximum Number of Words Found in Sentences</a>| Easy | <a href="/Easy/2114 Maximum Number of Words Found in Sentences/maximumNumberOfWordsFoundInSentences.js">Solution</a> | 
