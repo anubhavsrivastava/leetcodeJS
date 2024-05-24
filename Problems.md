@@ -1,4 +1,4 @@
-## Problems Solved - 257
+## Problems Solved - 258
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -259,3 +259,4 @@
 | <a href="/Easy/3120 Count the Number of Special Characters I/">3120</a> |  <a href="/Easy/3120 Count the Number of Special Characters I">Count the Number of Special Characters I</a>| Easy | <a href="/Easy/3120 Count the Number of Special Characters I/countTheNumberOfSpecialCharactersI.js">Solution</a> | 
 | <a href="/Medium/3121 Count the Number of Special Characters II/">3121</a> |  <a href="/Medium/3121 Count the Number of Special Characters II">Count the Number of Special Characters II</a>| Medium | <a href="/Medium/3121 Count the Number of Special Characters II/countTheNumberOfSpecialCharactersIi.js">Solution</a> | 
 | <a href="/Easy/3131 Find the Integer Added to Array I/">3131</a> |  <a href="/Easy/3131 Find the Integer Added to Array I">Find the Integer Added to Array I</a>| Easy | <a href="/Easy/3131 Find the Integer Added to Array I/findTheIntegerAddedToArrayI.js">Solution</a> | 
+| <a href="/Easy/3151 Special Array I/">3151</a> |  <a href="/Easy/3151 Special Array I">Special Array I</a>| Easy | <a href="/Easy/3151 Special Array I/specialArrayI.js">Solution</a> | 

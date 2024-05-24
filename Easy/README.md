@@ -1,4 +1,4 @@
-## Problems Solved - 217
+## Problems Solved - 218
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -219,3 +219,4 @@
 | <a href="/Easy/3114 Latest Time You Can Obtain After Replacing Characters/">3114</a> |  <a href="/Easy/3114 Latest Time You Can Obtain After Replacing Characters">Latest Time You Can Obtain After Replacing Characters</a>| Easy | <a href="/Easy/3114 Latest Time You Can Obtain After Replacing Characters/latestTimeYouCanObtainAfterReplacingCharacters.js">Solution</a> | 
 | <a href="/Easy/3120 Count the Number of Special Characters I/">3120</a> |  <a href="/Easy/3120 Count the Number of Special Characters I">Count the Number of Special Characters I</a>| Easy | <a href="/Easy/3120 Count the Number of Special Characters I/countTheNumberOfSpecialCharactersI.js">Solution</a> | 
 | <a href="/Easy/3131 Find the Integer Added to Array I/">3131</a> |  <a href="/Easy/3131 Find the Integer Added to Array I">Find the Integer Added to Array I</a>| Easy | <a href="/Easy/3131 Find the Integer Added to Array I/findTheIntegerAddedToArrayI.js">Solution</a> | 
+| <a href="/Easy/3151 Special Array I/">3151</a> |  <a href="/Easy/3151 Special Array I">Special Array I</a>| Easy | <a href="/Easy/3151 Special Array I/specialArrayI.js">Solution</a> | 
