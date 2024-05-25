@@ -1,4 +1,4 @@
-## Problems Solved - 40
+## Problems Solved - 41
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -42,3 +42,4 @@
 | <a href="/Medium/2722 Join Two Arrays by ID/">2722</a> |  <a href="/Medium/2722 Join Two Arrays by ID">Join Two Arrays by ID</a>| Medium | <a href="/Medium/2722 Join Two Arrays by ID/joinTwoArraysById.js">Solution</a> | 
 | <a href="/Medium/3121 Count the Number of Special Characters II/">3121</a> |  <a href="/Medium/3121 Count the Number of Special Characters II">Count the Number of Special Characters II</a>| Medium | <a href="/Medium/3121 Count the Number of Special Characters II/countTheNumberOfSpecialCharactersIi.js">Solution</a> | 
 | <a href="/Medium/3159 Find Occurrences of an Element in an Array/">3159</a> |  <a href="/Medium/3159 Find Occurrences of an Element in an Array">Find Occurrences of an Element in an Array</a>| Medium | <a href="/Medium/3159 Find Occurrences of an Element in an Array/findOccurrencesOfAnElementInAnArray.js">Solution</a> | 
+| <a href="/Medium/3160 Find the Number of Distinct Colors Among the Balls/">3160</a> |  <a href="/Medium/3160 Find the Number of Distinct Colors Among the Balls">Find the Number of Distinct Colors Among the Balls</a>| Medium | <a href="/Medium/3160 Find the Number of Distinct Colors Among the Balls/findTheNumberOfDistinctColorsAmongTheBalls.js">Solution</a> | 
