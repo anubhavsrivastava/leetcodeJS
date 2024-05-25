@@ -1,4 +1,4 @@
-## Problems Solved - 39
+## Problems Solved - 40
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -41,3 +41,4 @@
 | <a href="/Medium/2721 Execute Asynchronous Functions in Parallel/">2721</a> |  <a href="/Medium/2721 Execute Asynchronous Functions in Parallel">Execute Asynchronous Functions in Parallel</a>| Medium | <a href="/Medium/2721 Execute Asynchronous Functions in Parallel/executeAsynchronousFunctionsInParallel.js">Solution</a> | 
 | <a href="/Medium/2722 Join Two Arrays by ID/">2722</a> |  <a href="/Medium/2722 Join Two Arrays by ID">Join Two Arrays by ID</a>| Medium | <a href="/Medium/2722 Join Two Arrays by ID/joinTwoArraysById.js">Solution</a> | 
 | <a href="/Medium/3121 Count the Number of Special Characters II/">3121</a> |  <a href="/Medium/3121 Count the Number of Special Characters II">Count the Number of Special Characters II</a>| Medium | <a href="/Medium/3121 Count the Number of Special Characters II/countTheNumberOfSpecialCharactersIi.js">Solution</a> | 
+| <a href="/Medium/3159 Find Occurrences of an Element in an Array/">3159</a> |  <a href="/Medium/3159 Find Occurrences of an Element in an Array">Find Occurrences of an Element in an Array</a>| Medium | <a href="/Medium/3159 Find Occurrences of an Element in an Array/findOccurrencesOfAnElementInAnArray.js">Solution</a> | 
