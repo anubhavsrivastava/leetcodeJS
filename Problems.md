@@ -1,4 +1,4 @@
-## Problems Solved - 262
+## Problems Solved - 263
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -148,6 +148,7 @@
 | <a href="/Easy/1351  Count Negative Numbers in a Sorted Matrix/">1351</a> |  <a href="/Easy/1351  Count Negative Numbers in a Sorted Matrix">Count Negative Numbers in a Sorted Matrix</a>| Easy | <a href="/Easy/1351  Count Negative Numbers in a Sorted Matrix/countNegativeNumbersInASortedMatrix.js">Solution</a> | 
 | <a href="/Easy/1365 How Many Numbers Are Smaller Than the Current Number/">1365</a> |  <a href="/Easy/1365 How Many Numbers Are Smaller Than the Current Number">How Many Numbers Are Smaller Than the Current Number</a>| Easy | <a href="/Easy/1365 How Many Numbers Are Smaller Than the Current Number/howManyNumbersAreSmallerThanTheCurrentNumber.js">Solution</a> | 
 | <a href="/Easy/1380  Lucky Numbers in a Matrix/">1380</a> |  <a href="/Easy/1380  Lucky Numbers in a Matrix">Lucky Numbers in a Matrix</a>| Easy | <a href="/Easy/1380  Lucky Numbers in a Matrix/luckyNumbersInAMatrix.js">Solution</a> | 
+| <a href="/Easy/1394 Find Lucky Integer in an Array/">1394</a> |  <a href="/Easy/1394 Find Lucky Integer in an Array">Find Lucky Integer in an Array</a>| Easy | <a href="/Easy/1394 Find Lucky Integer in an Array/findLuckyIntegerInAnArray.js">Solution</a> | 
 | <a href="/Easy/1431  Kids With the Greatest Number of Candies/">1431</a> |  <a href="/Easy/1431  Kids With the Greatest Number of Candies">Kids With the Greatest Number of Candies</a>| Easy | <a href="/Easy/1431  Kids With the Greatest Number of Candies/kidsWithTheGreatestNumberOfCandies.js">Solution</a> | 
 | <a href="/Easy/1436 Destination City/">1436</a> |  <a href="/Easy/1436 Destination City">Destination City</a>| Easy | <a href="/Easy/1436 Destination City/destinationCity.js">Solution</a> | 
 | <a href="/Easy/1464 Maximum Product of Two Elements in an Array/">1464</a> |  <a href="/Easy/1464 Maximum Product of Two Elements in an Array">Maximum Product of Two Elements in an Array</a>| Easy | <a href="/Easy/1464 Maximum Product of Two Elements in an Array/maximumProductOfTwoElementsInAnArray.js">Solution</a> | 
