@@ -1,4 +1,4 @@
-## Problems Solved - 221
+## Problems Solved - 222
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -223,3 +223,4 @@
 | <a href="/Easy/3146 Permutation Difference between Two Strings/">3146</a> |  <a href="/Easy/3146 Permutation Difference between Two Strings">Permutation Difference between Two Strings</a>| Easy | <a href="/Easy/3146 Permutation Difference between Two Strings/permutationDifferenceBetweenTwoStrings.js">Solution</a> | 
 | <a href="/Easy/3151 Special Array I/">3151</a> |  <a href="/Easy/3151 Special Array I">Special Array I</a>| Easy | <a href="/Easy/3151 Special Array I/specialArrayI.js">Solution</a> | 
 | <a href="/Easy/3158 Find the XOR of Numbers Which Appear Twice/">3158</a> |  <a href="/Easy/3158 Find the XOR of Numbers Which Appear Twice">Find the XOR of Numbers Which Appear Twice</a>| Easy | <a href="/Easy/3158 Find the XOR of Numbers Which Appear Twice/findTheXorOfNumbersWhichAppearTwice.js">Solution</a> | 
+| <a href="/Easy/3168 Minimum Number of Chairs in a Waiting Room/">3168</a> |  <a href="/Easy/3168 Minimum Number of Chairs in a Waiting Room">Minimum Number of Chairs in a Waiting Room</a>| Easy | <a href="/Easy/3168 Minimum Number of Chairs in a Waiting Room/minimumNumberOfChairsInAWaitingRoom.js">Solution</a> | 

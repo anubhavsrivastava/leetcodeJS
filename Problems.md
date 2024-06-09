@@ -1,4 +1,4 @@
-## Problems Solved - 263
+## Problems Solved - 264
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -265,3 +265,4 @@
 | <a href="/Easy/3158 Find the XOR of Numbers Which Appear Twice/">3158</a> |  <a href="/Easy/3158 Find the XOR of Numbers Which Appear Twice">Find the XOR of Numbers Which Appear Twice</a>| Easy | <a href="/Easy/3158 Find the XOR of Numbers Which Appear Twice/findTheXorOfNumbersWhichAppearTwice.js">Solution</a> | 
 | <a href="/Medium/3159 Find Occurrences of an Element in an Array/">3159</a> |  <a href="/Medium/3159 Find Occurrences of an Element in an Array">Find Occurrences of an Element in an Array</a>| Medium | <a href="/Medium/3159 Find Occurrences of an Element in an Array/findOccurrencesOfAnElementInAnArray.js">Solution</a> | 
 | <a href="/Medium/3160 Find the Number of Distinct Colors Among the Balls/">3160</a> |  <a href="/Medium/3160 Find the Number of Distinct Colors Among the Balls">Find the Number of Distinct Colors Among the Balls</a>| Medium | <a href="/Medium/3160 Find the Number of Distinct Colors Among the Balls/findTheNumberOfDistinctColorsAmongTheBalls.js">Solution</a> | 
+| <a href="/Easy/3168 Minimum Number of Chairs in a Waiting Room/">3168</a> |  <a href="/Easy/3168 Minimum Number of Chairs in a Waiting Room">Minimum Number of Chairs in a Waiting Room</a>| Easy | <a href="/Easy/3168 Minimum Number of Chairs in a Waiting Room/minimumNumberOfChairsInAWaitingRoom.js">Solution</a> | 
