@@ -1,4 +1,4 @@
-## Problems Solved - 264
+## Problems Solved - 265
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -240,6 +240,7 @@
 | <a href="/Easy/2744 Find Maximum Number of String Pairs/">2744</a> |  <a href="/Easy/2744 Find Maximum Number of String Pairs">Find Maximum Number of String Pairs</a>| Easy | <a href="/Easy/2744 Find Maximum Number of String Pairs/findMaximumNumberOfStringPairs.js">Solution</a> | 
 | <a href="/Easy/2788 Split Strings by Separator/">2788</a> |  <a href="/Easy/2788 Split Strings by Separator">Split Strings by Separator</a>| Easy | <a href="/Easy/2788 Split Strings by Separator/splitStringsBySeparator.js">Solution</a> | 
 | <a href="/Easy/2798 Number of Employees Who Met the Target/">2798</a> |  <a href="/Easy/2798 Number of Employees Who Met the Target">Number of Employees Who Met the Target</a>| Easy | <a href="/Easy/2798 Number of Employees Who Met the Target/numberOfEmployeesWhoMetTheTarget.js">Solution</a> | 
+| <a href="/Easy/2810 Faulty Keyboard/">2810</a> |  <a href="/Easy/2810 Faulty Keyboard">Faulty Keyboard</a>| Easy | <a href="/Easy/2810 Faulty Keyboard/faultyKeyboard.js">Solution</a> | 
 | <a href="/Easy/2828 Check if a String Is an Acronym of Words/">2828</a> |  <a href="/Easy/2828 Check if a String Is an Acronym of Words">Check if a String Is an Acronym of Words</a>| Easy | <a href="/Easy/2828 Check if a String Is an Acronym of Words/checkIfAStringIsAnAcronymOfWords.js">Solution</a> | 
 | <a href="/Easy/2894 Divisible and Non-divisible Sums Difference/">2894</a> |  <a href="/Easy/2894 Divisible and Non-divisible Sums Difference">Divisible and Non-divisible Sums Difference</a>| Easy | <a href="/Easy/2894 Divisible and Non-divisible Sums Difference/divisibleAndNonDivisibleSumsDifference.js">Solution</a> | 
 | <a href="/Easy/2923 Find Champion I/">2923</a> |  <a href="/Easy/2923 Find Champion I">Find Champion I</a>| Easy | <a href="/Easy/2923 Find Champion I/findChampionI.js">Solution</a> | 
