@@ -1,4 +1,4 @@
-## Problems Solved - 223
+## Problems Solved - 224
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -155,6 +155,7 @@
 | <a href="/Easy/2089 Find Target Indices After Sorting Array/">2089</a> |  <a href="/Easy/2089 Find Target Indices After Sorting Array">Find Target Indices After Sorting Array</a>| Easy | <a href="/Easy/2089 Find Target Indices After Sorting Array/findTargetIndicesAfterSortingArray.js">Solution</a> | 
 | <a href="/Easy/2108 Find First Palindromic String in the Array/">2108</a> |  <a href="/Easy/2108 Find First Palindromic String in the Array">Find First Palindromic String in the Array</a>| Easy | <a href="/Easy/2108 Find First Palindromic String in the Array/findFirstPalindromicStringInTheArray.js">Solution</a> | 
 | <a href="/Easy/2114 Maximum Number of Words Found in Sentences/">2114</a> |  <a href="/Easy/2114 Maximum Number of Words Found in Sentences">Maximum Number of Words Found in Sentences</a>| Easy | <a href="/Easy/2114 Maximum Number of Words Found in Sentences/maximumNumberOfWordsFoundInSentences.js">Solution</a> | 
+| <a href="/Easy/2119 A Number After a Double Reversal/">2119</a> |  <a href="/Easy/2119 A Number After a Double Reversal">A Number After a Double Reversal</a>| Easy | <a href="/Easy/2119 A Number After a Double Reversal/aNumberAfterADoubleReversal.js">Solution</a> | 
 | <a href="/Easy/2129 Capitalize the Title/">2129</a> |  <a href="/Easy/2129 Capitalize the Title">Capitalize the Title</a>| Easy | <a href="/Easy/2129 Capitalize the Title/capitalizeTheTitle.js">Solution</a> | 
 | <a href="/Easy/2154 Keep Multiplying Found Values by Two/">2154</a> |  <a href="/Easy/2154 Keep Multiplying Found Values by Two">Keep Multiplying Found Values by Two</a>| Easy | <a href="/Easy/2154 Keep Multiplying Found Values by Two/keepMultiplyingFoundValuesByTwo.js">Solution</a> | 
 | <a href="/Easy/2160 Minimum Sum of Four Digit Number After Splitting Digits/">2160</a> |  <a href="/Easy/2160 Minimum Sum of Four Digit Number After Splitting Digits">Minimum Sum of Four Digit Number After Splitting Digits</a>| Easy | <a href="/Easy/2160 Minimum Sum of Four Digit Number After Splitting Digits/minimumSumOfFourDigitNumberAfterSplittingDigits.js">Solution</a> | 
