@@ -1,4 +1,4 @@
-## Problems Solved - 266
+## Problems Solved - 267
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -90,6 +90,7 @@
 | <a href="/Easy/697 Degree of an Array/">697</a> |  <a href="/Easy/697 Degree of an Array">Degree of an Array</a>| Easy | <a href="/Easy/697 Degree of an Array/degreeOfAnArray.js">Solution</a> | 
 | <a href="/Easy/709 To Lower Case/">709</a> |  <a href="/Easy/709 To Lower Case">To Lower Case</a>| Easy | <a href="/Easy/709 To Lower Case/toLowerCase.js">Solution</a> | 
 | <a href="/Easy/728  Self Dividing Numbers/">728</a> |  <a href="/Easy/728  Self Dividing Numbers">Self Dividing Numbers</a>| Easy | <a href="/Easy/728  Self Dividing Numbers/selfDividingNumbers.js">Solution</a> | 
+| <a href="/Easy/728 Self Dividing Numbers/">728</a> |  <a href="/Easy/728 Self Dividing Numbers">Self Dividing Numbers</a>| Easy | <a href="/Easy/728 Self Dividing Numbers/selfDividingNumbers.js">Solution</a> | 
 | <a href="/Easy/771 Jewels and Stones/">771</a> |  <a href="/Easy/771 Jewels and Stones">Jewels and Stones</a>| Easy | <a href="/Easy/771 Jewels and Stones/jewelsAndStones.js">Solution</a> | 
 | <a href="/Easy/796  Rotate String/">796</a> |  <a href="/Easy/796  Rotate String">Rotate String</a>| Easy | <a href="/Easy/796  Rotate String/rotateString.js">Solution</a> | 
 | <a href="/Easy/804 Unique Morse Code Words/">804</a> |  <a href="/Easy/804 Unique Morse Code Words">Unique Morse Code Words</a>| Easy | <a href="/Easy/804 Unique Morse Code Words/uniqueMorseCodeWords.js">Solution</a> | 
