@@ -1,16 +1,18 @@
 /**
- * @param {number[]} A
+ * @param {number[]} nums
  * @return {number[]}
  */
-var sortArrayByParity = function(A) {
-	var result = [];
-	A.forEach(a => {
-		if (a % 2 === 0) {
-			result.unshift(a);
-		} else {
-			result.push(a);
-		}
-	});
+var sortArrayByParity = function (nums) {
+  let result = [];
 
-	return result;
+  nums.forEach((n) => {
+    if (isEven(n)) {
+      result.unshift(n);
+    } else {
+      result.push(n);
+    }
+  });
+  return result;
 };
+
+const isEven = (n) => n % 2 === 0;

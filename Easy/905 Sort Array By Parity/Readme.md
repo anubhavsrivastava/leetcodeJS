@@ -1,41 +1,46 @@
 ## Problem
 
-Given an array A of non-negative integers, return an array consisting of all the even elements of A, followed by all the odd elements of A.
+Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
 
-You may return any answer array that satisfies this condition.
+Return any array that satisfies this condition.
 
 Example 1:
 
-Input: [3,1,2,4]
-
+Input: nums = [3,1,2,4]
 Output: [2,4,3,1]
+Explanation: The outputs [4,2,3,1], [2,4,1,3], and [4,2,1,3] would also be accepted.
 
-The outputs [4,2,3,1], [2,4,1,3], and [4,2,1,3] would also be accepted.
+Example 2:
 
-Note:
+Input: nums = [0]
+Output: [0]
 
-1 <= A.length <= 5000
-0 <= A[i] <= 5000
+Constraints:
+
+1 <= nums.length <= 5000
+0 <= nums[i] <= 5000
 
 ## Pre analysis
 
-I would use unshift and push prototypal methods available over array to segregate two groups of array.
+will just follow the instruction and insert at the beginning of the array and odd at the end of the array
 
 ## Post analysis
 
-A simple language independent solution could had been simple two arrays of even and odd and returning the concatinated array as result.
+Simple solution, can be done in O(n) time complexity
 
-## Another solution
-
-    var sortArrayByParity = function(A) {
-    var oddArray = [];
-    var finalArray = [];
-    for (var i = 0; i < A.length; i++) {
-        if (A[i] % 2) {
-            oddArray.push(A[i]);
-        } else {
-            finalArray.push(A[i]);
-        }
+```javascript
+var sortArrayByParity = function (nums) {
+  let i = 0;
+  let j = nums.length - 1;
+  while (i < j) {
+    if (nums[i] % 2 > nums[j] % 2) {
+      let temp = nums[i];
+      nums[i] = nums[j];
+      nums[j] = temp;
     }
-    return finalArray.concat(oddArray);
-    };
+    if (nums[i] % 2 === 0) i++;
+    if (nums[j] % 2 === 1) j--;
+  }
+  return nums;
+};
+```
