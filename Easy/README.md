@@ -1,4 +1,4 @@
-## Problems Solved - 226
+## Problems Solved - 227
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -165,6 +165,7 @@
 | <a href="/Easy/2220 Minimum Bit Flips to Convert Number/">2220</a> |  <a href="/Easy/2220 Minimum Bit Flips to Convert Number">Minimum Bit Flips to Convert Number</a>| Easy | <a href="/Easy/2220 Minimum Bit Flips to Convert Number/minimumBitFlipsToConvertNumber.js">Solution</a> | 
 | <a href="/Easy/2236 Root Equals Sum of Children/">2236</a> |  <a href="/Easy/2236 Root Equals Sum of Children">Root Equals Sum of Children</a>| Easy | <a href="/Easy/2236 Root Equals Sum of Children/rootEqualsSumOfChildren.js">Solution</a> | 
 | <a href="/Easy/2239 Find Closest Number to Zero/">2239</a> |  <a href="/Easy/2239 Find Closest Number to Zero">Find Closest Number to Zero</a>| Easy | <a href="/Easy/2239 Find Closest Number to Zero/findClosestNumberToZero.js">Solution</a> | 
+| <a href="/Easy/2278 Percentage of Letter in String/">2278</a> |  <a href="/Easy/2278 Percentage of Letter in String">Percentage of Letter in String</a>| Easy | <a href="/Easy/2278 Percentage of Letter in String/percentageOfLetterInString.js">Solution</a> | 
 | <a href="/Easy/2315 Count Asterisks/">2315</a> |  <a href="/Easy/2315 Count Asterisks">Count Asterisks</a>| Easy | <a href="/Easy/2315 Count Asterisks/countAsterisks.js">Solution</a> | 
 | <a href="/Easy/2325 Decode the Message/">2325</a> |  <a href="/Easy/2325 Decode the Message">Decode the Message</a>| Easy | <a href="/Easy/2325 Decode the Message/decodeTheMessage.js">Solution</a> | 
 | <a href="/Easy/2351 First Letter to Appear Twice/">2351</a> |  <a href="/Easy/2351 First Letter to Appear Twice">First Letter to Appear Twice</a>| Easy | <a href="/Easy/2351 First Letter to Appear Twice/firstLetterToAppearTwice.js">Solution</a> | 
