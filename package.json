@@ -29,6 +29,6 @@
 	},
 	"homepage": "https://github.com/anubhavsrivastava/leetcodeJS#readme",
 	"dependencies": {
-		"husky": "^1.1.4"
+		"husky": "^9.1.6"
 	}
 }
