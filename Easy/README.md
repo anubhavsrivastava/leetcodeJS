@@ -1,4 +1,4 @@
-## Problems Solved - 227
+## Problems Solved - 228
 
 | # | Problem Name | Difficulty | Solution |
 | ---- | ------------ | ---------- | ----------- |  
@@ -140,6 +140,7 @@
 | <a href="/Easy/1688 Count of Matches in Tournament/">1688</a> |  <a href="/Easy/1688 Count of Matches in Tournament">Count of Matches in Tournament</a>| Easy | <a href="/Easy/1688 Count of Matches in Tournament/countOfMatchesInTournament.js">Solution</a> | 
 | <a href="/Easy/1732 Find the Highest Altitude/">1732</a> |  <a href="/Easy/1732 Find the Highest Altitude">Find the Highest Altitude</a>| Easy | <a href="/Easy/1732 Find the Highest Altitude/findTheHighestAltitude.js">Solution</a> | 
 | <a href="/Easy/1748 Sum of Unique Elements/">1748</a> |  <a href="/Easy/1748 Sum of Unique Elements">Sum of Unique Elements</a>| Easy | <a href="/Easy/1748 Sum of Unique Elements/sumOfUniqueElements.js">Solution</a> | 
+| <a href="/Easy/1768 Merge Strings Alternately/">1768</a> |  <a href="/Easy/1768 Merge Strings Alternately">Merge Strings Alternately</a>| Easy | <a href="/Easy/1768 Merge Strings Alternately/mergeStringsAlternately.js">Solution</a> | 
 | <a href="/Easy/1773 Count Items Matching a Rule/">1773</a> |  <a href="/Easy/1773 Count Items Matching a Rule">Count Items Matching a Rule</a>| Easy | <a href="/Easy/1773 Count Items Matching a Rule/countItemsMatchingARule.js">Solution</a> | 
 | <a href="/Easy/1812 Determine Color of a Chessboard Square/">1812</a> |  <a href="/Easy/1812 Determine Color of a Chessboard Square">Determine Color of a Chessboard Square</a>| Easy | <a href="/Easy/1812 Determine Color of a Chessboard Square/determineColorOfAChessboardSquare.js">Solution</a> | 
 | <a href="/Easy/1816 Truncate Sentence/">1816</a> |  <a href="/Easy/1816 Truncate Sentence">Truncate Sentence</a>| Easy | <a href="/Easy/1816 Truncate Sentence/truncateSentence.js">Solution</a> | 
